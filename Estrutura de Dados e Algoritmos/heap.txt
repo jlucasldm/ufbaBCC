@@ -1,0 +1,33 @@
+maxheapfy(vetor a, int i)
+    maior=i
+    se esquerda(i) <= a.tam.heap && a[esquerda(i)] > a[maior]
+        maior = esquerda(i)
+    se direita(i) <= a.tam.heap && a[direita(i)] > a[maior]
+        maior = direita(i)
+    se i!=maior
+        troca a[i] c/ a[maior]
+        maxheapfy(a, maior)
+
+
+maxheapfydario(vetor a, int i, int d)
+    maior = i
+    para k=1 até d
+        se filho(k,i)<=a.tam.heap e a[filho(k,i)]>a[maior]
+            maior=filho(k,i)
+    se maior != i
+        trocar a[i] c/ a[maior]
+        maxheapfydario(a, maior, d)
+
+
+constroiheap(vetor a)
+    a.tam.heap=a.tam
+    para i=piso(a.tam/2) até 1 faça
+        maxheapfy(a,i)
+
+
+heapsort(vetor a)
+    constroiheap(a)
+    para i=a.tam até 1
+        troca a[1] c/ a[i]
+        a.tam.heap--
+        maxheapfy(a,1)
