@@ -1,0 +1,72 @@
+#include<algorithm>
+#include<vector>
+	vector<tipo> nome(tamanho);
+	vetor.size();
+	vetor.begin(); //ponteiro
+	vetor.end(); //ponteiro
+	vetor.erase(x);
+	sort(vetor.begin(), vetor.end(), bool); //ordena a partir do retorno de bool
+	vetor.push_back(x);
+	//ainda posso acessar localidades com vetor[i]
+	cin.ignore(); //ignora blank
+	getline(cin,vetor[i]); //a entrada é uma linha
+
+
+struct riquiMorde
+{
+    string nome;
+    int valor;
+};
+
+bool forca(riquiMorde a, riquiMorde b)
+{
+    return (a.nome < b.nome || (a.nome == b.nome && a.valor > b.valor));
+};
+
+riquiMorde aux;
+vector<riquiMorde> vetor;
+for (int i = 0; i < p; i++)
+    {
+        cin >> aux.nome >> aux.valor;
+        vetor.push_back(aux);
+    }
+
+
+
+#include <queue>
+	queue<tipo> nome;
+	fila.push(x);
+	fila.pop();
+	fila.front();
+	fila.size();
+	fila.empty();
+
+
+#include <stack>
+	stack<tipo> nome;
+	pilha.empty();
+	pilha.push(x);
+	pilha.pop();
+	pilha.top();
+
+
+#include <string>
+	string s;
+	s.size();
+
+
+#include <set>
+	set<tipo> nome;
+	set<tipo>::iterator it;
+	set.insert(x);
+	set.count(x);
+	set.erase(x);
+	set.empty();
+	set.size();
+	set.begin(); //ponteiro
+	set.end(); //ponteiro
+
+
+pair<tipo, tipo> nome;
+cin>>pair.first>>pair.second;
+	
