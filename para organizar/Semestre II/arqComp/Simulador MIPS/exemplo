@@ -1,0 +1,44 @@
+# EXEMPLO DE CHAMADA DE FUNCAO E SALVAMENTO DE DADOS NA PILHA
+# MARCOS BARRETO - 12/09/2019
+.data
+A : .word 10
+B : .word 20 
+msg : .asciiz "Teste - FXXX"
+
+.text
+.globl main
+
+main:
+     la $t0, A  	# carrega endereco de A em $t0
+     la $t1, B		# carrega endereco de B em $t1
+     lw $t0, 0($t0)  	# le valor de A em $t0
+     lw $t1, 0($t1)	# le valor de B em $t1
+     addiu $sp, $sp, -12 # reserva 12 bytes na pilha -> para guardar o conteudo de 3 registradores
+     sw $ra, 0($sp)	# salva $ra na primeira posicao da pilha (byte 0)
+     sw $t0, 4($sp)	# salva $t0 na segunda posicao da pilha (byte 4)
+     sw $t1, 8($sp)	# salva $t1 na terceira posicao da pilha (byte 8)
+     jal SOMA		# chama a funcao SOMA
+     lw $ra, 0($sp)	# recupera valores da pilha
+     lw $t0, 4($sp)
+     lw $t1, 8($sp)
+     addiu $sp, $sp, 12	# restaura espaco na pilha (devolve os 12 bytes usados)
+     j FIM		# salta para fim do programa
+      
+      
+SOMA:
+ addiu $sp, $sp, -4	# reserva 4 bytes na pilha -> para guardar o conteudo de 1 registrador
+ sw $ra, 0($sp)		# salva $ra na primeira posicao da pilha (byte 0)
+ jal FXXX		# chama a funcao FXXX
+ lw $ra, 0($sp) 	# recupera valores da pilha
+ addiu $sp, $sp, 4	# restaura espaco na pilha (devolve os 4 bytes usados)
+ jr $ra			# retorna para a funcao que a chamou -> neste caso, main
+ 
+FXXX:
+  la $a0, msg		# carrega em $a0 o endereço da mensagem a ser impressa
+  li $v0, 4		# serviço 4 - print string
+  syscall		# chamada de sistema para servico PRINT STRING
+  jr $ra		# retorna para a funcao que a chamou -> neste caso, main
+  
+FIM:
+    li $v0, 10		# servico 10 - exit
+    syscall
