@@ -1,0 +1,106 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <omp.h>
+#include <sys/wait.h>
+#include <sys/time.h>
+#include <sys/types.h>
+
+#define linhas_m 20000
+#define colunas_m 100
+#define elementos_v 100
+
+int matriz_A[linhas_m][colunas_m];
+int vetor_x[elementos_v];
+int vetor_b[linhas_m];
+
+
+int geraDados() {
+  int i,j;
+
+  for (i=0; i<linhas_m; i++){
+      for (j=0; j<colunas_m; j++){
+          matriz_A[i][j] = random();
+      }
+  }
+
+  for (i=0; i<elementos_v; i++){
+      vetor_x[i] = i+2;
+  }
+
+  for (i=0; i<linhas_m; i++){
+      vetor_b[i] = 0;
+  }
+  return 0;
+}
+
+
+int matvecSequencial() {
+  int i, j;
+  int matriz_aux[linhas_m][colunas_m];
+  struct timeval tv1, tv2;
+  double t1, t2;
+
+  printf("Executando matvecSequencial...\n");
+  gettimeofday(&tv1, NULL);
+  t1 = (double)(tv1.tv_sec) + (double)(tv1.tv_usec)/ 1000000.00;
+
+  for (j=0; j<colunas_m; j++){
+    for (i=0; i<linhas_m; i++) {
+      matriz_aux[i][j] = matriz_A[i][j] * vetor_x[j];
+    }
+  }
+
+  for (i=0; i<linhas_m; i++){
+        for (j=0; j<colunas_m; j++) {
+            vetor_b[i] += matriz_aux[i][j];
+        }
+    }
+
+    gettimeofday(&tv2, NULL);
+    t2 = (double)(tv2.tv_sec) + (double)(tv2.tv_usec)/ 1000000.00;
+    printf("O tempo de execucao sequencial foi: %lf\n", (t2 - t1));
+
+  return 0;
+}
+
+
+int matvecHost() {
+  int tid;
+  int i, j;
+  int matriz_aux[linhas_m][colunas_m];
+  struct timeval tv1, tv2;
+  double t1, t2;
+
+  printf("Executando matvecHost...\n");
+  for (i=0; i<linhas_m; i++){
+      vetor_b[i] = 0;
+  }
+
+  gettimeofday(&tv1, NULL);
+  t1 = (double)(tv1.tv_sec) + (double)(tv1.tv_usec)/ 1000000.00;
+  omp_set_num_threads(colunas_m);
+
+#pragma omp parallel private(tid,i,j) shared(matriz_A, vetor_b, vetor_x, matriz_aux)
+{
+  tid = omp_get_thread_num();
+  for (i=0; i<linhas_m; i++) {
+    matriz_aux[i][tid] = matriz_A[i][tid] * vetor_x[tid];
+  }
+
+  for (j=0; j<colunas_m; j++) {
+    vetor_b[tid] += matriz_aux[tid][j];
+  }
+}
+gettimeofday(&tv2, NULL);
+t2 = (double)(tv2.tv_sec) + (double)(tv2.tv_usec)/ 1000000.00;
+printf("O tempo de execucao OpenMP foi: %lf\n", (t2 - t1));
+  return 0;
+}
+
+
+int main(int argc, char * argv[]){
+  geraDados();
+  matvecSequencial();
+  matvecHost();
+  return 0;
+}

@@ -1,0 +1,20 @@
+#include <iostream>
+
+	struct dados{
+	int id, mat;
+	string nome;
+	}
+
+int main(){
+
+	dados aluno;
+	aluno.id=30;
+	aluno.mat=20191012;
+	aluno.nome="Teupa Idical Cinha";
+
+	dados alunos[10];
+	alunos[0] = aluno;
+	dados *aux;
+	aux=&alunos[0];
+	aux->id=20;
+}

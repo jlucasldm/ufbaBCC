@@ -1,0 +1,24 @@
+Static schedules
+When the
+parallel for block is entered, it assigns each thread the set of loop iterations it
+is to execute.
+A static schedule can be non-optimal, however. This is the case when the
+different iterations take different amounts of time
+
+
+Dymanic Schedules
+Here, OpenMP assigns one iteration to each thread. When the thread
+finishes, it will be assigned the next iteration that hasn’t been executed yet.
+
+
+Dynamic Schedule Overhead
+Dynamic scheduling is better when the iterations may take very different
+amounts of time.
+After each iteration, the threads must stop and receive a new value of the loop
+variable to use for its next iteration.
+
+
+Guided Schedules
+This scheduling policy is similar to a dynamic schedule, except that the chunk
+size changes as the program runs. It begins with big chunks, but then adjusts
+to smaller chunk sizes if the workload is imbalanced.

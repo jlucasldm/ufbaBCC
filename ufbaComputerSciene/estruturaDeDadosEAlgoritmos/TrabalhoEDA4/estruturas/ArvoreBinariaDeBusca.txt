@@ -1,0 +1,115 @@
+busca(no* x, t_chave k)
+    se x == NULL ou x->chave == k
+        retorna x
+    se x->chave > k
+        retorna busca(x->esq, k)
+    se x->chave < k
+        retorna busca(x->dir, k)
+
+buscait(no* x, t_chave k)
+    enquanto x != NULL && x->chave != k
+        se k < x->chave
+            x = x->esq
+        senão
+            x = x->dir
+    retorna x
+
+inserir(arvore *t, nó *k)
+    y=NULL
+    x=t->raiz
+    enquanto x!=NULL            //atualiza x em função da posição k, para quando x->esq ou x->dir for nulo, e salva x como y, o x->pai
+        y=x
+        se k->chave < x->chave  //coloca k na posição correta
+            x = x->esq
+        se k->chave > x->chave  //coloca k na posição correta
+            x = x->dir
+        se k->chave == x->chave //se já existe k
+            return false
+    k->pai = y                  //k já está na posição, atualiza entao seu pai
+    se y == NULL                //se não tem elementos na arvore
+        t->raiz = k
+        return true
+    senão
+        se y->chave > k->chave  //em função do valor k, posiciona-o como y->esq ou dir
+            y->esq = k
+        se y->chave < k->chave
+            y->dir = k
+    return true
+
+
+pre-order:r-e-d
+in-order:e-r-d
+post-order:e-d-r
+
+
+Preorder(no* no) 
+    se no == NULL 
+        return false
+    imprimir no->chave
+    Preorder(no->esq)
+    Preorder(no->dir)
+
+Inorder(no* no) 
+    se no == NULL 
+        return false 
+    Inorder(no->esq) 
+    imprimir no->chave
+    Inorder(no->dir)
+
+Postorder(no* no) 
+    se no == NULL 
+        return false 
+    Postorder(no->esq);  
+    Postorder(no->dir);  
+    imprimir no->chave 
+
+minimo(no* x)
+    enquanto x->esq != NULL
+        x = x->esq
+    retorna x
+
+máximo(no* x)
+    enquanto x->dir != NULL
+        x = x->dir
+    retorna x
+
+sucessor(no* x)
+    se x->dir != NULL                   //se houver um elemento à direita, retorna o menor valor associado à ele 
+        retorna minimo(x->dir)
+    y=x->pai
+    enquanto y != NULL && y->dir==x     //se houver x->pai e este estiver à sua direita, é ele o sucessor
+        x=y
+        y=x->pai
+    retorna y
+
+predecessor(no* x)
+    se x->esq != NULL
+        retorna maximo(x->esq)
+    y=x->pai
+    enquanto y != NULL && y->esq==x
+        x=y
+        y=x->pai
+    retorna y
+
+transplante(arvore* t, no* z, no* y)
+    se z->pai == NULL                   //se arvore vazia, a raiz é y
+        t->raiz = y
+    senão se z == z->pai->esq           //caso contrario, substitui logo y em z, mudando referencia do pai
+        z->pai->esq = y
+    senão
+        z->pai->dir=y
+    se z->pai != NULL                   //se existe um pai, agora finaliza a mudança                  
+        y->pai = z->pai
+
+remoção(arvore* t, no* z)
+    se z->esq == NULL
+        transplante(t, z, z->dir)
+    se z->dir == NULL
+        transplante(t, z, z->esq)
+    senão
+        y = minimo(z->dir)
+        se y->pai != z
+            transplante(t, y, y->dir)
+            y->dir = z->dir
+            y->dir->pai = y
+        transplante(t, z, y)

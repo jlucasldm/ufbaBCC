@@ -1,0 +1,58 @@
+CASO | TAMANHO_LINHA_MATRIZ X TAMANHO_COLUNA_MATRIZ X TAMANHO_VETOR
+
+
+Caso 10x10x10
+Tempo médio de execução sequencial:0.0000029
+Tempo médio de execução OpenMP:0.0012343
+
+Caso 50x10x10
+Tempo médio de execução sequencial:0.0000098
+Tempo médio de execução OpenMP:0.000652
+
+Caso 50x50x50
+Tempo médio de execução sequencial:0.0000563
+Tempo médio de execução OpenMP:0.0049988
+
+Caso 100x50x50
+Tempo médio de execução sequencial:0.0001071
+Tempo médio de execução OpenMP:0.00368
+
+Caso 100x100x100
+Tempo médio de execução sequencial:0.0000949
+Tempo médio de execução OpenMP:0.0039571
+
+Caso 500x100x100
+Tempo médio de execução sequencial:0.00136
+Tempo médio de execução OpenMP:0.005097
+
+Caso 500x500x500
+Tempo médio de execução sequencial:0.0044714
+Tempo médio de execução OpenMP:0.0183368
+
+Caso 1000x500x500
+Tempo médio de execução sequencial:0.007552
+Tempo médio de execução OpenMP:0.01782796
+
+Caso 1000x1000x1000
+Tempo médio de execução sequencial:0.013594
+Tempo médio de execução OpenMP:0.0376214
+
+Caso 1500x1000x1000
+Tempo médio de execução sequencial:0.0278465
+Tempo médio de execução OpenMP:0.0409545
+
+Caso 10000x100x100
+Tempo médio de execução sequencial:0.0287288
+Tempo médio de execução OpenMP:0.0207148
+
+Caso 15000x100x100
+Tempo médio de execução sequencial:0.0434621
+Tempo médio de execução OpenMP:0.0344984
+
+Caso 15000x150x150
+Tempo médio de execução sequencial:0.0428762
+Tempo médio de execução OpenMP:0.0337392
+
+Caso 20000x100x100
+Tempo médio de execução sequencial:0.06143584
+Tempo médio de execução OpenMP:0.0433042

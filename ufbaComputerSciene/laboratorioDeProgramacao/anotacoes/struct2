@@ -1,0 +1,15 @@
+#include <iostream>
+
+	struct dados{
+	int id, mat;
+	string nome;
+	dados *prox;
+	}
+
+int main(){
+
+	dados aluno1, alunos2, alunos3;
+	aluno1.prox = &aluno2;
+	aluno2.prox = &aluno3;
+	
+}
