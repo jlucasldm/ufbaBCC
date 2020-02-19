@@ -1,0 +1,57 @@
+preordemit(no* x, pilha* p)
+    se x == NULL
+        retorna "vazia"
+    empilha(p, x)
+    enquanto !vazia(p)
+        x = desempilha(p)
+        imprime x->chave
+        se x->dir!=NULL
+            empilha(p, x->dir)
+        se x->esq!=NULL
+            empilha(p, x->esq)
+
+
+inordemit(no* x)
+    se x==NULL
+        retorna vazia
+    pilha p
+    enquanto x!=NULL ou pilha!=vazia
+        enquanto x!=NULL
+            empilha(p,x)
+            x=x->esq
+        x=desempilha()
+        imprime x->chave
+        x=x->dir
+
+
+posordemit(no* raiz, pilha* p)
+    se raiz == NULL
+        retorna "vazia"
+    faça
+        enquanto raiz != NULL
+            se raiz->dir != NULL
+                empilha(p, raiz->dir)
+            empilha(p, raiz)
+            raiz = raiz->esq
+        raiz = desempilha(p)
+        se raiz->dir != NULL e top(p) == raiz->dir
+            desempilha(p)
+            empilha(p, raiz)
+            raiz = raiz->dir
+        senão
+            imprime raiz->chave
+            raiz = NULL
+    enquanto !vazia(p)
+
+
+balanceada(arvore* t)
+    x=t->raiz
+    se x==NULL
+        retorna true
+    left=x->esq->alt
+    right=x->dir->alt
+    se left-right >= 1 ou left-right=-1 e balanceada(x->esq) e balanceada(x->dir)
+        retorna true
+    senão
+        retorna false
+

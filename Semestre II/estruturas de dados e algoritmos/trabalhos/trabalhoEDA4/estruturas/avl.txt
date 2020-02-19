@@ -1,0 +1,102 @@
+altura(no* x)
+    se x == NULL        //se o nó não existe
+        retorna false
+    y = altura(x->dir)  //auxiliar da altura x->dir
+    z = altura(x->esq)  //auxiliar da altura x->esq
+    se y>=z 
+        x->alt = y+1    //altura de x é a altura da sua maior subarvore + 1
+    senão
+        x->alt = z+1
+    retorna x->alt
+
+balanço(no* x)
+    retorna altura(x->esq)-altura(x->dir)   //balanço é a diferença das alturas das subarvores de um nó
+
+altura(no* x)
+    se x == NULL                    //se nó não existe
+        return 0
+    se balanço(x) >= 0              //se balanço for positivo, a maior altura vem da subarvore à esquerda
+        retorna altura(x->esq)+1
+    senão
+        retorna altura(x->dir)+1    //se balanço for negativo, a maior altura vem da subarvore à direita
+
+rotEsq(arvore* t, no* x)
+    y = x->dir                      //os nós a serem modificados serão x e seu elemento à direita
+    x->dir = y->esq                 //x->dir agora aponta para y->esq
+    atualiza-pais(x,y,b)
+    se x = x->pai->esq              //o pai de x agora deve apontar para y
+        x->pai->esq = y
+    senão
+        x->pai->dir = y
+    y->esq = x                      //x agora é filho à esquerda de y
+    x->pai = y
+    atualiza-altura(x)
+    atualiza-altura(y)
+    retorna y
+
+rotDupEsq(arvore* t, no* x)
+    y = x->dir                      //os nós a serem modificados são x e seu filho à direita
+    y = rotDir(t,y)
+    x = rotEsq(t,x)
+
+balanceamento
+    se balanço(x) == -2     //é necessario balancear, a árvore está desbalanceada à direita
+        y = x->dir
+        se balanço(y) == 1  //se suubárvore à direita está no limite do balanceamento, rotDupEsq. Senão, rotEsq
+            rotDupEsq(t,x)
+        senão
+            rotEsq(t,x)
+    se balanço(x) == 2      //é necessario balancear, a arvore esta desbalanceada à esquerda
+        y = x->esq
+        se balanço(y)=-1    //se suubárvore à esquerda está no limite do balanceamento, rotDupDir. Senão, rotDir
+            rotDupDir(t,x)
+        senão
+            rotDir(t,x)
+
+insereAvl(arvore* t, no* x, no* novo)
+    se t->raiz == NULL          //se árvore vazia, só configura *novo como a raiz e partir pro abraço
+        t->raiz = novo
+        novo->altura = 1
+        novo->pai = NULL
+    se novo->chave < x->chave   //localizar *novo na posição correta em função de sua chave
+        se x->esq == NULL       //se não há elementos no local onde *novo ficaria, seguir com a implementação
+            x->esq = novo
+            novo->alt = 1
+            novo->pai = x
+        senão                   //senão, recursiva com x->esq
+            x->esq = insereAvl(t, x->esq, novo)
+    se novo->chave > x->chave   //localizar *novo na posição correta em função de sua chave
+        se x->dir == NULL       //se não há elementos no local onde *novo ficaria, seguir com a implementação
+            x->dir = novo
+            novo->alt=1
+            novo->pai = x
+        senão                   //senão, recursiva com x->dir
+            x->dir = insereAvl(t, x->dir, novo)
+    se modulo(balanço(x)) == 2  //balancear
+        balanceamento(x)
+    retorna x
+
+removeAvl(arvore* t, no* x, t_chave k)
+    se x == NULL                                            //checa a não existencia de x
+        retorna NULL
+    se k < x->chave                                         //se k<x->chave, recursiva com x->esq
+        x->esq = removeAvl(t, x->esq, k)
+    senão
+        se k > x->chave                                     //se k>x->chave, recursiva com x->dir
+            x->dir = removeAvl(t, x->dir, k)
+        senão
+            se x->esq == NULL                               //se não houver elementos à esquerda de x, transplante
+                transplante(t, x, x->dir)
+            senão se x->dir == NULL                         //se não houver elementos à direita de x, transplante
+                transplante(t, x, x->esq)
+            senão                                           //se houver elementos, processo para pegar o sucessor de x->dir, 
+                y = avlMinimo(x->dir)
+                z = copia(x)
+                transplante(t, x, z)
+                x->dir = removeAvl(t, x->dir, y->chave)
+    se x == NULL
+        retorna NULL
+    atualiza-altura(x)
+    se modulo(balanço(x)) == 2
+        balanceamento(x)
+    retorna x
