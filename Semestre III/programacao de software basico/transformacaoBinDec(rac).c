@@ -9,7 +9,7 @@ int main(){
 	
 	scanf("%f", &numero);
 
-	while(numero != 0){
+	while(numero != 0 && i<16){
 		if(numero<1){
 			numero*=2;
 			if(numero<1){
@@ -23,6 +23,7 @@ int main(){
 		j=i;
 	}
 
+	printf("%d\n", j);
 	printf("0.");
 	for(i=0; i<j; i++){
 		printf("%d", vetor[i]);
