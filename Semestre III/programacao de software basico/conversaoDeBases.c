@@ -1,57 +1,69 @@
+//João Lucas Lima de Melo
 #include<stdio.h>
 #include<stdlib.h>
-#include<math.h>
 
+//Função que converte um inteiro "a" em base binária em um número decimal
 int binDec(int a){
-	int dec = 0;	
+	int dec = 0;
+	int pot = 1;	
 	for(int i = 0; a != 0; i++){
 		if(a%10 == 1){
-			dec+=pow(2,i);
+			dec+=pot;
 			a-1;		
 		}
+		pot*=2;
 		a/=10;	
 	}
 	return dec;
-} 							//ok
+}
 
+//Função que converte um inteiro "a" em base octal em um número decimal
 int ocDec(int a){
 	int dec = 0;
+	int pot = 1;
 	int resto;	
 	for(int i = 0; a != 0; i++){
 		resto = a%10;
-		dec+=resto*pow(8, i);
+		dec+=resto*pot;
 		a-resto;
-		a/=10;		
+		a/=10;
+		pot*=8;		
 	}	
 	return dec;
-}							//ok
+}
 
-
+//Função que converte um inteiro "a" em base decimal em um número octal
 int decOc(int a){
 	int dec = 0;
+	int pot = 1;
 	int resto;	
 	for(int i = 0; a != 0; i++){
 		resto = a%8;
 		if(resto!=0){
-			dec+=resto*pow(10, i);
-		}	
+			dec+=resto*pot;
+		}
+		pot*=10;	
 		a=(a-resto)/8;
 	}	
 	return dec;
-}							//ok
+}
 
+//Função que converte um inteiro "a" em base decimal em um número binário
 int decBin(int a){
 	int dec = 0;
+	int pot = 1;
 	int resto;	
 	for(int i = 0; a != 0; i++){
 		resto = a%2;
 		if(resto!=0){
-			dec+=resto*pow(10, i);
-		}	
+			dec+=resto*pot;
+		}
+		pot*=10;	
 		a=(a-resto)/2;
 	}	
 	return dec;
-}							//ok
+}
+
 
 int main(){
 	int base;
@@ -60,30 +72,35 @@ int main(){
 	int octal;
 	int decimal;
 
-	printf("Selecione a base do numero a ser avaliado:\n0::binário\n1::octal\n2::decimal\n3::hexadecimal\n");
+	/*
+	Selecionar a base do numero a ser avaliado
+	0::binário
+	1::octal
+	2::decimal
+	3::hexadecimal
+	*/
+
 	scanf("%d", &base);
 
-	printf("Digite o numero a ser avaliado:\n");
-
 	if(base == 0){
-		scanf("%d", &numero);
+		scanf("%d", &numero);			//entrada do número	binario
 		binario = numero;
-		octal = decOc(binDec(numero));
-		decimal = binDec(numero);
+		octal = decOc(binDec(numero));	//transformação em octal
+		decimal = binDec(numero);		//transformação em decimal
 	}else if(base == 1){
-		scanf("%d", &numero);
-		binario = decBin(ocDec(numero));
+		scanf("%d", &numero);			//entrada do número	octal
+		binario = decBin(ocDec(numero));//transformação em binario
 		octal = numero;
-		decimal = ocDec(numero);
+		decimal = ocDec(numero);		//transformação em decimal
 	}else if(base == 2){
-		scanf("%d", &numero);
-		binario = decBin(numero);
-		octal = decOc(numero);
+		scanf("%d", &numero);			//entrada do número	decimal
+		binario = decBin(numero);		//transformação em binario
+		octal = decOc(numero);			//transformação em octal
 		decimal = numero;
 	}else if(base == 3){
-		scanf("%x", &numero);
-		binario = decBin(numero);
-		octal = decOc(numero);
+		scanf("%x", &numero);			//entrada do número hexadecimal
+		binario = decBin(numero);		//transformação em binario
+		octal = decOc(numero);			//transformação em octal
 		decimal = numero;
 	}
 	
@@ -105,4 +122,5 @@ int main(){
 		printf("decimal::<%d>\n", decimal);
 	}
 	
+	return 0;
 }
