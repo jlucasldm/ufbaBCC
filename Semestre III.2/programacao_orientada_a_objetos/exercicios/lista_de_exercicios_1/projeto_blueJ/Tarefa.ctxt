@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Tarefa
+comment1.params=descricao
+comment1.target=Tarefa(java.lang.String)
+comment1.text=\r\n\ Construtores\r\n
+comment10.params=executor
+comment10.target=void\ setExecutor(java.lang.String)
+comment11.params=status
+comment11.target=void\ setStatus(java.lang.String)
+comment2.params=descricao\ executor
+comment2.target=Tarefa(java.lang.String,\ java.lang.String)
+comment3.params=descricao\ horasGastas\ executor\ status
+comment3.target=Tarefa(java.lang.String,\ float,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDescricao()
+comment5.params=
+comment5.target=float\ getHorasGastas()
+comment6.params=
+comment6.target=java.lang.String\ getExecutor()
+comment7.params=
+comment7.target=java.lang.String\ getStatus()
+comment8.params=descricao
+comment8.target=void\ setDescricao(java.lang.String)
+comment9.params=horasGastas
+comment9.target=void\ setHorasGastas(float)
+numComments=12

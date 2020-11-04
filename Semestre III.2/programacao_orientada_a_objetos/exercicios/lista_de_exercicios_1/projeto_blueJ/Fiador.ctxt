@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Fiador
+comment1.params=nome\ cpf\ rendaMensal
+comment1.target=Fiador(java.lang.String,\ int,\ float)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=cpf
+comment3.target=void\ setCpf(int)
+comment4.params=rendaMensal
+comment4.target=void\ setRendaMensal(float)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=
+comment6.target=int\ getCpf()
+comment7.params=
+comment7.target=float\ getRendaMensal()
+numComments=8

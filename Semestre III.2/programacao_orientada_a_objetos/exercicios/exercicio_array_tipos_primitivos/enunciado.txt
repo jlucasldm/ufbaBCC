@@ -1,0 +1,23 @@
+Construa uma classe em Java capaz de armazenar e gerenciar em um vetor os registros de temperatura de uma determinada localidade. Crie dois construtores: primeiro, um construtor para receber um vetor já criado com os valores das temperaturas já inseridos; segundo, um construtor para receber o tamanho de um vetor a ser criado. A classe deverá possuir métodos
+
+para:
+
+a. adicionar nova temperatura, caso haja espaço no vetor;
+
+b. remover temperatura, caso a temperatura a ser removida esteja no vetor;
+
+c. obter a temperatura máxima;
+
+d. obter a temperatura mínima;
+
+e. obter a amplitude térmica;
+
+f. obter a média das temperaturas;
+
+g. ordenar o vetor crescentemente;
+
+Obs.: Considere que seja possível ter mais de uma temperatura igual no vetor. 
+
+ 
+
+No momento de remoção, escolha retirar a primeira ocorrência da temperatura a ser deletada, caso tenha mais de uma.

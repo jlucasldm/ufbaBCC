@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=nomeProfessor\ departamento\ dataAdmissao\ numeroRegistro
+comment1.target=Professor(java.lang.String,\ Departamento,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ getNomeProfessor()
+comment11.params=
+comment11.target=Departamento\ getDepartamento()
+comment12.params=
+comment12.target=java.lang.String\ getDataAdmissao()
+comment13.params=
+comment13.target=int\ getNumeroRegistro()
+comment14.params=
+comment14.target=void\ exibirConteudo()
+comment2.params=nomeProfessor\ departamento\ numeroRegistro
+comment2.target=Professor(java.lang.String,\ Departamento,\ int)
+comment3.params=nomeProfessor\ siglaDepartamento\ dataAdmissao\ numeroRegistro
+comment3.target=Professor(java.lang.String,\ SiglaDepartamento,\ java.lang.String,\ int)
+comment4.params=nomeProfessor\ siglaDepartamento\ numeroRegistro
+comment4.target=Professor(java.lang.String,\ SiglaDepartamento,\ int)
+comment5.params=nomeProfessor
+comment5.target=void\ setNomeProfessor(java.lang.String)
+comment6.params=siglaDepartamento
+comment6.target=void\ setDepartamento(SiglaDepartamento)
+comment6.text=\r\n\ \ \ \ public\ void\ setDepartamento(String\ departamento)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ this.departamento\ \=\ departamento;\r\n\ \ \ \ }\r\n
+comment7.params=numero
+comment7.target=void\ setDepartamento(int)
+comment8.params=dataAdmissao
+comment8.target=void\ setDataAdmissao(java.lang.String)
+comment9.params=numeroRegistro
+comment9.target=void\ setNumeroRegistro(int)
+numComments=15

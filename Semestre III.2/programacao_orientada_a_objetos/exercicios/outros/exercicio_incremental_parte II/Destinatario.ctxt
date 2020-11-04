@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Destinatario
+comment1.params=nome\ endereco
+comment1.target=Destinatario(java.lang.String,\ java.lang.String)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=endereco
+comment3.target=void\ setEndereco(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=java.lang.String\ getEndereco()
+numComments=6

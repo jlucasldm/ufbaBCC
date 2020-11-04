@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Automovel
+comment1.params=tipoCombustivel\ fabricante\ ano\ modelo
+comment1.target=Automovel(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=tipoCombustivel
+comment2.target=void\ setTipoCombustivel(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTipoCombustivel()
+comment4.params=quilometragem
+comment4.target=float\ combustivelParaViajar(float)
+numComments=5

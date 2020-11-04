@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Departamento
+comment1.params=siglaDepartamento
+comment1.target=Departamento(SiglaDepartamento)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=numero
+comment3.target=void\ setNumero(java.lang.String)
+comment4.params=siglaDepartamento
+comment4.target=void\ setSiglaDepartamento(SiglaDepartamento)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=
+comment6.target=java.lang.String\ getNumero()
+comment7.params=
+comment7.target=SiglaDepartamento\ getSiglaDepartamento()
+numComments=8

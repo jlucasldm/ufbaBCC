@@ -1,0 +1,3 @@
+Esta atividade deve ser realizada no Bluej para não precisar manipular entrada de dados, pois ainda não foi visto na disciplina.
+
+O desafio deve ser realizado com as questões 03 e 04 da lista de exercício desta unidade. Usar a função Enum dentro da classe professor somente.

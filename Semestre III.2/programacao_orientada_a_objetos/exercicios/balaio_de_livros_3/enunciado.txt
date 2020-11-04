@@ -1,0 +1,27 @@
+Agora que alguns objetos já foram identificados no Balaio de Livros, é hora de adicionar mais um e criar ligações entre esses objetos e evoluir os já criados usando os conceitos estudados nas unidades III e IV. Seguem as descrições:
+
+Criar um Enum que assegure que livros não sejam criados com disciplinas inexistentes (como por erro de digitação). As seguintes matérias devem ser permitidas: Português, Matemática, Ciências, História, Geografia, Inglês e Espanhol.
+
+Criar uma classe que armazena as informações de um anúncio.
+
+a. A classe anúncio deve possuir os seguintes dados: um título do anúncio, preço (ou 0, caso seja troca ao invés de venda), e deve possuir também uma forma de indicar se o anúncio está ativo.
+
+b. Além das características citadas, é necessário que um anúncio guarde uma referência ao assinante de balaio ao qual pertence e é preciso que guarde uma coleção de livros junto com seus outros dados.
+
+c. Uma ação que um anuncio deve permitir é um meio de retornar todos os dados do anúncio, incluindo os dados do livro e apenas o nome do assinante que criou o anúncio.
+
+d. É necessário que um anuncio permita informar se é anúncio de troca de livros.
+
+e. É permitido criar um anúncio informando todos os dados de a. e b. supracitados. Além disso, é possível também criar um anúncio sem informar o preço, aceitando, nesse caso, que é um anúncio de troca.
+
+f. Os atributos de anúncio podem ser modificados com métodos assessores padrão. Além disso, uma outra possibilidade ao modificar esses atributos é a inserção de um dado que ativa ou desativa o anúncio. Dessa forma, caso o método seja chamado como um método assessor padrão, ele modificará apenas esse atributo, mas caso o atributo que modifica a ativação do anúncio seja informado também, ambos os atributos informados devem ser modificados.
+
+Os métodos de consulta anteriormente implementados devem agora ser modificados para implementar sobrecarga, isto é, deseja-se invocar a consulta das classes do livro e do assinante do balaio utilizando sobrecarga.
+
+De forma análoga ao ponto 3., é preciso modificar a implementação do construtor da classe Livro para permitir a possibilidade do ano de publicação não ser inserido, agora usando o que aprendemos de sobrecarga.
+
+Um assinante também deve possuir uma lista com todos os seus anúncios.
+
+Todos os atributos de todas as classes devem ter o modificador de acesso private e métodos assessores (getters e setters).
+
+A utilização dos conceitos de Orientação a Objetos tratados nas aulas é o ponto chave da avaliação deste exercício.

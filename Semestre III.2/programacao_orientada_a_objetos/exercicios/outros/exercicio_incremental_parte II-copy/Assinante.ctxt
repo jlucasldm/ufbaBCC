@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Assinante
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Assinante\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=cpf\ nm\ end\ tel
+comment1.target=Assinante(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Assinante\r\n
+comment10.params=assinante
+comment10.target=void\ consultaAssinante(Assinante)
+comment2.params=
+comment2.target=java.lang.String\ getCpf()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=java.lang.String\ getEndereco()
+comment5.params=
+comment5.target=java.lang.String\ getTelefone()
+comment6.params=c
+comment6.target=void\ setCpf(java.lang.String)
+comment7.params=nm
+comment7.target=void\ setNome(java.lang.String)
+comment8.params=end
+comment8.target=void\ setEndereco(java.lang.String)
+comment9.params=tel
+comment9.target=void\ setTelefone(java.lang.String)
+numComments=11

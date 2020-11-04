@@ -1,0 +1,19 @@
+Realizar a segunda etapa do Projeto Incremental conforme explicado abaixo:
+
+A usuária idealizadora do Balaio de livros resolveu contratar a empresa de desenvolvimento de software POO solutions Inc. A empresa tem um arquiteto de Software chamado Bill Jobs.  Bill é um “se achão” e disse que tudo que tinha sido feito até agora estava errado e deu as seguintes orientações para desenvolvimento do software:
+
+ 1) Implementar a classe Livro. A classe tem como atributos titulo, isbn, matéria (ex matemática, ciências, português, etc,) edição, ano( ex :5, 6, 7) e ano de publicação.
+
+a.     É possível instanciar livros sem informar o ano. Neste caso, o ano é o ano anterior ao corrente (2019).
+
+2) Implementar consultas ao livro. Bill disse um livro pode ser consultado informando-se o isbn ou o título. O retorno deve ser um string com todas as informações do livro.
+
+3) Implementar a classe assinante do balaio. Um assinante possui um cpf, nome, endereço e telefone.
+
+a.     O telefone tem um ddd (71, 21, etc)
+
+b.     Quando o ddd não é informado, assume-se 71.
+
+4) Implementar consultas ao assinante informando o nome ou telefone com o ddd ou telefone sem ddd. Neste caso o assumir 71.  Retornar todos os dados do assinante em um único string
+
+5) Implementar todos os métodos assessores das duas classes.

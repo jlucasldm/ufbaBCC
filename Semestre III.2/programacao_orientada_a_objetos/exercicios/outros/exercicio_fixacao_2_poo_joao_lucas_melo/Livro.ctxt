@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=titulo\ isbn\ materia\ edicao\ anoPublicacao
+comment1.target=Livro(java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment2.params=titulo\ isbn\ materia\ edicao\ anoPublicacao\ ano
+comment2.target=Livro(java.lang.String,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ informacoesLivro()
+numComments=4

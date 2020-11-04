@@ -1,0 +1,3 @@
+ Para o exercício do Desafio Enum Professor da unidade passada faça a seguinte modificação:
+
+ Crie uma Classe Departamento com nome, numero sigla de forma que um professor esteja alocado em um único departamento. Implemente a sigla de departamento com uma classe independente, ou seja, uma terceira classe. Implemente a funcionalidade mudar de departamento. Nesta, o usuário pode entrar com a sigla do departamento ou o número.
