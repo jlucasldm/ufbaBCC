@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aplicacao
+comment1.params=
+comment1.target=void\ cadastrarAnuncio()
+comment2.params=
+comment2.target=void\ removerAnuncio()
+comment3.params=
+comment3.target=void\ showAnuncios()
+comment4.params=ehTroca
+comment4.target=void\ showAnuncios(boolean)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

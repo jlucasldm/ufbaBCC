@@ -1,0 +1,13 @@
+Crie uma aplicação em Java para o exercício das classes Atendente e Aluno que está no slide da 
+
+Aula de Campos e Métodos Estáticos (Veja também abaixo no final desta msg)
+
+A aplicação deve oferecer um menu com as seguintes opções: 1. Cadastrar Atendente,
+
+2. Matricular Aluno, 3. Listar Alunos Matriculados e 4. Continuar (S/N)? Caso o aluno que deseja se matricular não tenha o atendente correspondente, retornar msg “Aguarde seu atendente chegar”.
+
+=====================
+
+¢Durante o período de matrícula de uma faculdade, é disponibilizado um atendente para cada curso de maneira que os alunos efetuam sua matrícula junto ao atendente de seu curso. A matrícula do aluno é efetuada indicando o seu nome e o seu curso. Sempre que um aluno é matriculado é gerado um número de matricula para ele. Este número é único independente do curso em que ele estude e deve ser apresentado a ele no ato da matricula.
+¢
+Para o cenário acima, modelar  uma classe para atendente e uma classe para aluno, com os métodos necessários para efetuar a matrícula

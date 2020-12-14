@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AplicacaoFaculdade
+comment1.params=
+comment1.target=void\ criarCursoGraduacao()
+comment2.params=
+comment2.target=void\ criarCursoPosGraduacao()
+comment3.params=
+comment3.target=boolean\ consultarInformacoesCurso()
+comment4.params=
+comment4.target=boolean\ consultarPrecoCurso()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Titulo
+comment1.params=nome\ editora\ preco
+comment1.target=Titulo(java.lang.String,\ java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getEditora()
+comment4.params=
+comment4.target=float\ getPreco()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=editora
+comment6.target=void\ setEditora(java.lang.String)
+comment7.params=preco
+comment7.target=void\ setPreco(float)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=float\ calculaPrecoFinal()
+numComments=10

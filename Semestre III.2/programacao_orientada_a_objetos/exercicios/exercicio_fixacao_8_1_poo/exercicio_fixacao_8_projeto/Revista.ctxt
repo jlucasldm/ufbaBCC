@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Revista
+comment1.params=nome\ editora\ preco\ periodicidade
+comment1.target=Revista(java.lang.String,\ java.lang.String,\ float,\ int)
+comment2.params=
+comment2.target=int\ getPeriodicidade()
+comment3.params=periodicidade
+comment3.target=void\ setPeriodicidade(int)
+comment4.params=revista1\ revista2
+comment4.target=boolean\ mesmaEditora(Revista,\ Revista)
+comment5.params=ehVip
+comment5.target=float\ calculaPrecoFinal(boolean)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=ehVip
+comment7.target=java.lang.String\ emitirNota(boolean)
+numComments=8

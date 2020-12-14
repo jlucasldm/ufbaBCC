@@ -1,0 +1,48 @@
+public class Titulo{
+  private String nome;
+  private int edicao;
+  private int quantidade;
+
+//Construtor
+ public Titulo(String nome, int edicao, int quantidade) {
+        this.nome = nome;
+        this.edicao = edicao;
+        this.quantidade = quantidade;
+    }
+
+    //Getters
+    public String getNome() {
+        return nome;
+    }
+
+    public int getQuantidade() {
+        return quantidade;
+    }
+
+    public int getEdicao() {
+        return edicao;
+    }
+
+    //Setters
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+    public void setEdicao(int edicao) {
+        this.edicao = edicao;
+    }
+
+
+    public void setQuantidade(int quantidade) {
+        this.quantidade = quantidade;
+    }
+
+
+  //Metodos
+
+  public String toString(){
+      return ("Nome: "+this.getNome()
+       + " Edição:"+ this.getEdicao() 
+       + " Quantidade: "+this.getQuantidade);
+  }Mau: Mas aqui vai sair só 1 string?  
+}

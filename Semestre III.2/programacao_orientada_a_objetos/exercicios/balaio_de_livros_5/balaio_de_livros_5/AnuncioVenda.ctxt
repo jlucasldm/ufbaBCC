@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AnuncioVenda
+comment1.params=tituloAnuncio\ ativo\ assinante\ livro\ preco
+comment1.target=AnuncioVenda(java.lang.String,\ boolean,\ Assinante,\ Livro,\ float)
+comment2.params=preco
+comment2.target=void\ setPreco(float)
+comment3.params=
+comment3.target=float\ getPreco()
+comment4.params=preco\ ativo
+comment4.target=void\ setPreco(float,\ boolean)
+comment5.params=
+comment5.target=java.lang.String\ dadosAnuncio()
+comment6.params=
+comment6.target=void\ imprimeDadosAnuncio()
+comment7.params=
+comment7.target=boolean\ ehAnuncioTroca()
+numComments=8

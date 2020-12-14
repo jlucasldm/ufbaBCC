@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=titulo\ anoPublicacao\ veiculoPublicacao\ qtdCopias\ isbn
+comment1.target=Livro(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=isbn
+comment2.target=void\ setIsbn(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getIsbn()
+numComments=4

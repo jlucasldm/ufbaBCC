@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=resumo\ autor\ nome\ editora\ preco
+comment1.target=Livro(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float)
+comment1.text=\r\n\ Construtores\r\n
+comment10.params=ehVip
+comment10.target=java.lang.String\ emitirNota(boolean)
+comment2.params=
+comment2.target=java.lang.String\ getResumo()
+comment2.text=\r\n\ Getters\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAutor()
+comment4.params=
+comment4.target=float\ getIss()
+comment5.params=
+comment5.target=float\ getDesconto()
+comment6.params=resumo
+comment6.target=void\ setResumo(java.lang.String)
+comment6.text=\r\n\ Setters\r\n
+comment7.params=autor
+comment7.target=void\ setAutor(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ Metodos\r\n
+comment9.params=ehVip
+comment9.target=float\ calculaPrecoFinal(boolean)
+numComments=11

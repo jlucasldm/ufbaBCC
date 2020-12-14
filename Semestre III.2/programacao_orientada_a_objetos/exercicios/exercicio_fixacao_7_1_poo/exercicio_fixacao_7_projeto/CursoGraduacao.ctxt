@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CursoGraduacao
+comment1.params=id\ nome\ area\ qtdVagas\ qtdDisciplinasObrigatorias\ qtdDisciplinasOptativas
+comment1.target=CursoGraduacao(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=qtdDisciplinasObrigatorias
+comment2.target=void\ setQtdDisciplinasObrigatorias(int)
+comment3.params=qtdDisciplinasOptativas
+comment3.target=void\ setQtdDisciplinasOptativas(int)
+comment4.params=
+comment4.target=int\ getQtdDisciplinasObrigatorias()
+comment5.params=
+comment5.target=int\ getQtdDisciplinasOptativas()
+comment6.params=
+comment6.target=java.lang.String\ consultaCurso()
+numComments=7

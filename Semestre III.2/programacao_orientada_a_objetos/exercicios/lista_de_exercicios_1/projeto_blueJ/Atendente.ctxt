@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Atendente
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ atendente\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=curso
+comment1.target=Atendente(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCurso()
+comment3.params=
+comment3.target=int\ getControleMatricula()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAlunos()
+comment5.params=curso
+comment5.target=void\ setCurso(java.lang.String)
+comment6.params=controleMatricula
+comment6.target=void\ setControleMatricula(int)
+comment7.params=alunos
+comment7.target=void\ setAlunos(java.util.ArrayList)
+comment8.params=nome
+comment8.target=void\ matriculaAluno(java.lang.String)
+comment9.params=
+comment9.target=void\ incrementaMatricula()
+numComments=10

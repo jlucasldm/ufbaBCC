@@ -1,0 +1,41 @@
+public class Livraria{
+  private String nome;
+  private String cnpj;
+  private Titulo[] titulos;
+  private int qtdTitulos;
+
+  public Livraria(String cnpj, int qtdMaxTitulos){
+    this.cnpj = cnpj;
+    this.titulos = new Titulos[qtdMaxTitulos];
+  }
+
+  public boolean addTitulo(Titulo titulo){
+    if(this.qtdTitulos < this.titulos.length){
+      this.titulos[qtdTitulos] = titulo;
+      this.qtdTitulos++;
+      return true;
+    }else{
+      return false;
+    }
+  }
+
+  public boolean addTitulo(String nome, int edicao, int quantidade){
+    if(this.qtdTitulos < this.titulos.length){
+      Titulo titulo = new Titulo(nome, edicao, quantidade);
+      this.titulos[qtdTitulos] = titulo;
+      this.qtdTitulos++;
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  public void mostraTitulos(){
+    System.out.println("Dados da conta:");
+    System.out.println("Nome: " this.nome);
+    System.out.println("Titulos: ");
+    for(int i=0; i<this.qtdTitulos; i++){
+      System.out.println(this.titulos[i].toString());
+    }
+  }
+}

@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.target=Anuncio
+comment1.params=tituloAnuncio\ ativo\ assinante\ livro
+comment1.target=Anuncio(java.lang.String,\ boolean,\ Assinante,\ Livro)
+comment10.params=tituloAnuncio\ ativo
+comment10.target=void\ setTituloAnuncio(java.lang.String,\ boolean)
+comment10.text=\r\n\ \ \ \ public\ static\ void\ setListaAnuncios(ArrayList<Anuncio>\ lista){\r\n\ \ \ \ \ \ \ \ listaAnuncios\ \=\ lista;\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ static\ ArrayList<Anuncio>\ getListaAnuncios(){\r\n\ \ \ \ \ \ \ \ return\ listaAnuncios;\r\n\ \ \ \ }\r\n
+comment11.params=assinante\ ativo
+comment11.target=void\ setAssinante(Assinante,\ boolean)
+comment12.params=livro\ ativo
+comment12.target=void\ setLivro(Livro,\ boolean)
+comment2.params=tituloAnuncio
+comment2.target=void\ setTituloAnuncio(java.lang.String)
+comment2.text=\r\n\ \ \ \ Gets\ e\ sets\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTituloAnuncio()
+comment4.params=ativo
+comment4.target=void\ setAtivo(boolean)
+comment5.params=
+comment5.target=boolean\ getAtivo()
+comment6.params=assinante
+comment6.target=void\ setAssinante(Assinante)
+comment7.params=
+comment7.target=Assinante\ getAssinante()
+comment8.params=livro
+comment8.target=void\ setLivro(Livro)
+comment9.params=
+comment9.target=Livro\ getLivro()
+numComments=13

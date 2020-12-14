@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CursoPosGraduacao
+comment1.params=id\ nome\ area\ qtdVagas\ cargaHorariaMax
+comment1.target=CursoPosGraduacao(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=cargaHorariaMax
+comment2.target=void\ setCargaHorariaMax(int)
+comment3.params=
+comment3.target=int\ getCargaHorariaMax()
+comment4.params=
+comment4.target=java.lang.String\ consultaCurso()
+numComments=5

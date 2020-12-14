@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LivroDidatico
+comment1.params=nome\ autor\ editora\ resumo\ preco\ area
+comment1.target=LivroDidatico(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getArea()
+comment3.params=area
+comment3.target=void\ setArea(java.lang.String)
+comment4.params=ehVip
+comment4.target=float\ calculaPrecoFinal(boolean)
+comment5.params=ehVip
+comment5.target=java.lang.String\ emitirNota(boolean)
+numComments=6

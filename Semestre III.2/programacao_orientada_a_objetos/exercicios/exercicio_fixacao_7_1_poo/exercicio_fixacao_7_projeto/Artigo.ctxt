@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Artigo
+comment1.params=titulo\ anoPublicacao\ veiculoPublicacao\ qtdCopias\ autores\ resumo
+comment1.target=Artigo(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=autores
+comment2.target=void\ setAutores(java.lang.String)
+comment3.params=resumo
+comment3.target=void\ setResumo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAutores()
+comment5.params=
+comment5.target=java.lang.String\ getResumo()
+numComments=6
