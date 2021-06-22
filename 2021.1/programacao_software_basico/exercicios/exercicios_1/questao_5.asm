@@ -6,6 +6,11 @@ section .text
 global CMAIN
 CMAIN:
     mov ebp, esp; for correct debugging
+
+    ;if(eax >= 5)
+    ;   ebx=1
+    ;else
+    ;   ebx=2
     
     xor eax, eax
     xor ebx, ebx

@@ -12,9 +12,9 @@ CMAIN:
     xor ecx, ecx
     xor edx, edx
     
-    mov eax, 15     ;eax = 15
-    mov ecx, 13     ;ecx = 10
-    mov ebx, 10      ;ebx = 5
+    mov eax, 15d     ;eax = 15
+    mov ecx, 13d     ;ecx = 10
+    mov ebx, 10d     ;ebx = 5
     
     laco:
     sub eax, 1      ;eax--
