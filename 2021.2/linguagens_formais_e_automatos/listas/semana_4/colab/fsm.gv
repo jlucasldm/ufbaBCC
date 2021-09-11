@@ -1,0 +1,32 @@
+digraph finite_state_machine {
+	rankdir=LR size="8,5"
+	node [shape=point]
+	""
+	node [shape=doublecircle]
+	d1r0
+	u1r0
+	node [shape=circle]
+	z1r1
+	d1r1
+	z1r2
+	u1r1
+	z1r0
+	d1r2
+	u1r2
+	"" -> z1r0
+	z1r0 -> z1r1 [label=0]
+	z1r1 -> z1r2 [label=0]
+	z1r2 -> z1r0 [label=0]
+	u1r0 -> u1r1 [label=0]
+	u1r1 -> u1r2 [label=0]
+	u1r2 -> u1r0 [label=0]
+	d1r0 -> d1r1 [label=0]
+	d1r1 -> d1r2 [label=0]
+	d1r2 -> d1r0 [label=0]
+	z1r0 -> u1r1 [label=1]
+	z1r1 -> u1r2 [label=1]
+	z1r2 -> u1r0 [label=1]
+	u1r0 -> d1r1 [label=1]
+	u1r1 -> d1r2 [label=1]
+	u1r2 -> d1r0 [label=1]
+}
