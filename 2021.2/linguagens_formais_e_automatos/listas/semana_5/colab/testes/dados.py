@@ -22,3 +22,5 @@ def caso_testes(caracteres):
 
     #print(testes)
     return testes
+
+print(caso_testes(8))

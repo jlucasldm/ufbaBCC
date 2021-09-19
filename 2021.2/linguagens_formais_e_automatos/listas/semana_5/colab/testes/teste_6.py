@@ -18,6 +18,8 @@ def questao_6(testes):
             else:
                 print(palavra,":\t", False)
 
+            #abc a abc abc
+
 testes = entrada_abc.casos_testes(9)
 questao_6(testes)
 
@@ -33,4 +35,5 @@ def teste_logica(palavra):
     print(palavra)
 
 teste_logica('aabcabcaabca')
+aaa_abc_asbsbaa_abc_basbba abc_asbsbaasbsa
 '''

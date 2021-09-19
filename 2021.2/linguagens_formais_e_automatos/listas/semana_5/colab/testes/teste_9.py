@@ -10,9 +10,9 @@ def questao_8(testes):
 
         if a_count == 0:
             if b_count % 2 == 1:
-                print(palavra,":\t", True)
-            else:
                 print(palavra,":\t", False)
+            else:
+                print(palavra,":\t", True)
         elif b_count == 0:
             if a_count % 2 == 0:
                 print(palavra,":\t", True)
