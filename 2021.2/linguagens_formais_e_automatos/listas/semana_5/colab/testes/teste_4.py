@@ -1,7 +1,6 @@
 import dados
 
 def questao1(testes):
-
     for frase in testes:
         zero_impar = 0
         zero_par = 0

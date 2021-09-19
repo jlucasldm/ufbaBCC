@@ -4,22 +4,25 @@ def questao1(testes):
     palavras_aceitas = []
 
     for palavra in testes:
-        impar = 0
-        par =0
         #print('palavra:\t', palavra)
-
+        flag = True
         if len(palavra) % 2 == 0:
             for i in range(len(palavra)):
-                if i % 2 == 1 and palavra[i] == '1':
-                    par += 1
-            if par % 2 == 0:
+                if i % 2 == 1 and palavra[i] == '0':
+                    flag = False
+                    break
+            if flag:
                 palavras_aceitas.append(palavra)
-        else:
+        elif len(palavra) % 2 == 1:
             for i in range(len(palavra)):
-                if i % 2 == 0 and palavra[i] == '1':
-                    impar += 1
-            if impar % 2 == 1:
+                if i % 2 == 0 and palavra[i] == '0':
+                    flag = False
+                    break
+            if flag:
                 palavras_aceitas.append(palavra)
+
+    # for i in palavras_aceitas:
+    #     print(i)
 
     for frase in testes:
         if frase in palavras_aceitas:
