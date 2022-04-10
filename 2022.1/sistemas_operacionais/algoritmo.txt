@@ -22,7 +22,7 @@ turnaround B = 16
 turnaround C = 18
 turnaround D = 22
 turnaround E = 30
-media = 96/5 = 19,2
+tempo de resposta médio = 96/5 = 19,2 minutos
 
 b)
 tempo de execucao:   2   4   6   8  10
@@ -32,7 +32,7 @@ turnaround D = 6
 turnaround B = 12
 turnaround E = 20
 turnaround A = 30
-media = 70/5 = 14
+tempo de resposta médio = 70/5 = 14 minutos
 
 
 c)
@@ -116,7 +116,7 @@ E
 entrada: 0
 saida: 28
 
-
+tempo de resposta médio = 30+22+6+16+28 / 5 = 20,4 minutos
 
 d)
 tempo de resposta: 0
@@ -197,13 +197,4 @@ entrada: 0
 saida: 26
 
 
-
-d)
-tempo de execucao:   6   8  10   2   4
-processos:         | B | E | A | C | D |
-turnaround B = 6
-turnaround E = 14
-turnaround A = 24
-turnaround C = 26
-turnaround D = 30
-media = 100/5 = 20
+tempo de resposta médio = 30+20+8+18+26 / 5 = 20,4 minutos
