@@ -1,0 +1,104 @@
+1..............
+Realocação:
+Quando um programa é montado, o montador precisa saber o endereço de memória em ele será iniciado. Para que a escrita não ocorra em um local indevido, é preciso que o programa seja realocado.
+
+Partições Fixas:
+Diz respeito a seções de memória onde o tamanho e número de partições são estáticos. Não é atrativo, já que partições fixas tendem a desperdiçar memória uma vez que qualquer espaço não utilizado é perdido. O desperdício ocorre quando um processo de tamanho de tamanho 40K é alocado para uma partição de 50K, é inutilizado 10K de memória (fragmentação interna), ou ainda quando duas partições PL1 com 25K e PL2 com 100K somam 125K de memória livre, mas impedem a execução de um processo de 110K (fragmentação externa).
+
+Partições Variáveis:
+Diz respeito a seções de memória onde o tamanho e número de partições variam. Em função disso, a utilização é otimizada a custo da facilidade de alocação e liberação de memória. O sistema operacional mantêm na memória uma lista com os espaços livres. Em função da dinamicidade desse tipo de partição, a medida que os processos são executados, são deixados vácuos de espaços livres na memória, dificultando a alocação de um novo processo (fragmentação externa).
+
+Fragmentação Interna:
+Diz respeito a seções de memória desperdiçadas dentro da área alocada para um processo. Por exemplo, quando um processo de tamanho de tamanho 40K é alocado para uma partição de 50K, é inutilizado 10K de memória.
+
+Fragmentação Externa:
+Diz respeito a seções de memória desperdiçadas fora da área alocada para um processo. Por exemplo, quando existem duas partições PL1 com 25K e PL2 com 100K, somando 125K de memória livre. Apesar do espaço disponível, seria impossível a execução de um processo de 110K.
+
+Endereço Lógico ou Virtual:
+Quando não há espaço na memória principal para alocação de novos processos, estes são segmentados em menores porções chamadas overlays. O sistema operacional realiza então o chaveamento dos overlays entre a memória principal e a memória secundária, seja esta física ou virtual. O endereço virtual se refere ao endereço em memória virtual que um processo gera. No momento da execução de uma instrução, o endereço virtual é traduzido para um endereço real.
+
+Endereço Físico ou Real:
+Quando não há espaço na memória principal para alocação de novos processos, estes são segmentados em menores porções chamadas overlays. O sistema operacional realiza então o chaveamento dos overlays entre a memória principal e a memória secundária, seja esta física ou virtual. O endereço real se refere ao endereço em memória física de um processo que é aceito pela memória principal.
+
+Page-in:
+Processo de carregamento de página da memória secundária para a memória principal.
+
+Page-out:
+Processo de remoção de página da memória principal para a memória secundária.
+
+Falta de Página:
+Referente a falha na busca de uma página para alocação em memória principal. O processo é suspenso e seu descritor é inserido em uma fila dos processos a espera de uma página virtual. É necessário alocar em disco uma página real livre e corrigir a tabela de páginas de processo, indicando que a página virtual está válida e está na página real alocada.
+
+Alocação por Bitmap:
+Divisão da memória por unidades de alocação em kbytes. Cada unidade corresponde a um bit, onde 0 sinaliza o espaço livre e 1 ocupado. O tamanho do bitmap, mapeamento dos bits ocupados e disponíveis, depende do tamanho da unidade e tamanho da memória.
+
+Alocação por Listas Encadeadas:
+É utilizada uma lista encadeada onde cada nó sinaliza a ocupação do espaço por um processo, o início do espaço de memória onde o processo está alocado e o tamanho do processo/espaço. É possível utilizar uma lista exclusiva para espaços vazios, cheios, ou ambos. Esse processo não impede fragmentação, aumenta a complexidade de gerência de memória, já que deve ser gerenciada a lista encadeada, mas otimiza o desempenho.
+
+
+
+2............
+A alocação de dados e processos na memória principal pode resultar em seções de memória inutilizadas e desperdiçadas. À perda de espaço de memória é dado o nome de fragmentação. 
+
+A fragmentação interna consiste no desperdício dentro da área alocada do processo (por exemplo, quando um processo de tamanho de tamanho 40K é alocado para uma partição de 50K, é inutilizado 10K de memória), enquanto a externa é desperdiçada área fora da área alocada do processo (por exemplo, quando existem duas partições PL1 com 25K e PL2 com 100K, somando 125K de memória livre. Apesar do espaço disponível, seria impossível a execução de um processo de 110K).
+
+Quando não há espaço suficiente para alocação de um processo na memória principal, o processo pode ser divididos em espaços menores, overlays, e chaveados pelo SO entre a memória principal e a memória virtual. Nesse processo, o espaço da da memória principal e memória secundária são organizadas em páginas (unidades básicas para transferência de informação, seções de memória), havendo, portanto, a ocorrência de fragmentação interna. 
+
+A fragmentação pode ser gerenciada pelo uso de páginas por um processo. Definir uma quantidade fixa de páginas para um processo pode causar desperdício de memória principal, apesar de ser um processo mais simples. Um processo de 110K ter acesso a 8 páginas de 20K gera uma fragmentação interna, em que 50K seriam desperdiçados. É possível, no entanto, atribuir dinamicamente o número máximo de páginas a um processo, evitando desperdício de memória a custo do constante monitoramento.
+
+
+
+3..........
+1. Seções de memória disponíveis: 6KB, 15KB, 12KB
+Espaços solicitados: 10KB, 2KB, 5KB, 14KB
+
+First-fit:
+~10KB alocado na seção de 15KB
+Seções de memória disponíveis: 6KB, 5KB, 12KB
+~2KB alocado na seção de 6KB
+Seções de memória disponíveis: 4KB, 5KB, 12KB
+~5KB alocado na seção de 5KB
+Seções de memória disponíveis: 4KB, 12KB
+~Não é possível alocar 14KB
+
+Best-fit:
+~10KB alocado na seção de 12KB
+Seções de memória disponíveis: 6KB, 15KB, 2KB
+~2KB alocado na seção de 2KB
+Seções de memória disponíveis: 6KB, 15KB
+~5KB alocado na seção de 6KB
+Seções de memória disponíveis: 1KB, 15KB
+~14KB alocado na seção de 15KB
+Seções de memória disponíveis: 1KB
+
+Worst-Fit:
+~10KB alocado na seção de 15KB
+Seções de memória disponíveis: 6KB, 5KB, 12KB
+~2KB alocado na seção de 12KB
+Seções de memória disponíveis: 6KB, 5KB, 10KB
+~5KB alocado na seção de 10KB
+Seções de memória disponíveis: 6KB, 5KB, 5KB
+~Não é possível alocar 14KB
+
+Next-fit:
+~10KB alocado na seção de 15KB
+Seções de memória disponíveis: 6KB, 5KB, 12KB
+~2KB alocado na seção de 12KB
+Seções de memória disponíveis: 6KB, 5KB, 10KB
+~5KB alocado na seção de 6KB
+Seções de memória disponíveis: 1KB, 5KB, 10KB
+~Não é possível alocar 14KB
+
+De acordo com a alocação realizada é possível fazer algumas observações. Best-fit tende a otimizar o processo de alocação, apesar de deixar seções muito pequenas de memórias inutilizadas. Worst-fit tende a espalhar processos e equalizar os espaços de memória disponíveis, o que pode ser um problema para alocação de processos que exijam grandes porções de memória. First-fit tende a ser um meio termo entre Best-fit e Worst-fit, ainda espalhando processos na memória e tentando alocá-los em seções condizentes com seus tamanhos, deixando ainda espaços vazios no final da memória. Next-fit possue praticamente a mesma abordagem de First-fit, alcançando quase os mesmos resultados, porém focado no espalhamento de processos na memória um vez que sempre busca o próximo espaço disponível.
+
+É possível perceber a tendência e comportamento desses algoritmos quando aplicados a outros cenários de alocação de memória. É possível, portanto, generalizar as observações constatadas.
+
+
+2. Na otimização do tempo de alocação de um processo, Next-fit se destaca como um processo consistente uma vez que está sempre tentando alocar o processo na próxima seção de memória disponível assim como First-fit, que, assim como o algoritmo anterior, busca o próximo espaço de memória disponível mas retornando ao início do segmento para cada busca realizada. Best-fit e Worst-fit possuem o mesmo propósito, a busca por um segmento de memória condizente com o seu propósito (ou mais próximo do tamanho do processo ou o maior espaço disponível). Não são boas opções de agilidade na alocação.
+
+Quanto a evitar a fragmentação de memória, Best-fit, alocando os processos em seções de memória de tamanho mais aproximado da necessidade do processo, tende a evitar a fragmentação da memória. Os demais processos não possuem boa gerência de fragmentação, apesar do Worst-fit equalizar o tamanho dos espaços de memória não utilizados.
+
+
+
+4............
+A multiprogramação diz respeito a execução de múltiplos processos pela CPU. Durante suas execuções, existe a necessidade de proteger os processos uns dos outros, evitar acessos a locais indevidos e otimizar o uso de espaços em memória principal através do gerenciamento de memória. Para manter a integridade dos processos e otimização do uso da memória, se faz necessário o uso de partições, fixas ou variáveis, alocação dinâmica de processos na memória por bitmaps ou listas encadeadas, uso de memória secundária pelo uso de páginas, realocação de processos e gerenciamento de fragmentação.

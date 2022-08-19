@@ -1,0 +1,693 @@
+0 : Inicializando SOsim ...
+7 : SOsim pronto
+29 : Processo 4035590 alocacao de blocos no pagefile
+29 : Processo 4035590 HwPF - Executável0
+29 : Processo 4035590 HwPF - Executável1
+29 : Processo 4035590 HwPF - Executável2
+29 : Processo 4035590 HwPF - Executável3
+29 : Processo 4035590 HwPF - Executável4
+29 : Processo 4035590 criado
+30 : Processo 4035590 Pronto -> Exec
+31 : Processo 4035590 Exec -> Pronto por tempo
+32 : Processo 4035590 Pronto -> Exec
+33 : Processo 4035590 Exec -> Pronto por tempo
+33 : Processo 4040093 alocacao de blocos no pagefile
+33 : Processo 4040093 HwPF - Executável0
+33 : Processo 4040093 HwPF - Executável1
+33 : Processo 4040093 HwPF - Executável2
+33 : Processo 4040093 HwPF - Executável3
+33 : Processo 4040093 HwPF - Executável4
+33 : Processo 4040093 criado
+34 : Processo 4035590 Pronto -> Exec
+35 : Processo 4035590 Exec -> Pronto por tempo
+36 : Processo 4040093 Pronto -> Exec
+37 : Processo 4040093 Exec -> Pronto por tempo
+38 : Processo 4035590 Pronto -> Exec
+39 : Processo 4035590 Exec -> Pronto por tempo
+40 : Processo 4040093 Pronto -> Exec
+41 : Processo 4040093 Exec -> Pronto por tempo
+42 : Processo 4035590 Pronto -> Exec
+43 : Processo 4035590 Exec -> Pronto por tempo
+44 : Processo 4040093 Pronto -> Exec
+45 : Processo 4040093 Exec -> Pronto por tempo
+46 : Processo 4035590 Pronto -> Exec
+47 : Processo 4035590 Exec -> Pronto por tempo
+48 : Processo 4040093 Pronto -> Exec
+49 : Processo 4040093 Exec -> Pronto por tempo
+50 : Processo 4035590 Pronto -> Exec
+51 : Processo 4035590 Exec -> Pronto por tempo
+52 : Processo 4040093 Pronto -> Exec
+53 : Processo 4040093 Exec -> Pronto por tempo
+54 : Processo 4035590 Pronto -> Exec
+55 : Processo 4035590 Exec -> Pronto por tempo
+56 : Processo 4040093 Pronto -> Exec
+57 : Processo 4040093 Exec -> Pronto por tempo
+58 : Processo 4035590 Pronto -> Exec
+59 : Processo 4035590 Exec -> Pronto por tempo
+60 : Processo 4040093 Pronto -> Exec
+61 : Processo 4040093 Exec -> Pronto por tempo
+62 : Processo 4035590 Pronto -> Exec
+63 : Processo 4035590 Exec -> Pronto por tempo
+64 : Processo 4040093 Pronto -> Exec
+65 : Processo 4040093 Exec -> Pronto por tempo
+66 : Processo 4035590 Pronto -> Exec
+67 : Processo 4035590 Exec -> Pronto por tempo
+68 : Processo 4040093 Pronto -> Exec
+69 : Processo 4040093 Exec -> Pronto por tempo
+70 : Processo 4035590 Pronto -> Exec
+71 : Processo 4035590 Exec -> Pronto por tempo
+72 : Processo 4040093 Pronto -> Exec
+73 : Processo 4040093 Exec -> Pronto por tempo
+74 : Processo 4035590 Pronto -> Exec
+75 : Processo 4035590 Exec -> Pronto por tempo
+76 : Processo 4040093 Pronto -> Exec
+77 : Processo 4040093 Exec -> Pronto por tempo
+78 : Processo 4035590 Pronto -> Exec
+79 : Processo 4035590 Exec -> Pronto por tempo
+80 : Processo 4040093 Pronto -> Exec
+81 : Processo 4040093 Exec -> Pronto por tempo
+82 : Processo 4035590 Pronto -> Exec
+83 : Processo 4035590 Exec -> Pronto por tempo
+84 : Processo 4040093 Pronto -> Exec
+85 : Processo 4040093 Exec -> Pronto por tempo
+86 : Processo 4035590 Pronto -> Exec
+87 : Processo 4035590 Exec -> Pronto por tempo
+88 : Processo 4040093 Pronto -> Exec
+89 : Processo 4040093 Exec -> Pronto por tempo
+90 : Processo 4035590 Pronto -> Exec
+91 : Processo 4035590 Exec -> Pronto por tempo
+92 : Processo 4040093 Pronto -> Exec
+93 : Processo 4040093 Exec -> Pronto por tempo
+94 : Processo 4035590 Pronto -> Exec
+95 : Processo 4035590 Exec -> Pronto por tempo
+96 : Processo 4040093 Pronto -> Exec
+97 : Processo 4040093 Exec -> Pronto por tempo
+98 : Processo 4035590 Pronto -> Exec
+99 : Processo 4035590 Exec -> Pronto por tempo
+100 : Processo 4040093 Pronto -> Exec
+101 : Processo 4040093 Exec -> Pronto por tempo
+102 : Processo 4035590 Pronto -> Exec
+103 : Processo 4035590 Exec -> Pronto por tempo
+104 : Processo 4040093 Pronto -> Exec
+105 : Processo 4040093 Exec -> Pronto por tempo
+106 : Processo 4035590 Pronto -> Exec
+107 : Processo 4035590 Exec -> Pronto por tempo
+108 : Processo 4040093 Pronto -> Exec
+109 : Processo 4040093 Exec -> Pronto por tempo
+110 : Processo 4035590 Pronto -> Exec
+111 : Processo 4035590 Exec -> Pronto por tempo
+112 : Processo 4040093 Pronto -> Exec
+113 : Processo 4040093 Exec -> Pronto por tempo
+114 : Processo 4035590 Pronto -> Exec
+115 : Processo 4035590 Exec -> Pronto por tempo
+116 : Processo 4040093 Pronto -> Exec
+117 : Processo 4040093 Exec -> Pronto por tempo
+118 : Processo 4035590 Pronto -> Exec
+119 : Processo 4035590 Exec -> Pronto por tempo
+120 : Processo 4040093 Pronto -> Exec
+121 : Processo 4040093 Exec -> Pronto por tempo
+122 : Processo 4035590 Pronto -> Exec
+123 : Processo 4035590 Exec -> Pronto por tempo
+124 : Processo 4040093 Pronto -> Exec
+125 : Processo 4040093 Exec -> Pronto por tempo
+126 : Processo 4035590 Pronto -> Exec
+127 : Processo 4035590 Exec -> Pronto por tempo
+128 : Processo 4040093 Pronto -> Exec
+129 : Processo 4040093 Exec -> Pronto por tempo
+130 : Processo 4035590 Pronto -> Exec
+131 : Processo 4035590 Exec -> Pronto por tempo
+132 : Processo 4040093 Pronto -> Exec
+133 : Processo 4040093 Exec -> Pronto por tempo
+134 : Processo 4035590 Pronto -> Exec
+135 : Processo 4035590 Exec -> Pronto por tempo
+136 : Processo 4040093 Pronto -> Exec
+137 : Processo 4040093 Exec -> Pronto por tempo
+138 : Processo 4035590 Pronto -> Exec
+139 : Processo 4035590 Exec -> Pronto por tempo
+140 : Processo 4040093 Pronto -> Exec
+141 : Processo 4040093 Exec -> Pronto por tempo
+142 : Processo 4035590 Pronto -> Exec
+143 : Processo 4035590 Exec -> Pronto por tempo
+144 : Processo 4040093 Pronto -> Exec
+145 : Processo 4040093 Exec -> Pronto por tempo
+146 : Processo 4035590 Pronto -> Exec
+147 : Processo 4035590 Exec -> Pronto por tempo
+148 : Processo 4040093 Pronto -> Exec
+149 : Processo 4040093 Exec -> Pronto por tempo
+150 : Processo 4035590 Pronto -> Exec
+151 : Processo 4035590 Exec -> Pronto por tempo
+152 : Processo 4040093 Pronto -> Exec
+153 : Processo 4040093 Exec -> Pronto por tempo
+154 : Processo 4035590 Pronto -> Exec
+155 : Processo 4035590 Exec -> Pronto por tempo
+156 : Processo 4040093 Pronto -> Exec
+157 : Processo 4040093 Exec -> Pronto por tempo
+158 : Processo 4035590 Pronto -> Exec
+159 : Processo 4035590 Exec -> Pronto por tempo
+160 : Processo 4040093 Pronto -> Exec
+161 : Processo 4040093 Exec -> Pronto por tempo
+162 : Processo 4035590 Pronto -> Exec
+163 : Processo 4035590 Exec -> Pronto por tempo
+164 : Processo 4040093 Pronto -> Exec
+165 : Processo 4040093 Exec -> Pronto por tempo
+166 : Processo 4035590 Pronto -> Exec
+167 : Processo 4035590 Exec -> Pronto por tempo
+168 : Processo 4040093 Pronto -> Exec
+168 : Processo 4040093 Executando -> Suspenso
+169 : Processo 4035590 Pronto -> Exec
+170 : Processo 4035590 Exec -> Pronto por tempo
+171 : Processo 4035590 Pronto -> Exec
+172 : Processo 4035590 Exec -> Pronto por tempo
+173 : Processo 4035590 Pronto -> Exec
+174 : Processo 4035590 Exec -> Pronto por tempo
+175 : Processo 4035590 Pronto -> Exec
+176 : Processo 4035590 Exec -> Pronto por tempo
+177 : Processo 4035590 Pronto -> Exec
+178 : Processo 4035590 Exec -> Pronto por tempo
+179 : Processo 4035590 Pronto -> Exec
+180 : Processo 4035590 Exec -> Pronto por tempo
+181 : Processo 4035590 Pronto -> Exec
+182 : Processo 4035590 Exec -> Pronto por tempo
+183 : Processo 4035590 Pronto -> Exec
+184 : Processo 4035590 Exec -> Pronto por tempo
+185 : Processo 4035590 Pronto -> Exec
+186 : Processo 4035590 Exec -> Pronto por tempo
+187 : Processo 4035590 Pronto -> Exec
+188 : Processo 4035590 Exec -> Pronto por tempo
+189 : Processo 4035590 Pronto -> Exec
+190 : Processo 4035590 Exec -> Pronto por tempo
+191 : Processo 4035590 Pronto -> Exec
+192 : Processo 4035590 Exec -> Pronto por tempo
+193 : Processo 4035590 Pronto -> Exec
+194 : Processo 4035590 Exec -> Pronto por tempo
+195 : Processo 4035590 Pronto -> Exec
+196 : Processo 4035590 Exec -> Pronto por tempo
+197 : Processo 4035590 Pronto -> Exec
+198 : Processo 4035590 Exec -> Pronto por tempo
+199 : Processo 4035590 Pronto -> Exec
+200 : Processo 4035590 Exec -> Pronto por tempo
+201 : Processo 4035590 Pronto -> Exec
+202 : Processo 4035590 Exec -> Pronto por tempo
+203 : Processo 4035590 Pronto -> Exec
+204 : Processo 4035590 Exec -> Pronto por tempo
+205 : Processo 4035590 Pronto -> Exec
+206 : Processo 4035590 Exec -> Pronto por tempo
+207 : Processo 4035590 Pronto -> Exec
+208 : Processo 4035590 Exec -> Pronto por tempo
+209 : Processo 4035590 Pronto -> Exec
+210 : Processo 4035590 Exec -> Pronto por tempo
+211 : Processo 4035590 Pronto -> Exec
+212 : Processo 4035590 Exec -> Pronto por tempo
+213 : Processo 4035590 Pronto -> Exec
+214 : Processo 4035590 Exec -> Pronto por tempo
+215 : Processo 4035590 Pronto -> Exec
+216 : Processo 4035590 Exec -> Pronto por tempo
+217 : Processo 4035590 Pronto -> Exec
+218 : Processo 4035590 Exec -> Pronto por tempo
+219 : Processo 4035590 Pronto -> Exec
+220 : Processo 4035590 Exec -> Pronto por tempo
+221 : Processo 4035590 Pronto -> Exec
+222 : Processo 4035590 Exec -> Pronto por tempo
+223 : Processo 4035590 Pronto -> Exec
+224 : Processo 4035590 Exec -> Pronto por tempo
+225 : Processo 4035590 Pronto -> Exec
+226 : Processo 4035590 Exec -> Pronto por tempo
+227 : Processo 4035590 Pronto -> Exec
+228 : Processo 4035590 Exec -> Pronto por tempo
+229 : Processo 4035590 Pronto -> Exec
+230 : Processo 4035590 Exec -> Pronto por tempo
+231 : Processo 4035590 Pronto -> Exec
+232 : Processo 4035590 Exec -> Pronto por tempo
+233 : Processo 4035590 Pronto -> Exec
+234 : Processo 4035590 Exec -> Pronto por tempo
+235 : Processo 4035590 Pronto -> Exec
+236 : Processo 4035590 Exec -> Pronto por tempo
+237 : Processo 4035590 Pronto -> Exec
+238 : Processo 4035590 Exec -> Pronto por tempo
+239 : Processo 4035590 Pronto -> Exec
+240 : Processo 4035590 Exec -> Pronto por tempo
+241 : Processo 4035590 Pronto -> Exec
+242 : Processo 4035590 Exec -> Pronto por tempo
+243 : Processo 4035590 Pronto -> Exec
+244 : Processo 4035590 Exec -> Pronto por tempo
+245 : Processo 4035590 Pronto -> Exec
+246 : Processo 4035590 Exec -> Pronto por tempo
+247 : Processo 4035590 Pronto -> Exec
+248 : Processo 4035590 Exec -> Pronto por tempo
+249 : Processo 4035590 Pronto -> Exec
+250 : Processo 4035590 Exec -> Pronto por tempo
+251 : Processo 4035590 Pronto -> Exec
+252 : Processo 4035590 Exec -> Pronto por tempo
+253 : Processo 4035590 Pronto -> Exec
+254 : Processo 4035590 Exec -> Pronto por tempo
+255 : Processo 4035590 Pronto -> Exec
+256 : Processo 4035590 Exec -> Pronto por tempo
+257 : Processo 4035590 Pronto -> Exec
+258 : Processo 4035590 Exec -> Pronto por tempo
+259 : Processo 4035590 Pronto -> Exec
+260 : Processo 4035590 Exec -> Pronto por tempo
+261 : Processo 4035590 Pronto -> Exec
+262 : Processo 4035590 Exec -> Pronto por tempo
+263 : Processo 4035590 Pronto -> Exec
+264 : Processo 4035590 Exec -> Pronto por tempo
+265 : Processo 4035590 Pronto -> Exec
+266 : Processo 4035590 Exec -> Pronto por tempo
+267 : Processo 4035590 Pronto -> Exec
+268 : Processo 4035590 Exec -> Pronto por tempo
+269 : Processo 4035590 Pronto -> Exec
+270 : Processo 4035590 Exec -> Pronto por tempo
+271 : Processo 4035590 Pronto -> Exec
+272 : Processo 4035590 Exec -> Pronto por tempo
+273 : Processo 4035590 Pronto -> Exec
+274 : Processo 4035590 Exec -> Pronto por tempo
+275 : Processo 4035590 Pronto -> Exec
+276 : Processo 4035590 Exec -> Pronto por tempo
+277 : Processo 4035590 Pronto -> Exec
+278 : Processo 4035590 Exec -> Pronto por tempo
+279 : Processo 4035590 Pronto -> Exec
+280 : Processo 4035590 Exec -> Pronto por tempo
+281 : Processo 4035590 Pronto -> Exec
+282 : Processo 4035590 Exec -> Pronto por tempo
+283 : Processo 4035590 Pronto -> Exec
+284 : Processo 4035590 Exec -> Pronto por tempo
+285 : Processo 4035590 Pronto -> Exec
+286 : Processo 4035590 Exec -> Pronto por tempo
+287 : Processo 4035590 Pronto -> Exec
+288 : Processo 4035590 Exec -> Pronto por tempo
+289 : Processo 4035590 Pronto -> Exec
+290 : Processo 4035590 Exec -> Pronto por tempo
+291 : Processo 4035590 Pronto -> Exec
+292 : Processo 4035590 Exec -> Pronto por tempo
+293 : Processo 4035590 Pronto -> Exec
+294 : Processo 4035590 Exec -> Pronto por tempo
+295 : Processo 4035590 Pronto -> Exec
+296 : Processo 4035590 Exec -> Pronto por tempo
+297 : Processo 4035590 Pronto -> Exec
+298 : Processo 4035590 Exec -> Pronto por tempo
+299 : Processo 4035590 Pronto -> Exec
+300 : Processo 4035590 Exec -> Pronto por tempo
+301 : Processo 4035590 Pronto -> Exec
+302 : Processo 4035590 Exec -> Pronto por tempo
+303 : Processo 4035590 Pronto -> Exec
+304 : Processo 4035590 Exec -> Pronto por tempo
+305 : Processo 4035590 Pronto -> Exec
+306 : Processo 4035590 Exec -> Pronto por tempo
+307 : Processo 4035590 Pronto -> Exec
+308 : Processo 4035590 Exec -> Pronto por tempo
+309 : Processo 4035590 Pronto -> Exec
+310 : Processo 4035590 Exec -> Pronto por tempo
+311 : Processo 4035590 Pronto -> Exec
+312 : Processo 4035590 Exec -> Pronto por tempo
+313 : Processo 4035590 Pronto -> Exec
+314 : Processo 4035590 Exec -> Pronto por tempo
+315 : Processo 4035590 Pronto -> Exec
+316 : Processo 4035590 Exec -> Pronto por tempo
+317 : Processo 4035590 Pronto -> Exec
+318 : Processo 4035590 Exec -> Pronto por tempo
+319 : Processo 4035590 Pronto -> Exec
+320 : Processo 4035590 Exec -> Pronto por tempo
+321 : Processo 4035590 Pronto -> Exec
+322 : Processo 4035590 Exec -> Pronto por tempo
+323 : Processo 4035590 Pronto -> Exec
+324 : Processo 4035590 Exec -> Pronto por tempo
+325 : Processo 4035590 Pronto -> Exec
+326 : Processo 4035590 Exec -> Pronto por tempo
+327 : Processo 4035590 Pronto -> Exec
+328 : Processo 4035590 Exec -> Pronto por tempo
+329 : Processo 4035590 Pronto -> Exec
+330 : Processo 4035590 Exec -> Pronto por tempo
+331 : Processo 4035590 Pronto -> Exec
+332 : Processo 4035590 Exec -> Pronto por tempo
+333 : Processo 4035590 Pronto -> Exec
+334 : Processo 4035590 Exec -> Pronto por tempo
+335 : Processo 4035590 Pronto -> Exec
+336 : Processo 4035590 Exec -> Pronto por tempo
+337 : Processo 4035590 Pronto -> Exec
+338 : Processo 4035590 Exec -> Pronto por tempo
+339 : Processo 4035590 Pronto -> Exec
+340 : Processo 4035590 Exec -> Pronto por tempo
+341 : Processo 4035590 Pronto -> Exec
+342 : Processo 4035590 Exec -> Pronto por tempo
+343 : Processo 4035590 Pronto -> Exec
+344 : Processo 4035590 Exec -> Pronto por tempo
+345 : Processo 4035590 Pronto -> Exec
+346 : Processo 4035590 Exec -> Pronto por tempo
+347 : Processo 4035590 Pronto -> Exec
+348 : Processo 4035590 Exec -> Pronto por tempo
+349 : Processo 4035590 Pronto -> Exec
+350 : Processo 4035590 Exec -> Pronto por tempo
+351 : Processo 4035590 Pronto -> Exec
+352 : Processo 4035590 Exec -> Pronto por tempo
+353 : Processo 4035590 Pronto -> Exec
+354 : Processo 4035590 Exec -> Pronto por tempo
+355 : Processo 4035590 Pronto -> Exec
+356 : Processo 4035590 Exec -> Pronto por tempo
+357 : Processo 4035590 Pronto -> Exec
+358 : Processo 4035590 Exec -> Pronto por tempo
+359 : Processo 4035590 Pronto -> Exec
+360 : Processo 4035590 Exec -> Pronto por tempo
+361 : Processo 4035590 Pronto -> Exec
+362 : Processo 4035590 Exec -> Pronto por tempo
+363 : Processo 4035590 Pronto -> Exec
+364 : Processo 4035590 Exec -> Pronto por tempo
+365 : Processo 4035590 Pronto -> Exec
+366 : Processo 4035590 Exec -> Pronto por tempo
+367 : Processo 4035590 Pronto -> Exec
+368 : Processo 4035590 Exec -> Pronto por tempo
+369 : Processo 4035590 Pronto -> Exec
+370 : Processo 4035590 Exec -> Pronto por tempo
+371 : Processo 4035590 Pronto -> Exec
+372 : Processo 4035590 Exec -> Pronto por tempo
+373 : Processo 4035590 Pronto -> Exec
+374 : Processo 4035590 Exec -> Pronto por tempo
+375 : Processo 4035590 Pronto -> Exec
+376 : Processo 4035590 Exec -> Pronto por tempo
+377 : Processo 4035590 Pronto -> Exec
+378 : Processo 4035590 Exec -> Pronto por tempo
+379 : Processo 4035590 Pronto -> Exec
+380 : Processo 4035590 Exec -> Pronto por tempo
+381 : Processo 4035590 Pronto -> Exec
+382 : Processo 4035590 Exec -> Pronto por tempo
+383 : Processo 4035590 Pronto -> Exec
+384 : Processo 4035590 Exec -> Pronto por tempo
+385 : Processo 4035590 Pronto -> Exec
+386 : Processo 4035590 Exec -> Pronto por tempo
+387 : Processo 4035590 Pronto -> Exec
+388 : Processo 4035590 Exec -> Pronto por tempo
+389 : Processo 4035590 Pronto -> Exec
+390 : Processo 4035590 Exec -> Pronto por tempo
+391 : Processo 4035590 Pronto -> Exec
+392 : Processo 4035590 Exec -> Pronto por tempo
+393 : Processo 4035590 Pronto -> Exec
+394 : Processo 4035590 Exec -> Pronto por tempo
+395 : Processo 4035590 Pronto -> Exec
+396 : Processo 4035590 Exec -> Pronto por tempo
+397 : Processo 4035590 Pronto -> Exec
+398 : Processo 4035590 Exec -> Pronto por tempo
+399 : Processo 4035590 Pronto -> Exec
+400 : Processo 4035590 Exec -> Pronto por tempo
+401 : Processo 4035590 Pronto -> Exec
+402 : Processo 4035590 Exec -> Pronto por tempo
+403 : Processo 4035590 Pronto -> Exec
+404 : Processo 4035590 Exec -> Pronto por tempo
+405 : Processo 4035590 Pronto -> Exec
+406 : Processo 4035590 Exec -> Pronto por tempo
+407 : Processo 4035590 Pronto -> Exec
+408 : Processo 4035590 Exec -> Pronto por tempo
+409 : Processo 4035590 Pronto -> Exec
+410 : Processo 4035590 Exec -> Pronto por tempo
+411 : Processo 4035590 Pronto -> Exec
+412 : Processo 4035590 Exec -> Pronto por tempo
+413 : Processo 4035590 Pronto -> Exec
+414 : Processo 4035590 Exec -> Pronto por tempo
+415 : Processo 4035590 Pronto -> Exec
+416 : Processo 4035590 Exec -> Pronto por tempo
+417 : Processo 4035590 Pronto -> Exec
+418 : Processo 4035590 Exec -> Pronto por tempo
+419 : Processo 4035590 Pronto -> Exec
+420 : Processo 4035590 Exec -> Pronto por tempo
+421 : Processo 4040093 Pronto -> Exec
+422 : Processo 4040093 Exec -> Pronto por tempo
+423 : Processo 4035590 Pronto -> Exec
+424 : Processo 4035590 Exec -> Pronto por tempo
+425 : Processo 4040093 Pronto -> Exec
+426 : Processo 4040093 Exec -> Pronto por tempo
+427 : Processo 4035590 Pronto -> Exec
+428 : Processo 4035590 Exec -> Pronto por tempo
+429 : Processo 4040093 Pronto -> Exec
+430 : Processo 4040093 Exec -> Pronto por tempo
+431 : Processo 4035590 Pronto -> Exec
+432 : Processo 4035590 Exec -> Pronto por tempo
+433 : Processo 4040093 Pronto -> Exec
+434 : Processo 4040093 Exec -> Pronto por tempo
+435 : Processo 4035590 Pronto -> Exec
+436 : Processo 4035590 Exec -> Pronto por tempo
+437 : Processo 4040093 Pronto -> Exec
+438 : Processo 4040093 Exec -> Pronto por tempo
+439 : Processo 4035590 Pronto -> Exec
+440 : Processo 4035590 Exec -> Pronto por tempo
+441 : Processo 4040093 Pronto -> Exec
+442 : Processo 4040093 Exec -> Pronto por tempo
+443 : Processo 4035590 Pronto -> Exec
+444 : Processo 4035590 Exec -> Pronto por tempo
+445 : Processo 4040093 Pronto -> Exec
+446 : Processo 4040093 Exec -> Pronto por tempo
+447 : Processo 4035590 Pronto -> Exec
+448 : Processo 4035590 Exec -> Pronto por tempo
+449 : Processo 4040093 Pronto -> Exec
+449 : Processo 4040093 Executando -> Suspenso
+450 : Processo 4035590 Pronto -> Exec
+451 : Processo 4035590 Exec -> Pronto por tempo
+452 : Processo 4035590 Pronto -> Exec
+453 : Processo 4035590 Exec -> Pronto por tempo
+454 : Processo 4035590 Pronto -> Exec
+455 : Processo 4035590 Exec -> Pronto por tempo
+456 : Processo 4035590 Pronto -> Exec
+457 : Processo 4035590 Exec -> Pronto por tempo
+458 : Processo 4035590 Pronto -> Exec
+459 : Processo 4035590 Exec -> Pronto por tempo
+460 : Processo 4035590 Pronto -> Exec
+461 : Processo 4035590 Exec -> Pronto por tempo
+462 : Processo 4035590 Pronto -> Exec
+463 : Processo 4035590 Exec -> Pronto por tempo
+464 : Processo 4035590 Pronto -> Exec
+465 : Processo 4035590 Exec -> Pronto por tempo
+466 : Processo 4035590 Pronto -> Exec
+467 : Processo 4035590 Exec -> Pronto por tempo
+468 : Processo 4035590 Pronto -> Exec
+469 : Processo 4035590 Exec -> Pronto por tempo
+470 : Processo 4035590 Pronto -> Exec
+471 : Processo 4035590 Exec -> Pronto por tempo
+472 : Processo 4035590 Pronto -> Exec
+473 : Processo 4035590 Exec -> Pronto por tempo
+474 : Processo 4035590 Pronto -> Exec
+475 : Processo 4035590 Exec -> Pronto por tempo
+476 : Processo 4035590 Pronto -> Exec
+477 : Processo 4035590 Exec -> Pronto por tempo
+478 : Processo 4035590 Pronto -> Exec
+479 : Processo 4035590 Exec -> Pronto por tempo
+480 : Processo 4035590 Pronto -> Exec
+481 : Processo 4035590 Exec -> Pronto por tempo
+482 : Processo 4035590 Pronto -> Exec
+483 : Processo 4035590 Exec -> Pronto por tempo
+484 : Processo 4035590 Pronto -> Exec
+485 : Processo 4035590 Exec -> Pronto por tempo
+486 : Processo 4035590 Pronto -> Exec
+487 : Processo 4035590 Exec -> Pronto por tempo
+488 : Processo 4035590 Pronto -> Exec
+489 : Processo 4035590 Exec -> Pronto por tempo
+490 : Processo 4035590 Pronto -> Exec
+491 : Processo 4035590 Exec -> Pronto por tempo
+492 : Processo 4035590 Pronto -> Exec
+493 : Processo 4035590 Exec -> Pronto por tempo
+494 : Processo 4035590 Pronto -> Exec
+495 : Processo 4035590 Exec -> Pronto por tempo
+496 : Processo 4035590 Pronto -> Exec
+497 : Processo 4035590 Exec -> Pronto por tempo
+498 : Processo 4035590 Pronto -> Exec
+499 : Processo 4035590 Exec -> Pronto por tempo
+500 : Processo 4035590 Pronto -> Exec
+501 : Processo 4035590 Exec -> Pronto por tempo
+502 : Processo 4035590 Pronto -> Exec
+503 : Processo 4035590 Exec -> Pronto por tempo
+504 : Processo 4035590 Pronto -> Exec
+505 : Processo 4035590 Exec -> Pronto por tempo
+506 : Processo 4035590 Pronto -> Exec
+507 : Processo 4035590 Exec -> Pronto por tempo
+508 : Processo 4035590 Pronto -> Exec
+509 : Processo 4035590 Exec -> Pronto por tempo
+510 : Processo 4035590 Pronto -> Exec
+511 : Processo 4035590 Exec -> Pronto por tempo
+512 : Processo 4035590 Pronto -> Exec
+513 : Processo 4035590 Exec -> Pronto por tempo
+514 : Processo 4035590 Pronto -> Exec
+515 : Processo 4035590 Exec -> Pronto por tempo
+516 : Processo 4035590 Pronto -> Exec
+517 : Processo 4035590 Exec -> Pronto por tempo
+518 : Processo 4035590 Pronto -> Exec
+519 : Processo 4035590 Exec -> Pronto por tempo
+520 : Processo 4035590 Pronto -> Exec
+521 : Processo 4035590 Exec -> Pronto por tempo
+522 : Processo 4035590 Pronto -> Exec
+523 : Processo 4035590 Exec -> Pronto por tempo
+524 : Processo 4035590 Pronto -> Exec
+525 : Processo 4035590 Exec -> Pronto por tempo
+526 : Processo 4035590 Pronto -> Exec
+527 : Processo 4035590 Exec -> Pronto por tempo
+528 : Processo 4035590 Pronto -> Exec
+529 : Processo 4035590 Exec -> Pronto por tempo
+530 : Processo 4035590 Pronto -> Exec
+531 : Processo 4035590 Exec -> Pronto por tempo
+532 : Processo 4035590 Pronto -> Exec
+533 : Processo 4035590 Exec -> Pronto por tempo
+534 : Processo 4035590 Pronto -> Exec
+535 : Processo 4035590 Exec -> Pronto por tempo
+536 : Processo 4035590 Pronto -> Exec
+537 : Processo 4035590 Exec -> Pronto por tempo
+538 : Processo 4035590 Pronto -> Exec
+539 : Processo 4035590 Exec -> Pronto por tempo
+540 : Processo 4035590 Pronto -> Exec
+541 : Processo 4035590 Exec -> Pronto por tempo
+542 : Processo 4035590 Pronto -> Exec
+543 : Processo 4035590 Exec -> Pronto por tempo
+544 : Processo 4035590 Pronto -> Exec
+545 : Processo 4035590 Exec -> Pronto por tempo
+546 : Processo 4035590 Pronto -> Exec
+547 : Processo 4035590 Exec -> Pronto por tempo
+548 : Processo 4035590 Pronto -> Exec
+549 : Processo 4035590 Exec -> Pronto por tempo
+550 : Processo 4035590 Pronto -> Exec
+551 : Processo 4035590 Exec -> Pronto por tempo
+552 : Processo 4035590 Pronto -> Exec
+553 : Processo 4035590 Exec -> Pronto por tempo
+554 : Processo 4035590 Pronto -> Exec
+555 : Processo 4035590 Exec -> Pronto por tempo
+556 : Processo 4035590 Pronto -> Exec
+557 : Processo 4035590 Exec -> Pronto por tempo
+558 : Processo 4035590 Pronto -> Exec
+559 : Processo 4035590 Exec -> Pronto por tempo
+560 : Processo 4035590 Pronto -> Exec
+561 : Processo 4035590 Exec -> Pronto por tempo
+562 : Processo 4035590 Pronto -> Exec
+563 : Processo 4035590 Exec -> Pronto por tempo
+564 : Processo 4035590 Pronto -> Exec
+565 : Processo 4035590 Exec -> Pronto por tempo
+566 : Processo 4035590 Pronto -> Exec
+567 : Processo 4035590 Exec -> Pronto por tempo
+568 : Processo 4035590 Pronto -> Exec
+569 : Processo 4035590 Exec -> Pronto por tempo
+570 : Processo 4035590 Pronto -> Exec
+571 : Processo 4035590 Exec -> Pronto por tempo
+572 : Processo 4035590 Pronto -> Exec
+573 : Processo 4035590 Exec -> Pronto por tempo
+574 : Processo 4035590 Pronto -> Exec
+575 : Processo 4035590 Exec -> Pronto por tempo
+576 : Processo 4035590 Pronto -> Exec
+577 : Processo 4035590 Exec -> Pronto por tempo
+578 : Processo 4035590 Pronto -> Exec
+579 : Processo 4035590 Exec -> Pronto por tempo
+580 : Processo 4035590 Pronto -> Exec
+581 : Processo 4035590 Exec -> Pronto por tempo
+582 : Processo 4035590 Pronto -> Exec
+583 : Processo 4035590 Exec -> Pronto por tempo
+584 : Processo 4035590 Pronto -> Exec
+585 : Processo 4035590 Exec -> Pronto por tempo
+586 : Processo 4035590 Pronto -> Exec
+587 : Processo 4035590 Exec -> Pronto por tempo
+588 : Processo 4035590 Pronto -> Exec
+589 : Processo 4035590 Exec -> Pronto por tempo
+590 : Processo 4035590 Pronto -> Exec
+591 : Processo 4035590 Exec -> Pronto por tempo
+592 : Processo 4035590 Pronto -> Exec
+593 : Processo 4035590 Exec -> Pronto por tempo
+594 : Processo 4035590 Pronto -> Exec
+595 : Processo 4035590 Exec -> Pronto por tempo
+596 : Processo 4035590 Pronto -> Exec
+597 : Processo 4035590 Exec -> Pronto por tempo
+598 : Processo 4035590 Pronto -> Exec
+599 : Processo 4035590 Exec -> Pronto por tempo
+600 : Processo 4035590 Pronto -> Exec
+601 : Processo 4035590 Exec -> Pronto por tempo
+602 : Processo 4035590 Pronto -> Exec
+603 : Processo 4035590 Exec -> Pronto por tempo
+604 : Processo 4035590 Pronto -> Exec
+605 : Processo 4035590 Exec -> Pronto por tempo
+606 : Processo 4035590 Pronto -> Exec
+607 : Processo 4035590 Exec -> Pronto por tempo
+608 : Processo 4035590 Pronto -> Exec
+609 : Processo 4035590 Exec -> Pronto por tempo
+610 : Processo 4035590 Pronto -> Exec
+611 : Processo 4035590 Exec -> Pronto por tempo
+612 : Processo 4035590 Pronto -> Exec
+613 : Processo 4035590 Exec -> Pronto por tempo
+614 : Processo 4035590 Pronto -> Exec
+615 : Processo 4035590 Exec -> Pronto por tempo
+616 : Processo 4035590 Pronto -> Exec
+616 : Processo 4035590 Executando -> Suspenso
+626 : Processo 4040093 Pronto -> Exec
+626 : Processo 4040093 eliminado
+626 : Tempo de UCP:41 Tempo decorrido:593
+626 : Processo 4040093 liberando pagefile reservado
+635 : Processo 5048264 alocacao de blocos no pagefile
+635 : Processo 5048264 HwPF - Executável0
+635 : Processo 5048264 HwPF - Executável1
+635 : Processo 5048264 HwPF - Executável2
+635 : Processo 5048264 HwPF - Executável3
+635 : Processo 5048264 HwPF - Executável4
+635 : Processo 5048264 criado
+636 : Processo 5048264 Pronto -> Exec
+637 : Processo 5048264 Exec -> Pronto por tempo
+638 : Processo 5048264 Pronto -> Exec
+639 : Processo 5048264 Exec -> Pronto por tempo
+640 : Processo 5048264 Pronto -> Exec
+641 : Processo 5048264 Exec -> Pronto por tempo
+642 : Processo 5048264 Pronto -> Exec
+643 : Processo 5048264 Exec -> Pronto por tempo
+644 : Processo 5048264 Pronto -> Exec
+645 : Processo 5048264 Exec -> Pronto por tempo
+646 : Processo 5048264 Pronto -> Exec
+647 : Processo 5048264 Exec -> Pronto por tempo
+648 : Processo 5048264 Pronto -> Exec
+649 : Processo 5048264 Exec -> Pronto por tempo
+650 : Processo 5048264 Pronto -> Exec
+651 : Processo 5048264 Exec -> Pronto por tempo
+652 : Processo 5048264 Pronto -> Exec
+653 : Processo 5048264 Exec -> Pronto por tempo
+654 : Processo 5048264 Pronto -> Exec
+655 : Processo 5048264 Exec -> Pronto por tempo
+655 : Processo 5108145 alocacao de blocos no pagefile
+655 : Processo 5108145 HwPF - Executável0
+655 : Processo 5108145 HwPF - Executável1
+655 : Processo 5108145 HwPF - Executável2
+655 : Processo 5108145 HwPF - Executável3
+655 : Processo 5108145 HwPF - Executável4
+655 : Processo 5108145 criado
+656 : Processo 5048264 Pronto -> Exec
+657 : Processo 5048264 Exec -> Pronto por tempo
+658 : Processo 5108145 Pronto -> Exec
+659 : Processo 5108145 Exec -> Pronto por tempo
+660 : Processo 5048264 Pronto -> Exec
+661 : Processo 5048264 Exec -> Pronto por tempo
+662 : Processo 5108145 Pronto -> Exec
+663 : Processo 5108145 Exec -> Pronto por tempo
+664 : Processo 5048264 Pronto -> Exec
+665 : Processo 5048264 Exec -> Pronto por tempo
+666 : Processo 5108145 Pronto -> Exec
+667 : Processo 5108145 Exec -> Pronto por tempo
+668 : Processo 5048264 Pronto -> Exec
+669 : Processo 5048264 Exec -> Pronto por tempo
+670 : Processo 5108145 Pronto -> Exec
+671 : Processo 5108145 Exec -> Pronto por tempo
+672 : Processo 5048264 Pronto -> Exec
+673 : Processo 5048264 Exec -> Pronto por tempo
+674 : Processo 5108145 Pronto -> Exec
+675 : Processo 5108145 Exec -> Pronto por tempo
+676 : Processo 5048264 Pronto -> Exec
+676 : Processo 5048264 eliminado
+676 : Tempo de UCP:16 Tempo decorrido:41
+676 : Processo 5048264 liberando pagefile reservado
+677 : Processo 5108145 Pronto -> Exec
+678 : Processo 5108145 Exec -> Pronto por tempo
+679 : Processo 5108145 Pronto -> Exec
+680 : Processo 5108145 Exec -> Pronto por tempo
+681 : Processo 5108145 Pronto -> Exec
+682 : Processo 5108145 Exec -> Pronto por tempo
+683 : Processo 5108145 Pronto -> Exec
+684 : Processo 5108145 Exec -> Pronto por tempo
+685 : Processo 5108145 Pronto -> Exec
+686 : Processo 5108145 Exec -> Pronto por tempo
+687 : Processo 5108145 Pronto -> Exec
+688 : Processo 5108145 Exec -> Pronto por tempo
+689 : Processo 5108145 Pronto -> Exec
+690 : Processo 5108145 Exec -> Pronto por tempo
+691 : Processo 5108145 Pronto -> Exec
+692 : Processo 5108145 Exec -> Pronto por tempo
+693 : Processo 5108145 Pronto -> Exec
+693 : Processo 5108145 Executando -> Suspenso
+817 : Processo 5351416 alocacao de blocos no pagefile
+817 : Processo 5351416 HwPF - Executável0
+817 : Processo 5351416 HwPF - Executável1
+817 : Processo 5351416 HwPF - Executável2
+817 : Processo 5351416 HwPF - Executável3
+817 : Processo 5351416 HwPF - Executável4
+817 : Processo 5351416 criado

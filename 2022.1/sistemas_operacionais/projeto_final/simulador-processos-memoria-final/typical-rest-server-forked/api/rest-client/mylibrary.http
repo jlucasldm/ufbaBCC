@@ -1,0 +1,53 @@
+
+### Find Books
+
+http://localhost:8089/books?sort=-title,created_at
+
+### Find Books (Pagination)
+
+http://localhost:8089/books?offset=2&limit=2
+
+
+### Find One Book (Invalid ID)
+
+http://localhost:8089/books/0
+
+
+### Insert Book
+
+POST http://localhost:8089/books
+content-type: application/json
+
+{
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling"
+}
+
+### Find One Book
+
+http://localhost:8089/books/6
+
+
+### Update Book
+
+PUT http://localhost:8089/books/6
+content-type: application/json
+
+{
+    "title": "Harry Potter and the Philosopher's Stone (Revision)",
+    "author": "J. K. Rowling"
+}
+
+
+### Patch Book
+
+PATCH http://localhost:8089/books/6
+content-type: application/json
+
+{
+    "title": "Harry Potter and the Philosopher's Stone (Revision2)"
+}
+
+### Delete Book
+
+DELETE http://localhost:8089/books/6

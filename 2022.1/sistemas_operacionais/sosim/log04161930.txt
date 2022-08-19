@@ -1,0 +1,157 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+12 : Processo 3012753 alocacao de blocos no pagefile
+12 : Processo 3012753 HwPF - Executável0
+12 : Processo 3012753 HwPF - Executável1
+12 : Processo 3012753 HwPF - Executável2
+12 : Processo 3012753 HwPF - Executável3
+12 : Processo 3012753 HwPF - Executável4
+12 : Processo 3012753 criado
+13 : Processo 3012753 Pronto -> Exec
+14 : Processo 3012753 Exec -> Pronto por tempo
+15 : Processo 3012753 Pronto -> Exec
+16 : Processo 3012753 Exec -> Pronto por tempo
+16 : Processo 3016798 alocacao de blocos no pagefile
+16 : Processo 3016798 HwPF - Executável0
+16 : Processo 3016798 HwPF - Executável1
+16 : Processo 3016798 HwPF - Executável2
+16 : Processo 3016798 HwPF - Executável3
+16 : Processo 3016798 HwPF - Executável4
+16 : Processo 3016798 criado
+17 : Processo 3012753 Pronto -> Exec
+18 : Processo 3012753 Exec -> Pronto por tempo
+19 : Processo 3016798 Pronto -> Exec
+20 : Processo 3016798 Exec -> Pronto por tempo
+21 : Processo 3012753 Pronto -> Exec
+22 : Processo 3012753 Exec -> Pronto por tempo
+23 : Processo 3016798 Pronto -> Exec
+24 : Processo 3016798 Exec -> Pronto por tempo
+25 : Processo 3012753 Pronto -> Exec
+26 : Processo 3012753 Exec -> Pronto por tempo
+27 : Processo 3016798 Pronto -> Exec
+28 : Processo 3016798 Exec -> Pronto por tempo
+29 : Processo 3012753 Pronto -> Exec
+30 : Processo 3012753 Exec -> Pronto por tempo
+31 : Processo 3016798 Pronto -> Exec
+32 : Processo 3016798 Exec -> Pronto por tempo
+33 : Processo 3012753 Pronto -> Exec
+34 : Processo 3012753 Exec -> Pronto por tempo
+35 : Processo 3016798 Pronto -> Exec
+36 : Processo 3016798 Exec -> Pronto por tempo
+37 : Processo 3012753 Pronto -> Exec
+38 : Processo 3012753 Exec -> Pronto por tempo
+39 : Processo 3016798 Pronto -> Exec
+40 : Processo 3016798 Exec -> Pronto por tempo
+41 : Processo 3012753 Pronto -> Exec
+42 : Processo 3012753 Exec -> Pronto por tempo
+43 : Processo 3016798 Pronto -> Exec
+44 : Processo 3016798 Exec -> Pronto por tempo
+45 : Processo 3012753 Pronto -> Exec
+46 : Processo 3012753 Exec -> Pronto por tempo
+47 : Processo 3016798 Pronto -> Exec
+48 : Processo 3016798 Exec -> Pronto por tempo
+49 : Processo 3012753 Pronto -> Exec
+50 : Processo 3012753 Exec -> Pronto por tempo
+51 : Processo 3016798 Pronto -> Exec
+52 : Processo 3016798 Exec -> Pronto por tempo
+53 : Processo 3012753 Pronto -> Exec
+54 : Processo 3012753 Exec -> Pronto por tempo
+55 : Processo 3016798 Pronto -> Exec
+56 : Processo 3016798 Exec -> Pronto por tempo
+57 : Processo 3012753 Pronto -> Exec
+58 : Processo 3012753 Exec -> Pronto por tempo
+59 : Processo 3016798 Pronto -> Exec
+60 : Processo 3016798 Exec -> Pronto por tempo
+61 : Processo 3012753 Pronto -> Exec
+62 : Processo 3012753 Exec -> Pronto por tempo
+63 : Processo 3016798 Pronto -> Exec
+64 : Processo 3016798 Exec -> Pronto por tempo
+65 : Processo 3012753 Pronto -> Exec
+66 : Processo 3012753 Exec -> Pronto por tempo
+67 : Processo 3016798 Pronto -> Exec
+68 : Processo 3016798 Exec -> Pronto por tempo
+69 : Processo 3012753 Pronto -> Exec
+70 : Processo 3012753 Exec -> Pronto por tempo
+71 : Processo 3016798 Pronto -> Exec
+72 : Processo 3016798 Exec -> Pronto por tempo
+73 : Processo 3012753 Pronto -> Exec
+74 : Processo 3012753 Exec -> Pronto por tempo
+75 : Processo 3016798 Pronto -> Exec
+76 : Processo 3016798 Exec -> Pronto por tempo
+77 : Processo 3012753 Pronto -> Exec
+78 : Processo 3012753 Exec -> Pronto por tempo
+79 : Processo 3016798 Pronto -> Exec
+80 : Processo 3016798 Exec -> Pronto por tempo
+81 : Processo 3012753 Pronto -> Exec
+82 : Processo 3012753 Exec -> Pronto por tempo
+83 : Processo 3016798 Pronto -> Exec
+84 : Processo 3016798 Exec -> Pronto por tempo
+85 : Processo 3012753 Pronto -> Exec
+86 : Processo 3012753 Exec -> Pronto por tempo
+87 : Processo 3016798 Pronto -> Exec
+88 : Processo 3016798 Exec -> Pronto por tempo
+89 : Processo 3012753 Pronto -> Exec
+90 : Processo 3012753 Exec -> Pronto por tempo
+91 : Processo 3016798 Pronto -> Exec
+92 : Processo 3016798 Exec -> Pronto por tempo
+93 : Processo 3012753 Pronto -> Exec
+94 : Processo 3012753 Exec -> Pronto por tempo
+95 : Processo 3016798 Pronto -> Exec
+96 : Processo 3016798 Exec -> Pronto por tempo
+97 : Processo 3012753 Pronto -> Exec
+98 : Processo 3012753 Exec -> Pronto por tempo
+99 : Processo 3016798 Pronto -> Exec
+100 : Processo 3016798 Exec -> Pronto por tempo
+101 : Processo 3012753 Pronto -> Exec
+102 : Processo 3012753 Exec -> Pronto por tempo
+103 : Processo 3016798 Pronto -> Exec
+104 : Processo 3016798 Exec -> Pronto por tempo
+105 : Processo 3012753 Pronto -> Exec
+106 : Processo 3012753 Exec -> Pronto por tempo
+107 : Processo 3016798 Pronto -> Exec
+108 : Processo 3016798 Exec -> Pronto por tempo
+109 : Processo 3012753 Pronto -> Exec
+110 : Processo 3012753 Exec -> Pronto por tempo
+111 : Processo 3016798 Pronto -> Exec
+112 : Processo 3016798 Exec -> Pronto por tempo
+113 : Processo 3012753 Pronto -> Exec
+114 : Processo 3012753 Exec -> Pronto por tempo
+115 : Processo 3016798 Pronto -> Exec
+116 : Processo 3016798 Exec -> Pronto por tempo
+117 : Processo 3012753 Pronto -> Exec
+118 : Processo 3012753 Exec -> Pronto por tempo
+119 : Processo 3016798 Pronto -> Exec
+120 : Processo 3016798 Exec -> Pronto por tempo
+121 : Processo 3012753 Pronto -> Exec
+122 : Processo 3012753 Exec -> Pronto por tempo
+123 : Processo 3016798 Pronto -> Exec
+124 : Processo 3016798 Exec -> Pronto por tempo
+125 : Processo 3012753 Pronto -> Exec
+126 : Processo 3012753 Exec -> Pronto por tempo
+127 : Processo 3016798 Pronto -> Exec
+128 : Processo 3016798 Exec -> Pronto por tempo
+129 : Processo 3012753 Pronto -> Exec
+130 : Processo 3012753 Exec -> Pronto por tempo
+131 : Processo 3016798 Pronto -> Exec
+132 : Processo 3016798 Exec -> Pronto por tempo
+133 : Processo 3012753 Pronto -> Exec
+134 : Processo 3012753 Exec -> Pronto por tempo
+135 : Processo 3016798 Pronto -> Exec
+136 : Processo 3016798 Exec -> Pronto por tempo
+137 : Processo 3012753 Pronto -> Exec
+138 : Processo 3012753 Exec -> Pronto por tempo
+139 : Processo 3016798 Pronto -> Exec
+140 : Processo 3016798 Exec -> Pronto por tempo
+141 : Processo 3012753 Pronto -> Exec
+142 : Processo 3012753 Exec -> Pronto por tempo
+143 : Processo 3016798 Pronto -> Exec
+144 : Processo 3016798 Exec -> Pronto por tempo
+145 : Processo 3012753 Pronto -> Exec
+146 : Processo 3012753 Exec -> Pronto por tempo
+147 : Processo 3016798 Pronto -> Exec
+148 : Processo 3016798 Exec -> Pronto por tempo
+149 : Processo 3012753 Pronto -> Exec
+150 : Processo 3012753 Exec -> Pronto por tempo
+151 : Processo 3016798 Pronto -> Exec
+152 : Processo 3016798 Exec -> Pronto por tempo
+153 : Processo 3012753 Pronto -> Exec

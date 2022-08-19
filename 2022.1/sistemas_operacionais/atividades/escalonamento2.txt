@@ -1,0 +1,101 @@
+Quatro processos, A a D, chegam a uma CPU (na ordem respectivamente) 
+com intervalo entre chegadas de 2 minutos, sendo t0 a primeira chegada. 
+Eles têm tempos de execução estimados em 4, 2, 1 e 3 minutos. 
+O deadline que se segue: 7, 5, 8 e 10. 
+Para cada um dos seguintes algoritmos de escalonamento, determine o 
+tempo médio de resposta. 
+Considera a sobrecarga de chaveamento (salvar&&restaurar contexto apenas) 
+de 1 minuto, considere ainda um quantum de 2 minutos.
+
+processos:  | A | B | C | D |
+chegada:      0   2   4   6
+exec time:    4   2   1   3
+deadline:     7   5   8   10
+
+
+a) Primeiro a chegar, primeiro a ser servido (FIFO)
+tabela (processo X tempo de execução):
+D               * * *
+C             *
+B         * *
+A * * * *
+0 1 2 3 4 5 6 7 8 9 10
+* = executado
+
+turnaround A = 4 - 0 = 4
+turnaround B = 6 - 2 = 4
+turnaround C = 7 - 4 = 3
+turnaround D = 10 - 6 = 4
+turnaround medio = (4+4+3+4)/4 = 15/4 = 3.75 minutos
+
+
+
+b) Processo mais curto primeiro (SJF)
+tabela (processo X tempo de execução):
+D               * * *
+C         *     
+B           * * 
+A * * * *
+0 1 2 3 4 5 6 7 8 9 10
+* = executado
+
+turnaround A = 4 - 0 = 4
+turnaround B = 7 - 2 = 5
+turnaround C = 5 - 4 = 1
+turnaround D = 10 - 6 = 4
+turnaround medio = (4+5+1+4)/4 = 14/4 = 3.5 minutos
+
+
+
+c) Circular (Round Robin)
+tabela (processo X tempo de execução):
+D           |     *  *  X  *
+C       |       *  
+B   |   * *     
+A * * X     * *
+0 1 2 3 4 5 6 7 8 9 10 11 12
+* = executado
+| = chegada (inclusivo)
+
+tempo | fila
+0       A
+2       B A
+4       B A C
+6       A C D
+8       C D 
+9       D
+
+turnaround A = 7 - 0 = 7
+turnaround B = 5 - 2 = 3
+turnaround C = 8 - 4 = 4
+turnaround D = 12 - 6 = 6
+turnaround medio = (7+3+4+6)/4 = 20/4 = 5 minutos
+
+
+
+d) EDF (Earliest Deadline First) – 
+Indique se todos os deadlines são cumpridos, caso contrário 
+aponte quais processos não foram. (Soft)
+tabela (processo X tempo de execução):
+D           |     *  *  X  *              /
+C       |       *             /
+B   |       * * /
+A * * X * *     /
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+* = executado
+| = chegada (inclusivo)
+/ = deadline (exclusivo)
+
+tempo | fila
+0       A
+2       A B 
+4       A B C
+6       B C D 
+8       C D 
+9       D
+
+turnaround A = 5 - 0 = 5
+turnaround B = 7 - 2 = 5
+turnaround C = 8 - 4 = 4
+turnaround D = 12 - 6 = 6
+turnaround medio = (5+5+4+6)/4 = 20/4 = 5 minutos

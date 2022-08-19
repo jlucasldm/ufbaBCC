@@ -1,0 +1,16 @@
+version: "3"
+services:
+  cache:
+    container_name: typical-rest-server-cache
+    image: redis:4.0.5-alpine
+    command: redis-server --requirepass ${CACHE_PASS}
+    volumes:
+    - cache:/data
+    ports:
+    - ${CACHE_PORT}:6379
+    networks:
+    - cache
+networks:
+  cache: null
+volumes:
+  cache: null

@@ -1,0 +1,731 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+10 : Processo 4909553 alocacao de blocos no pagefile
+10 : Processo 4909553 HwPF - Executável0
+10 : Processo 4909553 HwPF - Executável1
+10 : Processo 4909553 HwPF - Executável2
+10 : Processo 4909553 HwPF - Executável3
+10 : Processo 4909553 HwPF - Executável4
+10 : Processo 4909553 criado
+11 : Processo 4909553 Pronto -> Exec
+12 : Processo 4909553 Exec -> Pronto por tempo
+13 : Processo 4909553 Pronto -> Exec
+14 : Processo 4909553 Exec -> Pronto por tempo
+15 : Processo 4909553 Pronto -> Exec
+16 : Processo 4909553 Exec -> Pronto por tempo
+16 : Processo 4915485 alocacao de blocos no pagefile
+16 : Processo 4915485 HwPF - Executável0
+16 : Processo 4915485 HwPF - Executável1
+16 : Processo 4915485 HwPF - Executável2
+16 : Processo 4915485 HwPF - Executável3
+16 : Processo 4915485 HwPF - Executável4
+16 : Processo 4915485 criado
+17 : Processo 4909553 Pronto -> Exec
+18 : Processo 4909553 Exec -> Pronto por tempo
+19 : Processo 4915485 Pronto -> Exec
+19 : Processo 4915485 Exec -> I/O
+20 : Processo 4909553 Pronto -> Exec
+21 : Processo 4909553 Exec -> Pronto por tempo
+22 : Processo 4909553 Pronto -> Exec
+23 : Processo 4909553 Exec -> Pronto por tempo
+24 : Processo 4909553 Pronto -> Exec
+25 : Processo 4909553 Exec -> Pronto por tempo
+26 : Processo 4909553 Pronto -> Exec
+27 : Processo 4909553 Exec -> Pronto por tempo
+28 : Processo 4909553 Pronto -> Exec
+29 : Processo 4909553 Exec -> Pronto por tempo
+30 : Processo 4909553 Pronto -> Exec
+31 : Processo 4909553 Exec -> Pronto por tempo
+32 : Processo 4915485 Pronto -> Exec
+33 : Processo 4915485 Exec -> Pronto por tempo
+34 : Processo 4909553 Pronto -> Exec
+35 : Processo 4909553 Exec -> Pronto por tempo
+36 : Processo 4915485 Pronto -> Exec
+36 : Processo 4915485 Exec -> I/O
+37 : Processo 4909553 Pronto -> Exec
+38 : Processo 4909553 Exec -> Pronto por tempo
+39 : Processo 4909553 Pronto -> Exec
+40 : Processo 4909553 Exec -> Pronto por tempo
+41 : Processo 4909553 Pronto -> Exec
+42 : Processo 4909553 Exec -> Pronto por tempo
+43 : Processo 4909553 Pronto -> Exec
+44 : Processo 4909553 Exec -> Pronto por tempo
+45 : Processo 4909553 Pronto -> Exec
+46 : Processo 4909553 Exec -> Pronto por tempo
+47 : Processo 4909553 Pronto -> Exec
+48 : Processo 4909553 Exec -> Pronto por tempo
+49 : Processo 4915485 Pronto -> Exec
+49 : Processo 4915485 Exec -> I/O
+50 : Processo 4909553 Pronto -> Exec
+51 : Processo 4909553 Exec -> Pronto por tempo
+52 : Processo 4909553 Pronto -> Exec
+53 : Processo 4909553 Exec -> Pronto por tempo
+54 : Processo 4909553 Pronto -> Exec
+55 : Processo 4909553 Exec -> Pronto por tempo
+56 : Processo 4909553 Pronto -> Exec
+57 : Processo 4909553 Exec -> Pronto por tempo
+58 : Processo 4909553 Pronto -> Exec
+59 : Processo 4909553 Exec -> Pronto por tempo
+60 : Processo 4909553 Pronto -> Exec
+61 : Processo 4909553 Exec -> Pronto por tempo
+62 : Processo 4915485 Pronto -> Exec
+62 : Processo 4915485 Exec -> I/O
+63 : Processo 4909553 Pronto -> Exec
+64 : Processo 4909553 Exec -> Pronto por tempo
+65 : Processo 4909553 Pronto -> Exec
+66 : Processo 4909553 Exec -> Pronto por tempo
+67 : Processo 4909553 Pronto -> Exec
+68 : Processo 4909553 Exec -> Pronto por tempo
+69 : Processo 4909553 Pronto -> Exec
+70 : Processo 4909553 Exec -> Pronto por tempo
+71 : Processo 4909553 Pronto -> Exec
+72 : Processo 4909553 Exec -> Pronto por tempo
+73 : Processo 4909553 Pronto -> Exec
+74 : Processo 4909553 Exec -> Pronto por tempo
+75 : Processo 4915485 Pronto -> Exec
+75 : Processo 4915485 Exec -> I/O
+76 : Processo 4909553 Pronto -> Exec
+77 : Processo 4909553 Exec -> Pronto por tempo
+78 : Processo 4909553 Pronto -> Exec
+79 : Processo 4909553 Exec -> Pronto por tempo
+80 : Processo 4909553 Pronto -> Exec
+81 : Processo 4909553 Exec -> Pronto por tempo
+82 : Processo 4909553 Pronto -> Exec
+83 : Processo 4909553 Exec -> Pronto por tempo
+84 : Processo 4909553 Pronto -> Exec
+85 : Processo 4909553 Exec -> Pronto por tempo
+86 : Processo 4909553 Pronto -> Exec
+87 : Processo 4909553 Exec -> Pronto por tempo
+88 : Processo 4915485 Pronto -> Exec
+88 : Processo 4915485 Exec -> I/O
+89 : Processo 4909553 Pronto -> Exec
+90 : Processo 4909553 Exec -> Pronto por tempo
+91 : Processo 4909553 Pronto -> Exec
+92 : Processo 4909553 Exec -> Pronto por tempo
+93 : Processo 4909553 Pronto -> Exec
+94 : Processo 4909553 Exec -> Pronto por tempo
+95 : Processo 4909553 Pronto -> Exec
+96 : Processo 4909553 Exec -> Pronto por tempo
+97 : Processo 4909553 Pronto -> Exec
+98 : Processo 4909553 Exec -> Pronto por tempo
+99 : Processo 4909553 Pronto -> Exec
+100 : Processo 4909553 Exec -> Pronto por tempo
+101 : Processo 4915485 Pronto -> Exec
+101 : Processo 4915485 Exec -> I/O
+102 : Processo 4909553 Pronto -> Exec
+103 : Processo 4909553 Exec -> Pronto por tempo
+104 : Processo 4909553 Pronto -> Exec
+105 : Processo 4909553 Exec -> Pronto por tempo
+106 : Processo 4909553 Pronto -> Exec
+107 : Processo 4909553 Exec -> Pronto por tempo
+108 : Processo 4909553 Pronto -> Exec
+109 : Processo 4909553 Exec -> Pronto por tempo
+110 : Processo 4909553 Pronto -> Exec
+111 : Processo 4909553 Exec -> Pronto por tempo
+112 : Processo 4909553 Pronto -> Exec
+113 : Processo 4909553 Exec -> Pronto por tempo
+114 : Processo 4915485 Pronto -> Exec
+114 : Processo 4915485 Exec -> I/O
+115 : Processo 4909553 Pronto -> Exec
+116 : Processo 4909553 Exec -> Pronto por tempo
+117 : Processo 4909553 Pronto -> Exec
+118 : Processo 4909553 Exec -> Pronto por tempo
+119 : Processo 4909553 Pronto -> Exec
+120 : Processo 4909553 Exec -> Pronto por tempo
+121 : Processo 4909553 Pronto -> Exec
+122 : Processo 4909553 Exec -> Pronto por tempo
+123 : Processo 4909553 Pronto -> Exec
+124 : Processo 4909553 Exec -> Pronto por tempo
+125 : Processo 4909553 Pronto -> Exec
+126 : Processo 4909553 Exec -> Pronto por tempo
+127 : Processo 4915485 Pronto -> Exec
+127 : Processo 4915485 Exec -> I/O
+128 : Processo 4909553 Pronto -> Exec
+129 : Processo 4909553 Exec -> Pronto por tempo
+130 : Processo 4909553 Pronto -> Exec
+131 : Processo 4909553 Exec -> Pronto por tempo
+132 : Processo 4909553 Pronto -> Exec
+133 : Processo 4909553 Exec -> Pronto por tempo
+134 : Processo 4909553 Pronto -> Exec
+135 : Processo 4909553 Exec -> Pronto por tempo
+136 : Processo 4909553 Pronto -> Exec
+137 : Processo 4909553 Exec -> Pronto por tempo
+138 : Processo 4909553 Pronto -> Exec
+139 : Processo 4909553 Exec -> Pronto por tempo
+140 : Processo 4915485 Pronto -> Exec
+140 : Processo 4915485 Exec -> I/O
+141 : Processo 4909553 Pronto -> Exec
+142 : Processo 4909553 Exec -> Pronto por tempo
+143 : Processo 4909553 Pronto -> Exec
+144 : Processo 4909553 Exec -> Pronto por tempo
+145 : Processo 4909553 Pronto -> Exec
+146 : Processo 4909553 Exec -> Pronto por tempo
+147 : Processo 4909553 Pronto -> Exec
+148 : Processo 4909553 Exec -> Pronto por tempo
+149 : Processo 4909553 Pronto -> Exec
+150 : Processo 4909553 Exec -> Pronto por tempo
+151 : Processo 4909553 Pronto -> Exec
+152 : Processo 4909553 Exec -> Pronto por tempo
+153 : Processo 4915485 Pronto -> Exec
+153 : Processo 4915485 Exec -> I/O
+154 : Processo 4909553 Pronto -> Exec
+155 : Processo 4909553 Exec -> Pronto por tempo
+156 : Processo 4909553 Pronto -> Exec
+157 : Processo 4909553 Exec -> Pronto por tempo
+158 : Processo 4909553 Pronto -> Exec
+159 : Processo 4909553 Exec -> Pronto por tempo
+160 : Processo 4909553 Pronto -> Exec
+161 : Processo 4909553 Exec -> Pronto por tempo
+162 : Processo 4909553 Pronto -> Exec
+163 : Processo 4909553 Exec -> Pronto por tempo
+164 : Processo 4909553 Pronto -> Exec
+165 : Processo 4909553 Exec -> Pronto por tempo
+166 : Processo 4915485 Pronto -> Exec
+166 : Processo 4915485 Exec -> I/O
+167 : Processo 4909553 Pronto -> Exec
+168 : Processo 4909553 Exec -> Pronto por tempo
+169 : Processo 4909553 Pronto -> Exec
+170 : Processo 4909553 Exec -> Pronto por tempo
+171 : Processo 4909553 Pronto -> Exec
+172 : Processo 4909553 Exec -> Pronto por tempo
+173 : Processo 4909553 Pronto -> Exec
+174 : Processo 4909553 Exec -> Pronto por tempo
+175 : Processo 4909553 Pronto -> Exec
+176 : Processo 4909553 Exec -> Pronto por tempo
+177 : Processo 4909553 Pronto -> Exec
+178 : Processo 4909553 Exec -> Pronto por tempo
+179 : Processo 4915485 Pronto -> Exec
+179 : Processo 4915485 Exec -> I/O
+180 : Processo 4909553 Pronto -> Exec
+181 : Processo 4909553 Exec -> Pronto por tempo
+182 : Processo 4909553 Pronto -> Exec
+183 : Processo 4909553 Exec -> Pronto por tempo
+184 : Processo 4909553 Pronto -> Exec
+185 : Processo 4909553 Exec -> Pronto por tempo
+186 : Processo 4909553 Pronto -> Exec
+187 : Processo 4909553 Exec -> Pronto por tempo
+188 : Processo 4909553 Pronto -> Exec
+189 : Processo 4909553 Exec -> Pronto por tempo
+190 : Processo 4909553 Pronto -> Exec
+191 : Processo 4909553 Exec -> Pronto por tempo
+192 : Processo 4915485 Pronto -> Exec
+192 : Processo 4915485 Exec -> I/O
+193 : Processo 4909553 Pronto -> Exec
+194 : Processo 4909553 Exec -> Pronto por tempo
+195 : Processo 4909553 Pronto -> Exec
+196 : Processo 4909553 Exec -> Pronto por tempo
+197 : Processo 4909553 Pronto -> Exec
+198 : Processo 4909553 Exec -> Pronto por tempo
+199 : Processo 4909553 Pronto -> Exec
+200 : Processo 4909553 Exec -> Pronto por tempo
+201 : Processo 4909553 Pronto -> Exec
+202 : Processo 4909553 Exec -> Pronto por tempo
+203 : Processo 4909553 Pronto -> Exec
+204 : Processo 4909553 Exec -> Pronto por tempo
+205 : Processo 4915485 Pronto -> Exec
+205 : Processo 4915485 Exec -> I/O
+206 : Processo 4909553 Pronto -> Exec
+207 : Processo 4909553 Exec -> Pronto por tempo
+208 : Processo 4909553 Pronto -> Exec
+209 : Processo 4909553 Exec -> Pronto por tempo
+210 : Processo 4909553 Pronto -> Exec
+211 : Processo 4909553 Exec -> Pronto por tempo
+212 : Processo 4909553 Pronto -> Exec
+213 : Processo 4909553 Exec -> Pronto por tempo
+214 : Processo 4909553 Pronto -> Exec
+215 : Processo 4909553 Exec -> Pronto por tempo
+216 : Processo 4909553 Pronto -> Exec
+217 : Processo 4909553 Exec -> Pronto por tempo
+218 : Processo 4915485 Pronto -> Exec
+218 : Processo 4915485 Exec -> I/O
+219 : Processo 4909553 Pronto -> Exec
+220 : Processo 4909553 Exec -> Pronto por tempo
+221 : Processo 4909553 Pronto -> Exec
+222 : Processo 4909553 Exec -> Pronto por tempo
+223 : Processo 4909553 Pronto -> Exec
+224 : Processo 4909553 Exec -> Pronto por tempo
+225 : Processo 4909553 Pronto -> Exec
+226 : Processo 4909553 Exec -> Pronto por tempo
+227 : Processo 4909553 Pronto -> Exec
+228 : Processo 4909553 Exec -> Pronto por tempo
+229 : Processo 4909553 Pronto -> Exec
+230 : Processo 4909553 Exec -> Pronto por tempo
+231 : Processo 4915485 Pronto -> Exec
+231 : Processo 4915485 Exec -> I/O
+232 : Processo 4909553 Pronto -> Exec
+233 : Processo 4909553 Exec -> Pronto por tempo
+234 : Processo 4909553 Pronto -> Exec
+235 : Processo 4909553 Exec -> Pronto por tempo
+236 : Processo 4909553 Pronto -> Exec
+237 : Processo 4909553 Exec -> Pronto por tempo
+238 : Processo 4909553 Pronto -> Exec
+239 : Processo 4909553 Exec -> Pronto por tempo
+240 : Processo 4909553 Pronto -> Exec
+241 : Processo 4909553 Exec -> Pronto por tempo
+242 : Processo 4909553 Pronto -> Exec
+243 : Processo 4909553 Exec -> Pronto por tempo
+244 : Processo 4915485 Pronto -> Exec
+244 : Processo 4915485 Exec -> I/O
+245 : Processo 4909553 Pronto -> Exec
+246 : Processo 4909553 Exec -> Pronto por tempo
+247 : Processo 4909553 Pronto -> Exec
+248 : Processo 4909553 Exec -> Pronto por tempo
+249 : Processo 4909553 Pronto -> Exec
+250 : Processo 4909553 Exec -> Pronto por tempo
+251 : Processo 4909553 Pronto -> Exec
+252 : Processo 4909553 Exec -> Pronto por tempo
+253 : Processo 4909553 Pronto -> Exec
+254 : Processo 4909553 Exec -> Pronto por tempo
+255 : Processo 4909553 Pronto -> Exec
+256 : Processo 4909553 Exec -> Pronto por tempo
+257 : Processo 4915485 Pronto -> Exec
+257 : Processo 4915485 Exec -> I/O
+258 : Processo 4909553 Pronto -> Exec
+259 : Processo 4909553 Exec -> Pronto por tempo
+260 : Processo 4909553 Pronto -> Exec
+261 : Processo 4909553 Exec -> Pronto por tempo
+262 : Processo 4909553 Pronto -> Exec
+263 : Processo 4909553 Exec -> Pronto por tempo
+264 : Processo 4909553 Pronto -> Exec
+265 : Processo 4909553 Exec -> Pronto por tempo
+266 : Processo 4909553 Pronto -> Exec
+267 : Processo 4909553 Exec -> Pronto por tempo
+268 : Processo 4909553 Pronto -> Exec
+269 : Processo 4909553 Exec -> Pronto por tempo
+270 : Processo 4915485 Pronto -> Exec
+270 : Processo 4915485 Exec -> I/O
+271 : Processo 4909553 Pronto -> Exec
+272 : Processo 4909553 Exec -> Pronto por tempo
+273 : Processo 4909553 Pronto -> Exec
+274 : Processo 4909553 Exec -> Pronto por tempo
+275 : Processo 4909553 Pronto -> Exec
+276 : Processo 4909553 Exec -> Pronto por tempo
+277 : Processo 4909553 Pronto -> Exec
+278 : Processo 4909553 Exec -> Pronto por tempo
+279 : Processo 4909553 Pronto -> Exec
+280 : Processo 4909553 Exec -> Pronto por tempo
+281 : Processo 4909553 Pronto -> Exec
+282 : Processo 4909553 Exec -> Pronto por tempo
+283 : Processo 4915485 Pronto -> Exec
+283 : Processo 4915485 Exec -> I/O
+284 : Processo 4909553 Pronto -> Exec
+285 : Processo 4909553 Exec -> Pronto por tempo
+286 : Processo 4909553 Pronto -> Exec
+287 : Processo 4909553 Exec -> Pronto por tempo
+288 : Processo 4909553 Pronto -> Exec
+289 : Processo 4909553 Exec -> Pronto por tempo
+290 : Processo 4909553 Pronto -> Exec
+291 : Processo 4909553 Exec -> Pronto por tempo
+292 : Processo 4909553 Pronto -> Exec
+293 : Processo 4909553 Exec -> Pronto por tempo
+294 : Processo 4909553 Pronto -> Exec
+295 : Processo 4909553 Exec -> Pronto por tempo
+296 : Processo 4915485 Pronto -> Exec
+296 : Processo 4915485 Exec -> I/O
+297 : Processo 4909553 Pronto -> Exec
+298 : Processo 4909553 Exec -> Pronto por tempo
+299 : Processo 4909553 Pronto -> Exec
+300 : Processo 4909553 Exec -> Pronto por tempo
+301 : Processo 4909553 Pronto -> Exec
+302 : Processo 4909553 Exec -> Pronto por tempo
+303 : Processo 4909553 Pronto -> Exec
+304 : Processo 4909553 Exec -> Pronto por tempo
+305 : Processo 4909553 Pronto -> Exec
+306 : Processo 4909553 Exec -> Pronto por tempo
+307 : Processo 4909553 Pronto -> Exec
+308 : Processo 4909553 Exec -> Pronto por tempo
+309 : Processo 4915485 Pronto -> Exec
+309 : Processo 4915485 Exec -> I/O
+310 : Processo 4909553 Pronto -> Exec
+311 : Processo 4909553 Exec -> Pronto por tempo
+312 : Processo 4909553 Pronto -> Exec
+313 : Processo 4909553 Exec -> Pronto por tempo
+314 : Processo 4909553 Pronto -> Exec
+315 : Processo 4909553 Exec -> Pronto por tempo
+316 : Processo 4909553 Pronto -> Exec
+317 : Processo 4909553 Exec -> Pronto por tempo
+318 : Processo 4909553 Pronto -> Exec
+319 : Processo 4909553 Exec -> Pronto por tempo
+320 : Processo 4909553 Pronto -> Exec
+321 : Processo 4909553 Exec -> Pronto por tempo
+322 : Processo 4915485 Pronto -> Exec
+322 : Processo 4915485 Exec -> I/O
+323 : Processo 4909553 Pronto -> Exec
+324 : Processo 4909553 Exec -> Pronto por tempo
+325 : Processo 4909553 Pronto -> Exec
+326 : Processo 4909553 Exec -> Pronto por tempo
+327 : Processo 4909553 Pronto -> Exec
+328 : Processo 4909553 Exec -> Pronto por tempo
+329 : Processo 4909553 Pronto -> Exec
+330 : Processo 4909553 Exec -> Pronto por tempo
+331 : Processo 4909553 Pronto -> Exec
+332 : Processo 4909553 Exec -> Pronto por tempo
+333 : Processo 4909553 Pronto -> Exec
+334 : Processo 4909553 Exec -> Pronto por tempo
+335 : Processo 4915485 Pronto -> Exec
+335 : Processo 4915485 Exec -> I/O
+336 : Processo 4909553 Pronto -> Exec
+337 : Processo 4909553 Exec -> Pronto por tempo
+338 : Processo 4909553 Pronto -> Exec
+339 : Processo 4909553 Exec -> Pronto por tempo
+340 : Processo 4909553 Pronto -> Exec
+341 : Processo 4909553 Exec -> Pronto por tempo
+342 : Processo 4909553 Pronto -> Exec
+343 : Processo 4909553 Exec -> Pronto por tempo
+344 : Processo 4909553 Pronto -> Exec
+345 : Processo 4909553 Exec -> Pronto por tempo
+346 : Processo 4909553 Pronto -> Exec
+347 : Processo 4909553 Exec -> Pronto por tempo
+348 : Processo 4915485 Pronto -> Exec
+348 : Processo 4915485 Exec -> I/O
+349 : Processo 4909553 Pronto -> Exec
+350 : Processo 4909553 Exec -> Pronto por tempo
+351 : Processo 4909553 Pronto -> Exec
+352 : Processo 4909553 Exec -> Pronto por tempo
+353 : Processo 4909553 Pronto -> Exec
+354 : Processo 4909553 Exec -> Pronto por tempo
+355 : Processo 4909553 Pronto -> Exec
+356 : Processo 4909553 Exec -> Pronto por tempo
+357 : Processo 4909553 Pronto -> Exec
+358 : Processo 4909553 Exec -> Pronto por tempo
+359 : Processo 4909553 Pronto -> Exec
+360 : Processo 4909553 Exec -> Pronto por tempo
+361 : Processo 4915485 Pronto -> Exec
+361 : Processo 4915485 Exec -> I/O
+362 : Processo 4909553 Pronto -> Exec
+363 : Processo 4909553 Exec -> Pronto por tempo
+364 : Processo 4909553 Pronto -> Exec
+365 : Processo 4909553 Exec -> Pronto por tempo
+366 : Processo 4909553 Pronto -> Exec
+367 : Processo 4909553 Exec -> Pronto por tempo
+368 : Processo 4909553 Pronto -> Exec
+369 : Processo 4909553 Exec -> Pronto por tempo
+370 : Processo 4909553 Pronto -> Exec
+371 : Processo 4909553 Exec -> Pronto por tempo
+372 : Processo 4909553 Pronto -> Exec
+373 : Processo 4909553 Exec -> Pronto por tempo
+374 : Processo 4915485 Pronto -> Exec
+374 : Processo 4915485 Exec -> I/O
+375 : Processo 4909553 Pronto -> Exec
+376 : Processo 4909553 Exec -> Pronto por tempo
+377 : Processo 4909553 Pronto -> Exec
+378 : Processo 4909553 Exec -> Pronto por tempo
+379 : Processo 4909553 Pronto -> Exec
+380 : Processo 4909553 Exec -> Pronto por tempo
+381 : Processo 4909553 Pronto -> Exec
+382 : Processo 4909553 Exec -> Pronto por tempo
+383 : Processo 4909553 Pronto -> Exec
+384 : Processo 4909553 Exec -> Pronto por tempo
+385 : Processo 4909553 Pronto -> Exec
+386 : Processo 4909553 Exec -> Pronto por tempo
+387 : Processo 4915485 Pronto -> Exec
+387 : Processo 4915485 Exec -> I/O
+388 : Processo 4909553 Pronto -> Exec
+389 : Processo 4909553 Exec -> Pronto por tempo
+390 : Processo 4909553 Pronto -> Exec
+391 : Processo 4909553 Exec -> Pronto por tempo
+392 : Processo 4909553 Pronto -> Exec
+393 : Processo 4909553 Exec -> Pronto por tempo
+394 : Processo 4909553 Pronto -> Exec
+395 : Processo 4909553 Exec -> Pronto por tempo
+396 : Processo 4909553 Pronto -> Exec
+397 : Processo 4909553 Exec -> Pronto por tempo
+398 : Processo 4909553 Pronto -> Exec
+399 : Processo 4909553 Exec -> Pronto por tempo
+400 : Processo 4915485 Pronto -> Exec
+400 : Processo 4915485 Exec -> I/O
+401 : Processo 4909553 Pronto -> Exec
+402 : Processo 4909553 Exec -> Pronto por tempo
+403 : Processo 4909553 Pronto -> Exec
+404 : Processo 4909553 Exec -> Pronto por tempo
+405 : Processo 4909553 Pronto -> Exec
+406 : Processo 4909553 Exec -> Pronto por tempo
+407 : Processo 4909553 Pronto -> Exec
+408 : Processo 4909553 Exec -> Pronto por tempo
+409 : Processo 4909553 Pronto -> Exec
+410 : Processo 4909553 Exec -> Pronto por tempo
+411 : Processo 4909553 Pronto -> Exec
+412 : Processo 4909553 Exec -> Pronto por tempo
+413 : Processo 4915485 Pronto -> Exec
+413 : Processo 4915485 Exec -> I/O
+414 : Processo 4909553 Pronto -> Exec
+415 : Processo 4909553 Exec -> Pronto por tempo
+416 : Processo 4909553 Pronto -> Exec
+417 : Processo 4909553 Exec -> Pronto por tempo
+418 : Processo 4909553 Pronto -> Exec
+419 : Processo 4909553 Exec -> Pronto por tempo
+420 : Processo 4909553 Pronto -> Exec
+421 : Processo 4909553 Exec -> Pronto por tempo
+422 : Processo 4909553 Pronto -> Exec
+423 : Processo 4909553 Exec -> Pronto por tempo
+424 : Processo 4909553 Pronto -> Exec
+425 : Processo 4909553 Exec -> Pronto por tempo
+426 : Processo 4915485 Pronto -> Exec
+426 : Processo 4915485 Exec -> I/O
+427 : Processo 4909553 Pronto -> Exec
+428 : Processo 4909553 Exec -> Pronto por tempo
+429 : Processo 4909553 Pronto -> Exec
+430 : Processo 4909553 Exec -> Pronto por tempo
+431 : Processo 4909553 Pronto -> Exec
+432 : Processo 4909553 Exec -> Pronto por tempo
+433 : Processo 4909553 Pronto -> Exec
+434 : Processo 4909553 Exec -> Pronto por tempo
+435 : Processo 4909553 Pronto -> Exec
+436 : Processo 4909553 Exec -> Pronto por tempo
+437 : Processo 4909553 Pronto -> Exec
+438 : Processo 4909553 Exec -> Pronto por tempo
+439 : Processo 4915485 Pronto -> Exec
+439 : Processo 4915485 Exec -> I/O
+440 : Processo 4909553 Pronto -> Exec
+441 : Processo 4909553 Exec -> Pronto por tempo
+442 : Processo 4909553 Pronto -> Exec
+443 : Processo 4909553 Exec -> Pronto por tempo
+444 : Processo 4909553 Pronto -> Exec
+445 : Processo 4909553 Exec -> Pronto por tempo
+446 : Processo 4909553 Pronto -> Exec
+447 : Processo 4909553 Exec -> Pronto por tempo
+448 : Processo 4909553 Pronto -> Exec
+449 : Processo 4909553 Exec -> Pronto por tempo
+450 : Processo 4909553 Pronto -> Exec
+451 : Processo 4909553 Exec -> Pronto por tempo
+452 : Processo 4915485 Pronto -> Exec
+452 : Processo 4915485 Exec -> I/O
+453 : Processo 4909553 Pronto -> Exec
+454 : Processo 4909553 Exec -> Pronto por tempo
+455 : Processo 4909553 Pronto -> Exec
+456 : Processo 4909553 Exec -> Pronto por tempo
+457 : Processo 4909553 Pronto -> Exec
+458 : Processo 4909553 Exec -> Pronto por tempo
+459 : Processo 4909553 Pronto -> Exec
+460 : Processo 4909553 Exec -> Pronto por tempo
+461 : Processo 4909553 Pronto -> Exec
+462 : Processo 4909553 Exec -> Pronto por tempo
+463 : Processo 4909553 Pronto -> Exec
+464 : Processo 4909553 Exec -> Pronto por tempo
+465 : Processo 4915485 Pronto -> Exec
+465 : Processo 4915485 Exec -> I/O
+466 : Processo 4909553 Pronto -> Exec
+467 : Processo 4909553 Exec -> Pronto por tempo
+468 : Processo 4909553 Pronto -> Exec
+469 : Processo 4909553 Exec -> Pronto por tempo
+470 : Processo 4909553 Pronto -> Exec
+471 : Processo 4909553 Exec -> Pronto por tempo
+472 : Processo 4909553 Pronto -> Exec
+473 : Processo 4909553 Exec -> Pronto por tempo
+474 : Processo 4909553 Pronto -> Exec
+475 : Processo 4909553 Exec -> Pronto por tempo
+476 : Processo 4909553 Pronto -> Exec
+477 : Processo 4909553 Exec -> Pronto por tempo
+478 : Processo 4915485 Pronto -> Exec
+478 : Processo 4915485 Exec -> I/O
+479 : Processo 4909553 Pronto -> Exec
+480 : Processo 4909553 Exec -> Pronto por tempo
+481 : Processo 4909553 Pronto -> Exec
+482 : Processo 4909553 Exec -> Pronto por tempo
+483 : Processo 4909553 Pronto -> Exec
+484 : Processo 4909553 Exec -> Pronto por tempo
+485 : Processo 4909553 Pronto -> Exec
+486 : Processo 4909553 Exec -> Pronto por tempo
+487 : Processo 4909553 Pronto -> Exec
+488 : Processo 4909553 Exec -> Pronto por tempo
+489 : Processo 4909553 Pronto -> Exec
+490 : Processo 4909553 Exec -> Pronto por tempo
+491 : Processo 4915485 Pronto -> Exec
+491 : Processo 4915485 Exec -> I/O
+492 : Processo 4909553 Pronto -> Exec
+493 : Processo 4909553 Exec -> Pronto por tempo
+494 : Processo 4909553 Pronto -> Exec
+495 : Processo 4909553 Exec -> Pronto por tempo
+496 : Processo 4909553 Pronto -> Exec
+497 : Processo 4909553 Exec -> Pronto por tempo
+498 : Processo 4909553 Pronto -> Exec
+499 : Processo 4909553 Exec -> Pronto por tempo
+500 : Processo 4909553 Pronto -> Exec
+501 : Processo 4909553 Exec -> Pronto por tempo
+502 : Processo 4909553 Pronto -> Exec
+503 : Processo 4909553 Exec -> Pronto por tempo
+504 : Processo 4915485 Pronto -> Exec
+504 : Processo 4915485 Exec -> I/O
+505 : Processo 4909553 Pronto -> Exec
+506 : Processo 4909553 Exec -> Pronto por tempo
+507 : Processo 4909553 Pronto -> Exec
+508 : Processo 4909553 Exec -> Pronto por tempo
+509 : Processo 4909553 Pronto -> Exec
+510 : Processo 4909553 Exec -> Pronto por tempo
+511 : Processo 4909553 Pronto -> Exec
+512 : Processo 4909553 Exec -> Pronto por tempo
+513 : Processo 4909553 Pronto -> Exec
+514 : Processo 4909553 Exec -> Pronto por tempo
+515 : Processo 4909553 Pronto -> Exec
+516 : Processo 4909553 Exec -> Pronto por tempo
+517 : Processo 4915485 Pronto -> Exec
+517 : Processo 4915485 Exec -> I/O
+518 : Processo 4909553 Pronto -> Exec
+519 : Processo 4909553 Exec -> Pronto por tempo
+520 : Processo 4909553 Pronto -> Exec
+521 : Processo 4909553 Exec -> Pronto por tempo
+522 : Processo 4909553 Pronto -> Exec
+523 : Processo 4909553 Exec -> Pronto por tempo
+524 : Processo 4909553 Pronto -> Exec
+525 : Processo 4909553 Exec -> Pronto por tempo
+526 : Processo 4909553 Pronto -> Exec
+527 : Processo 4909553 Exec -> Pronto por tempo
+528 : Processo 4909553 Pronto -> Exec
+529 : Processo 4909553 Exec -> Pronto por tempo
+530 : Processo 4915485 Pronto -> Exec
+530 : Processo 4915485 Exec -> I/O
+531 : Processo 4909553 Pronto -> Exec
+532 : Processo 4909553 Exec -> Pronto por tempo
+533 : Processo 4909553 Pronto -> Exec
+534 : Processo 4909553 Exec -> Pronto por tempo
+535 : Processo 4909553 Pronto -> Exec
+536 : Processo 4909553 Exec -> Pronto por tempo
+537 : Processo 4909553 Pronto -> Exec
+538 : Processo 4909553 Exec -> Pronto por tempo
+539 : Processo 4909553 Pronto -> Exec
+540 : Processo 4909553 Exec -> Pronto por tempo
+541 : Processo 4909553 Pronto -> Exec
+542 : Processo 4909553 Exec -> Pronto por tempo
+543 : Processo 4915485 Pronto -> Exec
+544 : Processo 4915485 Exec -> Pronto por tempo
+545 : Processo 4909553 Pronto -> Exec
+546 : Processo 4909553 Exec -> Pronto por tempo
+547 : Processo 4915485 Pronto -> Exec
+547 : Processo 4915485 Exec -> I/O
+548 : Processo 4909553 Pronto -> Exec
+549 : Processo 4909553 Exec -> Pronto por tempo
+550 : Processo 4909553 Pronto -> Exec
+551 : Processo 4909553 Exec -> Pronto por tempo
+552 : Processo 4909553 Pronto -> Exec
+553 : Processo 4909553 Exec -> Pronto por tempo
+554 : Processo 4909553 Pronto -> Exec
+555 : Processo 4909553 Exec -> Pronto por tempo
+556 : Processo 4909553 Pronto -> Exec
+557 : Processo 4909553 Exec -> Pronto por tempo
+558 : Processo 4909553 Pronto -> Exec
+559 : Processo 4909553 Exec -> Pronto por tempo
+560 : Processo 4915485 Pronto -> Exec
+560 : Processo 4915485 Exec -> I/O
+561 : Processo 4909553 Pronto -> Exec
+562 : Processo 4909553 Exec -> Pronto por tempo
+563 : Processo 4909553 Pronto -> Exec
+564 : Processo 4909553 Exec -> Pronto por tempo
+565 : Processo 4909553 Pronto -> Exec
+566 : Processo 4909553 Exec -> Pronto por tempo
+567 : Processo 4909553 Pronto -> Exec
+568 : Processo 4909553 Exec -> Pronto por tempo
+569 : Processo 4909553 Pronto -> Exec
+570 : Processo 4909553 Exec -> Pronto por tempo
+571 : Processo 4909553 Pronto -> Exec
+572 : Processo 4909553 Exec -> Pronto por tempo
+573 : Processo 4915485 Pronto -> Exec
+573 : Processo 4915485 Exec -> I/O
+574 : Processo 4909553 Pronto -> Exec
+575 : Processo 4909553 Exec -> Pronto por tempo
+576 : Processo 4909553 Pronto -> Exec
+577 : Processo 4909553 Exec -> Pronto por tempo
+578 : Processo 4909553 Pronto -> Exec
+579 : Processo 4909553 Exec -> Pronto por tempo
+580 : Processo 4909553 Pronto -> Exec
+581 : Processo 4909553 Exec -> Pronto por tempo
+582 : Processo 4909553 Pronto -> Exec
+583 : Processo 4909553 Exec -> Pronto por tempo
+584 : Processo 4909553 Pronto -> Exec
+585 : Processo 4909553 Exec -> Pronto por tempo
+586 : Processo 4915485 Pronto -> Exec
+586 : Processo 4915485 Exec -> I/O
+587 : Processo 4909553 Pronto -> Exec
+588 : Processo 4909553 Exec -> Pronto por tempo
+589 : Processo 4909553 Pronto -> Exec
+590 : Processo 4909553 Exec -> Pronto por tempo
+591 : Processo 4909553 Pronto -> Exec
+592 : Processo 4909553 Exec -> Pronto por tempo
+593 : Processo 4909553 Pronto -> Exec
+594 : Processo 4909553 Exec -> Pronto por tempo
+595 : Processo 4909553 Pronto -> Exec
+596 : Processo 4909553 Exec -> Pronto por tempo
+597 : Processo 4909553 Pronto -> Exec
+598 : Processo 4909553 Exec -> Pronto por tempo
+599 : Processo 4915485 Pronto -> Exec
+599 : Processo 4915485 Exec -> I/O
+600 : Processo 4909553 Pronto -> Exec
+601 : Processo 4909553 Exec -> Pronto por tempo
+602 : Processo 4909553 Pronto -> Exec
+603 : Processo 4909553 Exec -> Pronto por tempo
+604 : Processo 4909553 Pronto -> Exec
+605 : Processo 4909553 Exec -> Pronto por tempo
+606 : Processo 4909553 Pronto -> Exec
+607 : Processo 4909553 Exec -> Pronto por tempo
+608 : Processo 4909553 Pronto -> Exec
+609 : Processo 4909553 Exec -> Pronto por tempo
+610 : Processo 4909553 Pronto -> Exec
+611 : Processo 4909553 Exec -> Pronto por tempo
+612 : Processo 4915485 Pronto -> Exec
+612 : Processo 4915485 Exec -> I/O
+613 : Processo 4909553 Pronto -> Exec
+614 : Processo 4909553 Exec -> Pronto por tempo
+615 : Processo 4909553 Pronto -> Exec
+616 : Processo 4909553 Exec -> Pronto por tempo
+617 : Processo 4909553 Pronto -> Exec
+618 : Processo 4909553 Exec -> Pronto por tempo
+619 : Processo 4909553 Pronto -> Exec
+620 : Processo 4909553 Exec -> Pronto por tempo
+621 : Processo 4909553 Pronto -> Exec
+622 : Processo 4909553 Exec -> Pronto por tempo
+623 : Processo 4909553 Pronto -> Exec
+624 : Processo 4909553 Exec -> Pronto por tempo
+625 : Processo 4915485 Pronto -> Exec
+625 : Processo 4915485 Exec -> I/O
+626 : Processo 4909553 Pronto -> Exec
+627 : Processo 4909553 Exec -> Pronto por tempo
+628 : Processo 4909553 Pronto -> Exec
+629 : Processo 4909553 Exec -> Pronto por tempo
+630 : Processo 4909553 Pronto -> Exec
+631 : Processo 4909553 Exec -> Pronto por tempo
+632 : Processo 4909553 Pronto -> Exec
+633 : Processo 4909553 Exec -> Pronto por tempo
+634 : Processo 4909553 Pronto -> Exec
+635 : Processo 4909553 Exec -> Pronto por tempo
+636 : Processo 4909553 Pronto -> Exec
+637 : Processo 4909553 Exec -> Pronto por tempo
+638 : Processo 4915485 Pronto -> Exec
+638 : Processo 4915485 Exec -> I/O
+639 : Processo 4909553 Pronto -> Exec
+640 : Processo 4909553 Exec -> Pronto por tempo
+641 : Processo 4909553 Pronto -> Exec
+642 : Processo 4909553 Exec -> Pronto por tempo
+643 : Processo 4909553 Pronto -> Exec
+644 : Processo 4909553 Exec -> Pronto por tempo
+645 : Processo 4909553 Pronto -> Exec
+646 : Processo 4909553 Exec -> Pronto por tempo
+647 : Processo 4909553 Pronto -> Exec
+648 : Processo 4909553 Exec -> Pronto por tempo
+649 : Processo 4909553 Pronto -> Exec
+650 : Processo 4909553 Exec -> Pronto por tempo
+651 : Processo 4915485 Pronto -> Exec
+651 : Processo 4915485 Exec -> I/O
+652 : Processo 4909553 Pronto -> Exec
+653 : Processo 4909553 Exec -> Pronto por tempo
+654 : Processo 4909553 Pronto -> Exec
+655 : Processo 4909553 Exec -> Pronto por tempo
+656 : Processo 4909553 Pronto -> Exec
+657 : Processo 4909553 Exec -> Pronto por tempo
+658 : Processo 4909553 Pronto -> Exec
+659 : Processo 4909553 Exec -> Pronto por tempo
+660 : Processo 4909553 Pronto -> Exec
+661 : Processo 4909553 Exec -> Pronto por tempo
+662 : Processo 4909553 Pronto -> Exec
+663 : Processo 4909553 Exec -> Pronto por tempo
+664 : Processo 4915485 Pronto -> Exec
+664 : Processo 4915485 Exec -> I/O
+665 : Processo 4909553 Pronto -> Exec
+666 : Processo 4909553 Exec -> Pronto por tempo
+667 : Processo 4909553 Pronto -> Exec
+668 : Processo 4909553 Exec -> Pronto por tempo
+669 : Processo 4909553 Pronto -> Exec
+670 : Processo 4909553 Exec -> Pronto por tempo
+671 : Processo 4909553 Pronto -> Exec
+672 : Processo 4909553 Exec -> Pronto por tempo
+673 : Processo 4909553 Pronto -> Exec
+674 : Processo 4909553 Exec -> Pronto por tempo
+675 : Processo 4909553 Pronto -> Exec

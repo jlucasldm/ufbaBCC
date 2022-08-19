@@ -1,0 +1,159 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+26 : Processo 3302126 alocacao de blocos no pagefile
+26 : Processo 3302126 HwPF - Executável0
+26 : Processo 3302126 HwPF - Executável1
+26 : Processo 3302126 HwPF - Executável2
+26 : Processo 3302126 HwPF - Executável3
+26 : Processo 3302126 HwPF - Executável4
+26 : Processo 3302126 criado
+27 : Processo 3302126 Pronto -> Exec
+30 : Processo 3306091 alocacao de blocos no pagefile
+30 : Processo 3306091 HwPF - Executável0
+30 : Processo 3306091 HwPF - Executável1
+30 : Processo 3306091 HwPF - Executável2
+30 : Processo 3306091 HwPF - Executável3
+30 : Processo 3306091 HwPF - Executável4
+30 : Processo 3306091 criado
+32 : Processo 3302126 Exec -> Pronto por tempo
+33 : Processo 3306091 Pronto -> Exec
+38 : Processo 3306091 Exec -> Pronto por tempo
+39 : Processo 3302126 Pronto -> Exec
+44 : Processo 3302126 Exec -> Pronto por tempo
+45 : Processo 3306091 Pronto -> Exec
+50 : Processo 3306091 Exec -> Pronto por tempo
+51 : Processo 3302126 Pronto -> Exec
+56 : Processo 3302126 Exec -> Pronto por tempo
+57 : Processo 3306091 Pronto -> Exec
+62 : Processo 3306091 Exec -> Pronto por tempo
+63 : Processo 3302126 Pronto -> Exec
+68 : Processo 3302126 Exec -> Pronto por tempo
+69 : Processo 3306091 Pronto -> Exec
+74 : Processo 3306091 Exec -> Pronto por tempo
+75 : Processo 3302126 Pronto -> Exec
+80 : Processo 3302126 Exec -> Pronto por tempo
+81 : Processo 3306091 Pronto -> Exec
+86 : Processo 3306091 Exec -> Pronto por tempo
+87 : Processo 3302126 Pronto -> Exec
+92 : Processo 3302126 Exec -> Pronto por tempo
+93 : Processo 3306091 Pronto -> Exec
+98 : Processo 3306091 Exec -> Pronto por tempo
+99 : Processo 3302126 Pronto -> Exec
+104 : Processo 3302126 Exec -> Pronto por tempo
+105 : Processo 3306091 Pronto -> Exec
+110 : Processo 3306091 Exec -> Pronto por tempo
+111 : Processo 3302126 Pronto -> Exec
+116 : Processo 3302126 Exec -> Pronto por tempo
+117 : Processo 3306091 Pronto -> Exec
+122 : Processo 3306091 Exec -> Pronto por tempo
+123 : Processo 3302126 Pronto -> Exec
+128 : Processo 3302126 Exec -> Pronto por tempo
+129 : Processo 3306091 Pronto -> Exec
+134 : Processo 3306091 Exec -> Pronto por tempo
+135 : Processo 3302126 Pronto -> Exec
+140 : Processo 3302126 Exec -> Pronto por tempo
+141 : Processo 3306091 Pronto -> Exec
+146 : Processo 3306091 Exec -> Pronto por tempo
+147 : Processo 3302126 Pronto -> Exec
+152 : Processo 3302126 Exec -> Pronto por tempo
+153 : Processo 3306091 Pronto -> Exec
+158 : Processo 3306091 Exec -> Pronto por tempo
+159 : Processo 3302126 Pronto -> Exec
+164 : Processo 3302126 Exec -> Pronto por tempo
+165 : Processo 3306091 Pronto -> Exec
+170 : Processo 3306091 Exec -> Pronto por tempo
+171 : Processo 3302126 Pronto -> Exec
+176 : Processo 3302126 Exec -> Pronto por tempo
+177 : Processo 3306091 Pronto -> Exec
+182 : Processo 3306091 Exec -> Pronto por tempo
+183 : Processo 3302126 Pronto -> Exec
+188 : Processo 3302126 Exec -> Pronto por tempo
+189 : Processo 3306091 Pronto -> Exec
+194 : Processo 3306091 Exec -> Pronto por tempo
+195 : Processo 3302126 Pronto -> Exec
+200 : Processo 3302126 Exec -> Pronto por tempo
+201 : Processo 3306091 Pronto -> Exec
+206 : Processo 3306091 Exec -> Pronto por tempo
+207 : Processo 3302126 Pronto -> Exec
+212 : Processo 3302126 Exec -> Pronto por tempo
+213 : Processo 3306091 Pronto -> Exec
+215 : Processo 3306091 Exec -> Pronto por tempo
+216 : Processo 3302126 Pronto -> Exec
+217 : Processo 3302126 Exec -> Pronto por tempo
+218 : Processo 3306091 Pronto -> Exec
+219 : Processo 3306091 Exec -> Pronto por tempo
+220 : Processo 3302126 Pronto -> Exec
+225 : Processo 3302126 Exec -> Pronto por tempo
+226 : Processo 3306091 Pronto -> Exec
+231 : Processo 3306091 Exec -> Pronto por tempo
+232 : Processo 3302126 Pronto -> Exec
+237 : Processo 3302126 Exec -> Pronto por tempo
+238 : Processo 3306091 Pronto -> Exec
+243 : Processo 3306091 Exec -> Pronto por tempo
+244 : Processo 3302126 Pronto -> Exec
+249 : Processo 3302126 Exec -> Pronto por tempo
+250 : Processo 3306091 Pronto -> Exec
+255 : Processo 3306091 Exec -> Pronto por tempo
+256 : Processo 3302126 Pronto -> Exec
+261 : Processo 3302126 Exec -> Pronto por tempo
+262 : Processo 3306091 Pronto -> Exec
+267 : Processo 3306091 Exec -> Pronto por tempo
+268 : Processo 3302126 Pronto -> Exec
+273 : Processo 3302126 Exec -> Pronto por tempo
+274 : Processo 3306091 Pronto -> Exec
+279 : Processo 3306091 Exec -> Pronto por tempo
+280 : Processo 3302126 Pronto -> Exec
+285 : Processo 3302126 Exec -> Pronto por tempo
+286 : Processo 3306091 Pronto -> Exec
+291 : Processo 3306091 Exec -> Pronto por tempo
+292 : Processo 3302126 Pronto -> Exec
+297 : Processo 3302126 Exec -> Pronto por tempo
+298 : Processo 3306091 Pronto -> Exec
+303 : Processo 3306091 Exec -> Pronto por tempo
+304 : Processo 3302126 Pronto -> Exec
+309 : Processo 3302126 Exec -> Pronto por tempo
+310 : Processo 3306091 Pronto -> Exec
+315 : Processo 3306091 Exec -> Pronto por tempo
+316 : Processo 3302126 Pronto -> Exec
+321 : Processo 3302126 Exec -> Pronto por tempo
+322 : Processo 3306091 Pronto -> Exec
+327 : Processo 3306091 Exec -> Pronto por tempo
+328 : Processo 3302126 Pronto -> Exec
+333 : Processo 3302126 Exec -> Pronto por tempo
+334 : Processo 3306091 Pronto -> Exec
+339 : Processo 3306091 Exec -> Pronto por tempo
+340 : Processo 3302126 Pronto -> Exec
+345 : Processo 3302126 Exec -> Pronto por tempo
+346 : Processo 3306091 Pronto -> Exec
+351 : Processo 3306091 Exec -> Pronto por tempo
+352 : Processo 3302126 Pronto -> Exec
+357 : Processo 3302126 Exec -> Pronto por tempo
+358 : Processo 3306091 Pronto -> Exec
+363 : Processo 3306091 Exec -> Pronto por tempo
+364 : Processo 3302126 Pronto -> Exec
+369 : Processo 3302126 Exec -> Pronto por tempo
+370 : Processo 3306091 Pronto -> Exec
+375 : Processo 3306091 Exec -> Pronto por tempo
+376 : Processo 3302126 Pronto -> Exec
+381 : Processo 3302126 Exec -> Pronto por tempo
+382 : Processo 3306091 Pronto -> Exec
+387 : Processo 3306091 Exec -> Pronto por tempo
+388 : Processo 3302126 Pronto -> Exec
+393 : Processo 3302126 Exec -> Pronto por tempo
+394 : Processo 3306091 Pronto -> Exec
+399 : Processo 3306091 Exec -> Pronto por tempo
+400 : Processo 3302126 Pronto -> Exec
+405 : Processo 3302126 Exec -> Pronto por tempo
+406 : Processo 3306091 Pronto -> Exec
+411 : Processo 3306091 Exec -> Pronto por tempo
+412 : Processo 3302126 Pronto -> Exec
+417 : Processo 3302126 Exec -> Pronto por tempo
+418 : Processo 3306091 Pronto -> Exec
+423 : Processo 3306091 Exec -> Pronto por tempo
+424 : Processo 3302126 Pronto -> Exec
+429 : Processo 3302126 Exec -> Pronto por tempo
+430 : Processo 3306091 Pronto -> Exec
+435 : Processo 3306091 Exec -> Pronto por tempo
+436 : Processo 3302126 Pronto -> Exec
+441 : Processo 3302126 Exec -> Pronto por tempo
+442 : Processo 3306091 Pronto -> Exec

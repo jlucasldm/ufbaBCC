@@ -1,0 +1,75 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+12 : Processo 5556228 alocacao de blocos no pagefile
+12 : Processo 5556228 HwPF - Executável0
+12 : Processo 5556228 HwPF - Executável1
+12 : Processo 5556228 HwPF - Executável2
+12 : Processo 5556228 HwPF - Executável3
+12 : Processo 5556228 HwPF - Executável4
+12 : Processo 5556228 criado
+13 : Processo 5556228 Pronto -> Exec
+14 : Processo 5556228 Exec -> Pronto por tempo
+15 : Processo 5556228 Pronto -> Exec
+16 : Processo 5556228 Exec -> Pronto por tempo
+17 : Processo 5556228 Pronto -> Exec
+18 : Processo 5556228 Exec -> Pronto por tempo
+19 : Processo 5556228 Pronto -> Exec
+20 : Processo 5556228 Exec -> Pronto por tempo
+21 : Processo 5556228 Pronto -> Exec
+22 : Processo 5556228 Exec -> Pronto por tempo
+23 : Processo 5556228 Pronto -> Exec
+24 : Processo 5556228 Exec -> Pronto por tempo
+25 : Processo 5556228 Pronto -> Exec
+26 : Processo 5556228 Exec -> Pronto por tempo
+27 : Processo 5556228 Pronto -> Exec
+28 : Processo 5556228 Exec -> Pronto por tempo
+29 : Processo 5556228 Pronto -> Exec
+30 : Processo 5556228 Exec -> Pronto por tempo
+31 : Processo 5556228 Pronto -> Exec
+32 : Processo 5556228 Exec -> Pronto por tempo
+33 : Processo 5556228 Pronto -> Exec
+34 : Processo 5556228 Exec -> Pronto por tempo
+35 : Processo 5556228 Pronto -> Exec
+36 : Processo 5556228 Exec -> Pronto por tempo
+37 : Processo 5556228 Pronto -> Exec
+38 : Processo 5556228 Exec -> Pronto por tempo
+39 : Processo 5556228 Pronto -> Exec
+40 : Processo 5556228 Exec -> Pronto por tempo
+41 : Processo 5556228 Pronto -> Exec
+42 : Processo 5556228 Exec -> Pronto por tempo
+43 : Processo 5556228 Pronto -> Exec
+44 : Processo 5556228 Exec -> Pronto por tempo
+45 : Processo 5556228 Pronto -> Exec
+46 : Processo 5556228 Exec -> Pronto por tempo
+47 : Processo 5556228 Pronto -> Exec
+48 : Processo 5556228 Exec -> Pronto por tempo
+49 : Processo 5556228 Pronto -> Exec
+50 : Processo 5556228 Exec -> Pronto por tempo
+51 : Processo 5556228 Pronto -> Exec
+52 : Processo 5556228 Exec -> Pronto por tempo
+53 : Processo 5556228 Pronto -> Exec
+54 : Processo 5556228 Exec -> Pronto por tempo
+55 : Processo 5556228 Pronto -> Exec
+56 : Processo 5556228 Exec -> Pronto por tempo
+57 : Processo 5556228 Pronto -> Exec
+58 : Processo 5556228 Exec -> Pronto por tempo
+59 : Processo 5556228 Pronto -> Exec
+60 : Processo 5556228 Exec -> Pronto por tempo
+61 : Processo 5556228 Pronto -> Exec
+62 : Processo 5556228 Exec -> Pronto por tempo
+63 : Processo 5556228 Pronto -> Exec
+64 : Processo 5556228 Exec -> Pronto por tempo
+65 : Processo 5556228 Pronto -> Exec
+66 : Processo 5556228 Exec -> Pronto por tempo
+67 : Processo 5556228 Pronto -> Exec
+68 : Processo 5556228 Exec -> Pronto por tempo
+69 : Processo 5556228 Pronto -> Exec
+70 : Processo 5556228 Exec -> Pronto por tempo
+71 : Processo 5556228 Pronto -> Exec
+72 : Processo 5556228 Exec -> Pronto por tempo
+73 : Processo 5556228 Pronto -> Exec
+74 : Processo 5556228 Exec -> Pronto por tempo
+75 : Processo 5556228 Pronto -> Exec
+76 : Processo 5556228 Exec -> Pronto por tempo
+77 : Processo 5556228 Pronto -> Exec
+78 : Processo 5556228 Exec -> Pronto por tempo

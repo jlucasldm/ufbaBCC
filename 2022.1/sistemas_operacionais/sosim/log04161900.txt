@@ -1,0 +1,566 @@
+0 : Inicializando SOsim ...
+5 : SOsim pronto
+24 : Processo 45473 alocacao de blocos no pagefile
+24 : Processo 45473 HwPF - Executável0
+24 : Processo 45473 HwPF - Executável1
+24 : Processo 45473 HwPF - Executável2
+24 : Processo 45473 HwPF - Executável3
+24 : Processo 45473 HwPF - Executável4
+24 : Processo 45473 criado
+25 : Processo 45473 Pronto -> Exec
+26 : Processo 45473 Exec -> Pronto por tempo
+27 : Processo 45473 Pronto -> Exec
+27 : Processo 49206 alocacao de blocos no pagefile
+27 : Processo 49206 HwPF - Executável0
+27 : Processo 49206 HwPF - Executável1
+27 : Processo 49206 HwPF - Executável2
+27 : Processo 49206 HwPF - Executável3
+27 : Processo 49206 HwPF - Executável4
+27 : Processo 49206 criado
+28 : Processo 45473 Exec -> Pronto por tempo
+29 : Processo 49206 Pronto -> Exec
+30 : Processo 49206 Exec -> Pronto por tempo
+31 : Processo 45473 Pronto -> Exec
+32 : Processo 45473 Exec -> Pronto por tempo
+33 : Processo 49206 Pronto -> Exec
+34 : Processo 49206 Exec -> Pronto por tempo
+35 : Processo 45473 Pronto -> Exec
+36 : Processo 45473 Exec -> Pronto por tempo
+37 : Processo 49206 Pronto -> Exec
+38 : Processo 49206 Exec -> Pronto por tempo
+39 : Processo 45473 Pronto -> Exec
+40 : Processo 45473 Exec -> Pronto por tempo
+41 : Processo 49206 Pronto -> Exec
+42 : Processo 49206 Exec -> Pronto por tempo
+43 : Processo 45473 Pronto -> Exec
+44 : Processo 45473 Exec -> Pronto por tempo
+45 : Processo 49206 Pronto -> Exec
+46 : Processo 49206 Exec -> Pronto por tempo
+47 : Processo 45473 Pronto -> Exec
+48 : Processo 45473 Exec -> Pronto por tempo
+49 : Processo 49206 Pronto -> Exec
+50 : Processo 49206 Exec -> Pronto por tempo
+51 : Processo 45473 Pronto -> Exec
+52 : Processo 45473 Exec -> Pronto por tempo
+53 : Processo 49206 Pronto -> Exec
+54 : Processo 49206 Exec -> Pronto por tempo
+55 : Processo 45473 Pronto -> Exec
+56 : Processo 45473 Exec -> Pronto por tempo
+57 : Processo 49206 Pronto -> Exec
+58 : Processo 49206 Exec -> Pronto por tempo
+59 : Processo 45473 Pronto -> Exec
+60 : Processo 45473 Exec -> Pronto por tempo
+61 : Processo 49206 Pronto -> Exec
+62 : Processo 49206 Exec -> Pronto por tempo
+63 : Processo 45473 Pronto -> Exec
+64 : Processo 45473 Exec -> Pronto por tempo
+65 : Processo 49206 Pronto -> Exec
+66 : Processo 49206 Exec -> Pronto por tempo
+67 : Processo 45473 Pronto -> Exec
+68 : Processo 45473 Exec -> Pronto por tempo
+69 : Processo 49206 Pronto -> Exec
+70 : Processo 49206 Exec -> Pronto por tempo
+71 : Processo 45473 Pronto -> Exec
+72 : Processo 45473 Exec -> Pronto por tempo
+73 : Processo 49206 Pronto -> Exec
+74 : Processo 49206 Exec -> Pronto por tempo
+75 : Processo 45473 Pronto -> Exec
+76 : Processo 45473 Exec -> Pronto por tempo
+77 : Processo 49206 Pronto -> Exec
+78 : Processo 49206 Exec -> Pronto por tempo
+79 : Processo 45473 Pronto -> Exec
+80 : Processo 45473 Exec -> Pronto por tempo
+81 : Processo 49206 Pronto -> Exec
+82 : Processo 49206 Exec -> Pronto por tempo
+83 : Processo 45473 Pronto -> Exec
+84 : Processo 45473 Exec -> Pronto por tempo
+85 : Processo 49206 Pronto -> Exec
+86 : Processo 49206 Exec -> Pronto por tempo
+87 : Processo 45473 Pronto -> Exec
+88 : Processo 45473 Exec -> Pronto por tempo
+89 : Processo 49206 Pronto -> Exec
+90 : Processo 49206 Exec -> Pronto por tempo
+91 : Processo 45473 Pronto -> Exec
+92 : Processo 45473 Exec -> Pronto por tempo
+93 : Processo 49206 Pronto -> Exec
+94 : Processo 49206 Exec -> Pronto por tempo
+95 : Processo 45473 Pronto -> Exec
+96 : Processo 45473 Exec -> Pronto por tempo
+97 : Processo 49206 Pronto -> Exec
+98 : Processo 49206 Exec -> Pronto por tempo
+99 : Processo 45473 Pronto -> Exec
+100 : Processo 45473 Exec -> Pronto por tempo
+101 : Processo 49206 Pronto -> Exec
+102 : Processo 49206 Exec -> Pronto por tempo
+103 : Processo 45473 Pronto -> Exec
+104 : Processo 45473 Exec -> Pronto por tempo
+105 : Processo 49206 Pronto -> Exec
+106 : Processo 49206 Exec -> Pronto por tempo
+107 : Processo 45473 Pronto -> Exec
+108 : Processo 45473 Exec -> Pronto por tempo
+109 : Processo 49206 Pronto -> Exec
+110 : Processo 49206 Exec -> Pronto por tempo
+111 : Processo 45473 Pronto -> Exec
+112 : Processo 45473 Exec -> Pronto por tempo
+113 : Processo 49206 Pronto -> Exec
+114 : Processo 49206 Exec -> Pronto por tempo
+115 : Processo 45473 Pronto -> Exec
+116 : Processo 45473 Exec -> Pronto por tempo
+117 : Processo 49206 Pronto -> Exec
+118 : Processo 49206 Exec -> Pronto por tempo
+119 : Processo 45473 Pronto -> Exec
+120 : Processo 45473 Exec -> Pronto por tempo
+121 : Processo 49206 Pronto -> Exec
+122 : Processo 49206 Exec -> Pronto por tempo
+123 : Processo 45473 Pronto -> Exec
+124 : Processo 45473 Exec -> Pronto por tempo
+125 : Processo 49206 Pronto -> Exec
+126 : Processo 49206 Exec -> Pronto por tempo
+127 : Processo 45473 Pronto -> Exec
+128 : Processo 45473 Exec -> Pronto por tempo
+129 : Processo 49206 Pronto -> Exec
+130 : Processo 49206 Exec -> Pronto por tempo
+131 : Processo 45473 Pronto -> Exec
+132 : Processo 45473 Exec -> Pronto por tempo
+133 : Processo 49206 Pronto -> Exec
+134 : Processo 49206 Exec -> Pronto por tempo
+135 : Processo 45473 Pronto -> Exec
+136 : Processo 45473 Exec -> Pronto por tempo
+137 : Processo 49206 Pronto -> Exec
+138 : Processo 49206 Exec -> Pronto por tempo
+139 : Processo 45473 Pronto -> Exec
+140 : Processo 45473 Exec -> Pronto por tempo
+141 : Processo 49206 Pronto -> Exec
+142 : Processo 49206 Exec -> Pronto por tempo
+143 : Processo 45473 Pronto -> Exec
+144 : Processo 45473 Exec -> Pronto por tempo
+145 : Processo 49206 Pronto -> Exec
+146 : Processo 49206 Exec -> Pronto por tempo
+147 : Processo 45473 Pronto -> Exec
+148 : Processo 45473 Exec -> Pronto por tempo
+149 : Processo 49206 Pronto -> Exec
+150 : Processo 49206 Exec -> Pronto por tempo
+151 : Processo 45473 Pronto -> Exec
+152 : Processo 45473 Exec -> Pronto por tempo
+153 : Processo 49206 Pronto -> Exec
+154 : Processo 49206 Exec -> Pronto por tempo
+155 : Processo 45473 Pronto -> Exec
+156 : Processo 45473 Exec -> Pronto por tempo
+157 : Processo 49206 Pronto -> Exec
+158 : Processo 49206 Exec -> Pronto por tempo
+159 : Processo 45473 Pronto -> Exec
+160 : Processo 45473 Exec -> Pronto por tempo
+161 : Processo 49206 Pronto -> Exec
+162 : Processo 49206 Exec -> Pronto por tempo
+163 : Processo 45473 Pronto -> Exec
+164 : Processo 45473 Exec -> Pronto por tempo
+165 : Processo 49206 Pronto -> Exec
+166 : Processo 49206 Exec -> Pronto por tempo
+167 : Processo 45473 Pronto -> Exec
+168 : Processo 45473 Exec -> Pronto por tempo
+169 : Processo 49206 Pronto -> Exec
+170 : Processo 49206 Exec -> Pronto por tempo
+171 : Processo 45473 Pronto -> Exec
+172 : Processo 45473 Exec -> Pronto por tempo
+173 : Processo 49206 Pronto -> Exec
+174 : Processo 49206 Exec -> Pronto por tempo
+175 : Processo 45473 Pronto -> Exec
+176 : Processo 45473 Exec -> Pronto por tempo
+177 : Processo 49206 Pronto -> Exec
+178 : Processo 49206 Exec -> Pronto por tempo
+179 : Processo 45473 Pronto -> Exec
+180 : Processo 45473 Exec -> Pronto por tempo
+181 : Processo 49206 Pronto -> Exec
+182 : Processo 49206 Exec -> Pronto por tempo
+183 : Processo 45473 Pronto -> Exec
+184 : Processo 45473 Exec -> Pronto por tempo
+185 : Processo 49206 Pronto -> Exec
+186 : Processo 49206 Exec -> Pronto por tempo
+187 : Processo 45473 Pronto -> Exec
+188 : Processo 45473 Exec -> Pronto por tempo
+189 : Processo 49206 Pronto -> Exec
+190 : Processo 49206 Exec -> Pronto por tempo
+191 : Processo 45473 Pronto -> Exec
+192 : Processo 45473 Exec -> Pronto por tempo
+193 : Processo 49206 Pronto -> Exec
+194 : Processo 49206 Exec -> Pronto por tempo
+195 : Processo 45473 Pronto -> Exec
+196 : Processo 45473 Exec -> Pronto por tempo
+197 : Processo 49206 Pronto -> Exec
+198 : Processo 49206 Exec -> Pronto por tempo
+199 : Processo 45473 Pronto -> Exec
+200 : Processo 45473 Exec -> Pronto por tempo
+201 : Processo 49206 Pronto -> Exec
+202 : Processo 49206 Exec -> Pronto por tempo
+203 : Processo 45473 Pronto -> Exec
+204 : Processo 45473 Exec -> Pronto por tempo
+205 : Processo 49206 Pronto -> Exec
+206 : Processo 49206 Exec -> Pronto por tempo
+207 : Processo 45473 Pronto -> Exec
+208 : Processo 45473 Exec -> Pronto por tempo
+209 : Processo 49206 Pronto -> Exec
+210 : Processo 49206 Exec -> Pronto por tempo
+211 : Processo 45473 Pronto -> Exec
+212 : Processo 45473 Exec -> Pronto por tempo
+213 : Processo 49206 Pronto -> Exec
+214 : Processo 49206 Exec -> Pronto por tempo
+215 : Processo 45473 Pronto -> Exec
+216 : Processo 45473 Exec -> Pronto por tempo
+217 : Processo 49206 Pronto -> Exec
+218 : Processo 49206 Exec -> Pronto por tempo
+219 : Processo 45473 Pronto -> Exec
+220 : Processo 45473 Exec -> Pronto por tempo
+221 : Processo 49206 Pronto -> Exec
+222 : Processo 49206 Exec -> Pronto por tempo
+223 : Processo 45473 Pronto -> Exec
+224 : Processo 45473 Exec -> Pronto por tempo
+225 : Processo 49206 Pronto -> Exec
+226 : Processo 49206 Exec -> Pronto por tempo
+227 : Processo 45473 Pronto -> Exec
+228 : Processo 45473 Exec -> Pronto por tempo
+229 : Processo 49206 Pronto -> Exec
+230 : Processo 49206 Exec -> Pronto por tempo
+231 : Processo 45473 Pronto -> Exec
+232 : Processo 45473 Exec -> Pronto por tempo
+233 : Processo 49206 Pronto -> Exec
+234 : Processo 49206 Exec -> Pronto por tempo
+235 : Processo 45473 Pronto -> Exec
+236 : Processo 45473 Exec -> Pronto por tempo
+237 : Processo 49206 Pronto -> Exec
+238 : Processo 49206 Exec -> Pronto por tempo
+239 : Processo 45473 Pronto -> Exec
+240 : Processo 45473 Exec -> Pronto por tempo
+241 : Processo 49206 Pronto -> Exec
+242 : Processo 49206 Exec -> Pronto por tempo
+243 : Processo 45473 Pronto -> Exec
+244 : Processo 45473 Exec -> Pronto por tempo
+245 : Processo 49206 Pronto -> Exec
+246 : Processo 49206 Exec -> Pronto por tempo
+247 : Processo 45473 Pronto -> Exec
+248 : Processo 45473 Exec -> Pronto por tempo
+249 : Processo 49206 Pronto -> Exec
+250 : Processo 49206 Exec -> Pronto por tempo
+251 : Processo 45473 Pronto -> Exec
+252 : Processo 45473 Exec -> Pronto por tempo
+253 : Processo 49206 Pronto -> Exec
+254 : Processo 49206 Exec -> Pronto por tempo
+255 : Processo 45473 Pronto -> Exec
+256 : Processo 45473 Exec -> Pronto por tempo
+257 : Processo 49206 Pronto -> Exec
+258 : Processo 49206 Exec -> Pronto por tempo
+259 : Processo 45473 Pronto -> Exec
+260 : Processo 45473 Exec -> Pronto por tempo
+261 : Processo 49206 Pronto -> Exec
+262 : Processo 49206 Exec -> Pronto por tempo
+263 : Processo 45473 Pronto -> Exec
+264 : Processo 45473 Exec -> Pronto por tempo
+265 : Processo 49206 Pronto -> Exec
+266 : Processo 49206 Exec -> Pronto por tempo
+267 : Processo 45473 Pronto -> Exec
+268 : Processo 45473 Exec -> Pronto por tempo
+269 : Processo 49206 Pronto -> Exec
+270 : Processo 49206 Exec -> Pronto por tempo
+271 : Processo 45473 Pronto -> Exec
+272 : Processo 45473 Exec -> Pronto por tempo
+273 : Processo 49206 Pronto -> Exec
+274 : Processo 49206 Exec -> Pronto por tempo
+275 : Processo 45473 Pronto -> Exec
+276 : Processo 45473 Exec -> Pronto por tempo
+277 : Processo 49206 Pronto -> Exec
+278 : Processo 49206 Exec -> Pronto por tempo
+279 : Processo 45473 Pronto -> Exec
+280 : Processo 45473 Exec -> Pronto por tempo
+281 : Processo 49206 Pronto -> Exec
+282 : Processo 49206 Exec -> Pronto por tempo
+283 : Processo 45473 Pronto -> Exec
+284 : Processo 45473 Exec -> Pronto por tempo
+285 : Processo 49206 Pronto -> Exec
+286 : Processo 49206 Exec -> Pronto por tempo
+287 : Processo 45473 Pronto -> Exec
+288 : Processo 45473 Exec -> Pronto por tempo
+289 : Processo 49206 Pronto -> Exec
+290 : Processo 49206 Exec -> Pronto por tempo
+291 : Processo 45473 Pronto -> Exec
+292 : Processo 45473 Exec -> Pronto por tempo
+293 : Processo 49206 Pronto -> Exec
+294 : Processo 49206 Exec -> Pronto por tempo
+295 : Processo 45473 Pronto -> Exec
+296 : Processo 45473 Exec -> Pronto por tempo
+297 : Processo 49206 Pronto -> Exec
+298 : Processo 49206 Exec -> Pronto por tempo
+299 : Processo 45473 Pronto -> Exec
+300 : Processo 45473 Exec -> Pronto por tempo
+301 : Processo 49206 Pronto -> Exec
+302 : Processo 49206 Exec -> Pronto por tempo
+303 : Processo 45473 Pronto -> Exec
+304 : Processo 45473 Exec -> Pronto por tempo
+305 : Processo 49206 Pronto -> Exec
+306 : Processo 49206 Exec -> Pronto por tempo
+307 : Processo 45473 Pronto -> Exec
+308 : Processo 45473 Exec -> Pronto por tempo
+309 : Processo 49206 Pronto -> Exec
+310 : Processo 49206 Exec -> Pronto por tempo
+311 : Processo 45473 Pronto -> Exec
+312 : Processo 45473 Exec -> Pronto por tempo
+313 : Processo 49206 Pronto -> Exec
+314 : Processo 49206 Exec -> Pronto por tempo
+315 : Processo 45473 Pronto -> Exec
+316 : Processo 45473 Exec -> Pronto por tempo
+317 : Processo 49206 Pronto -> Exec
+318 : Processo 49206 Exec -> Pronto por tempo
+319 : Processo 45473 Pronto -> Exec
+320 : Processo 45473 Exec -> Pronto por tempo
+321 : Processo 49206 Pronto -> Exec
+322 : Processo 49206 Exec -> Pronto por tempo
+323 : Processo 45473 Pronto -> Exec
+324 : Processo 45473 Exec -> Pronto por tempo
+325 : Processo 49206 Pronto -> Exec
+326 : Processo 49206 Exec -> Pronto por tempo
+327 : Processo 45473 Pronto -> Exec
+328 : Processo 45473 Exec -> Pronto por tempo
+329 : Processo 49206 Pronto -> Exec
+330 : Processo 49206 Exec -> Pronto por tempo
+331 : Processo 45473 Pronto -> Exec
+332 : Processo 45473 Exec -> Pronto por tempo
+333 : Processo 49206 Pronto -> Exec
+334 : Processo 49206 Exec -> Pronto por tempo
+335 : Processo 45473 Pronto -> Exec
+336 : Processo 45473 Exec -> Pronto por tempo
+337 : Processo 49206 Pronto -> Exec
+338 : Processo 49206 Exec -> Pronto por tempo
+339 : Processo 45473 Pronto -> Exec
+340 : Processo 45473 Exec -> Pronto por tempo
+341 : Processo 49206 Pronto -> Exec
+342 : Processo 49206 Exec -> Pronto por tempo
+343 : Processo 45473 Pronto -> Exec
+344 : Processo 45473 Exec -> Pronto por tempo
+345 : Processo 49206 Pronto -> Exec
+346 : Processo 49206 Exec -> Pronto por tempo
+347 : Processo 45473 Pronto -> Exec
+348 : Processo 45473 Exec -> Pronto por tempo
+349 : Processo 49206 Pronto -> Exec
+350 : Processo 49206 Exec -> Pronto por tempo
+351 : Processo 45473 Pronto -> Exec
+352 : Processo 45473 Exec -> Pronto por tempo
+353 : Processo 49206 Pronto -> Exec
+354 : Processo 49206 Exec -> Pronto por tempo
+355 : Processo 45473 Pronto -> Exec
+356 : Processo 45473 Exec -> Pronto por tempo
+357 : Processo 49206 Pronto -> Exec
+358 : Processo 49206 Exec -> Pronto por tempo
+359 : Processo 45473 Pronto -> Exec
+360 : Processo 45473 Exec -> Pronto por tempo
+361 : Processo 49206 Pronto -> Exec
+362 : Processo 49206 Exec -> Pronto por tempo
+363 : Processo 45473 Pronto -> Exec
+364 : Processo 45473 Exec -> Pronto por tempo
+365 : Processo 49206 Pronto -> Exec
+366 : Processo 49206 Exec -> Pronto por tempo
+367 : Processo 45473 Pronto -> Exec
+368 : Processo 45473 Exec -> Pronto por tempo
+369 : Processo 49206 Pronto -> Exec
+370 : Processo 49206 Exec -> Pronto por tempo
+371 : Processo 45473 Pronto -> Exec
+372 : Processo 45473 Exec -> Pronto por tempo
+373 : Processo 49206 Pronto -> Exec
+374 : Processo 49206 Exec -> Pronto por tempo
+375 : Processo 45473 Pronto -> Exec
+376 : Processo 45473 Exec -> Pronto por tempo
+377 : Processo 49206 Pronto -> Exec
+378 : Processo 49206 Exec -> Pronto por tempo
+379 : Processo 45473 Pronto -> Exec
+380 : Processo 45473 Exec -> Pronto por tempo
+381 : Processo 49206 Pronto -> Exec
+382 : Processo 49206 Exec -> Pronto por tempo
+383 : Processo 45473 Pronto -> Exec
+384 : Processo 45473 Exec -> Pronto por tempo
+385 : Processo 49206 Pronto -> Exec
+386 : Processo 49206 Exec -> Pronto por tempo
+387 : Processo 45473 Pronto -> Exec
+388 : Processo 45473 Exec -> Pronto por tempo
+389 : Processo 49206 Pronto -> Exec
+390 : Processo 49206 Exec -> Pronto por tempo
+391 : Processo 45473 Pronto -> Exec
+392 : Processo 45473 Exec -> Pronto por tempo
+393 : Processo 49206 Pronto -> Exec
+394 : Processo 49206 Exec -> Pronto por tempo
+395 : Processo 45473 Pronto -> Exec
+396 : Processo 45473 Exec -> Pronto por tempo
+397 : Processo 49206 Pronto -> Exec
+398 : Processo 49206 Exec -> Pronto por tempo
+399 : Processo 45473 Pronto -> Exec
+400 : Processo 45473 Exec -> Pronto por tempo
+401 : Processo 49206 Pronto -> Exec
+402 : Processo 49206 Exec -> Pronto por tempo
+403 : Processo 45473 Pronto -> Exec
+404 : Processo 45473 Exec -> Pronto por tempo
+405 : Processo 49206 Pronto -> Exec
+406 : Processo 49206 Exec -> Pronto por tempo
+407 : Processo 45473 Pronto -> Exec
+408 : Processo 45473 Exec -> Pronto por tempo
+409 : Processo 49206 Pronto -> Exec
+410 : Processo 49206 Exec -> Pronto por tempo
+411 : Processo 45473 Pronto -> Exec
+412 : Processo 45473 Exec -> Pronto por tempo
+413 : Processo 49206 Pronto -> Exec
+414 : Processo 49206 Exec -> Pronto por tempo
+415 : Processo 45473 Pronto -> Exec
+416 : Processo 45473 Exec -> Pronto por tempo
+417 : Processo 49206 Pronto -> Exec
+418 : Processo 49206 Exec -> Pronto por tempo
+419 : Processo 45473 Pronto -> Exec
+420 : Processo 45473 Exec -> Pronto por tempo
+421 : Processo 49206 Pronto -> Exec
+422 : Processo 49206 Exec -> Pronto por tempo
+423 : Processo 45473 Pronto -> Exec
+424 : Processo 45473 Exec -> Pronto por tempo
+425 : Processo 49206 Pronto -> Exec
+426 : Processo 49206 Exec -> Pronto por tempo
+427 : Processo 45473 Pronto -> Exec
+428 : Processo 45473 Exec -> Pronto por tempo
+429 : Processo 49206 Pronto -> Exec
+430 : Processo 49206 Exec -> Pronto por tempo
+431 : Processo 45473 Pronto -> Exec
+432 : Processo 45473 Exec -> Pronto por tempo
+433 : Processo 49206 Pronto -> Exec
+434 : Processo 49206 Exec -> Pronto por tempo
+435 : Processo 45473 Pronto -> Exec
+436 : Processo 45473 Exec -> Pronto por tempo
+437 : Processo 49206 Pronto -> Exec
+438 : Processo 49206 Exec -> Pronto por tempo
+439 : Processo 45473 Pronto -> Exec
+440 : Processo 45473 Exec -> Pronto por tempo
+441 : Processo 49206 Pronto -> Exec
+442 : Processo 49206 Exec -> Pronto por tempo
+443 : Processo 45473 Pronto -> Exec
+444 : Processo 45473 Exec -> Pronto por tempo
+445 : Processo 49206 Pronto -> Exec
+446 : Processo 49206 Exec -> Pronto por tempo
+447 : Processo 45473 Pronto -> Exec
+448 : Processo 45473 Exec -> Pronto por tempo
+449 : Processo 49206 Pronto -> Exec
+450 : Processo 49206 Exec -> Pronto por tempo
+451 : Processo 45473 Pronto -> Exec
+452 : Processo 45473 Exec -> Pronto por tempo
+453 : Processo 49206 Pronto -> Exec
+454 : Processo 49206 Exec -> Pronto por tempo
+455 : Processo 45473 Pronto -> Exec
+456 : Processo 45473 Exec -> Pronto por tempo
+457 : Processo 49206 Pronto -> Exec
+458 : Processo 49206 Exec -> Pronto por tempo
+459 : Processo 45473 Pronto -> Exec
+460 : Processo 45473 Exec -> Pronto por tempo
+461 : Processo 49206 Pronto -> Exec
+462 : Processo 49206 Exec -> Pronto por tempo
+463 : Processo 45473 Pronto -> Exec
+464 : Processo 45473 Exec -> Pronto por tempo
+465 : Processo 49206 Pronto -> Exec
+466 : Processo 49206 Exec -> Pronto por tempo
+467 : Processo 45473 Pronto -> Exec
+468 : Processo 45473 Exec -> Pronto por tempo
+469 : Processo 49206 Pronto -> Exec
+470 : Processo 49206 Exec -> Pronto por tempo
+471 : Processo 45473 Pronto -> Exec
+472 : Processo 45473 Exec -> Pronto por tempo
+473 : Processo 49206 Pronto -> Exec
+474 : Processo 49206 Exec -> Pronto por tempo
+475 : Processo 45473 Pronto -> Exec
+476 : Processo 45473 Exec -> Pronto por tempo
+477 : Processo 49206 Pronto -> Exec
+478 : Processo 49206 Exec -> Pronto por tempo
+479 : Processo 45473 Pronto -> Exec
+480 : Processo 45473 Exec -> Pronto por tempo
+481 : Processo 49206 Pronto -> Exec
+482 : Processo 49206 Exec -> Pronto por tempo
+483 : Processo 45473 Pronto -> Exec
+484 : Processo 45473 Exec -> Pronto por tempo
+485 : Processo 49206 Pronto -> Exec
+486 : Processo 49206 Exec -> Pronto por tempo
+487 : Processo 45473 Pronto -> Exec
+488 : Processo 45473 Exec -> Pronto por tempo
+489 : Processo 49206 Pronto -> Exec
+490 : Processo 49206 Exec -> Pronto por tempo
+491 : Processo 45473 Pronto -> Exec
+492 : Processo 45473 Exec -> Pronto por tempo
+493 : Processo 49206 Pronto -> Exec
+494 : Processo 49206 Exec -> Pronto por tempo
+495 : Processo 45473 Pronto -> Exec
+496 : Processo 45473 Exec -> Pronto por tempo
+497 : Processo 49206 Pronto -> Exec
+498 : Processo 49206 Exec -> Pronto por tempo
+499 : Processo 45473 Pronto -> Exec
+500 : Processo 45473 Exec -> Pronto por tempo
+501 : Processo 49206 Pronto -> Exec
+502 : Processo 49206 Exec -> Pronto por tempo
+503 : Processo 45473 Pronto -> Exec
+504 : Processo 45473 Exec -> Pronto por tempo
+505 : Processo 49206 Pronto -> Exec
+506 : Processo 49206 Exec -> Pronto por tempo
+507 : Processo 45473 Pronto -> Exec
+508 : Processo 45473 Exec -> Pronto por tempo
+509 : Processo 49206 Pronto -> Exec
+510 : Processo 49206 Exec -> Pronto por tempo
+511 : Processo 45473 Pronto -> Exec
+512 : Processo 45473 Exec -> Pronto por tempo
+513 : Processo 49206 Pronto -> Exec
+514 : Processo 49206 Exec -> Pronto por tempo
+515 : Processo 45473 Pronto -> Exec
+516 : Processo 45473 Exec -> Pronto por tempo
+517 : Processo 49206 Pronto -> Exec
+518 : Processo 49206 Exec -> Pronto por tempo
+519 : Processo 45473 Pronto -> Exec
+520 : Processo 45473 Exec -> Pronto por tempo
+521 : Processo 49206 Pronto -> Exec
+522 : Processo 49206 Exec -> Pronto por tempo
+523 : Processo 45473 Pronto -> Exec
+524 : Processo 45473 Exec -> Pronto por tempo
+525 : Processo 49206 Pronto -> Exec
+526 : Processo 49206 Exec -> Pronto por tempo
+527 : Processo 45473 Pronto -> Exec
+528 : Processo 45473 Exec -> Pronto por tempo
+529 : Processo 49206 Pronto -> Exec
+530 : Processo 49206 Exec -> Pronto por tempo
+531 : Processo 45473 Pronto -> Exec
+532 : Processo 45473 Exec -> Pronto por tempo
+533 : Processo 49206 Pronto -> Exec
+534 : Processo 49206 Exec -> Pronto por tempo
+535 : Processo 45473 Pronto -> Exec
+536 : Processo 45473 Exec -> Pronto por tempo
+537 : Processo 49206 Pronto -> Exec
+538 : Processo 49206 Exec -> Pronto por tempo
+539 : Processo 45473 Pronto -> Exec
+540 : Processo 45473 Exec -> Pronto por tempo
+541 : Processo 49206 Pronto -> Exec
+542 : Processo 49206 Exec -> Pronto por tempo
+543 : Processo 45473 Pronto -> Exec
+544 : Processo 45473 Exec -> Pronto por tempo
+545 : Processo 49206 Pronto -> Exec
+546 : Processo 49206 Exec -> Pronto por tempo
+547 : Processo 45473 Pronto -> Exec
+548 : Processo 45473 Exec -> Pronto por tempo
+549 : Processo 49206 Pronto -> Exec
+550 : Processo 49206 Exec -> Pronto por tempo
+551 : Processo 45473 Pronto -> Exec
+552 : Processo 45473 Exec -> Pronto por tempo
+553 : Processo 49206 Pronto -> Exec
+554 : Processo 49206 Exec -> Pronto por tempo
+555 : Processo 45473 Pronto -> Exec
+556 : Processo 45473 Exec -> Pronto por tempo
+557 : Processo 49206 Pronto -> Exec
+558 : Processo 49206 Exec -> Pronto por tempo
+559 : Processo 45473 Pronto -> Exec
+560 : Processo 45473 Exec -> Pronto por tempo
+561 : Processo 49206 Pronto -> Exec
+562 : Processo 49206 Exec -> Pronto por tempo
+563 : Processo 45473 Pronto -> Exec
+564 : Processo 45473 Exec -> Pronto por tempo
+565 : Processo 49206 Pronto -> Exec
+566 : Processo 49206 Exec -> Pronto por tempo
+567 : Processo 45473 Pronto -> Exec
+568 : Processo 45473 Exec -> Pronto por tempo
+569 : Processo 49206 Pronto -> Exec
+570 : Processo 49206 Exec -> Pronto por tempo
+571 : Processo 45473 Pronto -> Exec
+572 : Processo 45473 Exec -> Pronto por tempo
+573 : Processo 49206 Pronto -> Exec
+574 : Processo 49206 Exec -> Pronto por tempo

@@ -1,0 +1,158 @@
+Aluno: João Lucas Lima de Melo
+
+I - CRIAÇÃO DE PROCESSOS
+a) Práticas de Simulação
+    * Execute o simulador SOsim e identifique as quatro janelas que são 
+abertas na inicialização. 
+    Controle SOsim: Controle de parâmetros do sistema, tempo de execução 
+    total, quantidade de processos, gestão de memória, inicialização de
+    uma nova sessão, opções de sistema e gerência de janelas.
+    
+    Gerência de Processos: Controle de processos, seus parâmetros, estados
+    e ciclos de vida.
+
+    Gerência do Processador: Controle de I/O, visualização de processos em
+    exceução, filas e estados do processo, controle de parâmetros da CPU
+
+    Gerência de Memória: vizualização de parâmetros de memória e 
+    de processos alocados em endereço de memória.
+    * Crie um processo: janela Gerência de Processos / Criar – 
+janela Criação de Processos / Criar.
+
+b)Análise Prática
+* Na janela Gerência de Processos, observe algumas informações sobre o 
+contexto de software do processo como PID, prioridade, estado do processo 
+e tempo de processador. 
+* Na janela Gerência de Processador, observe o processo transicionando 
+entre estados. 
+* Na janela Gerência de Processador, movimente a barra de Clock de UCP 
+e observe as variações ocorridas.
+
+c) Questão teórica para responder com a ajuda do simulador
+*  na observação do comportamento do processo criado, identifique se o 
+processo é I/O-bound ou CPU-bound? Justifique a resposta.
+
+    O processo criado é identificado como CPU-bound, uma vez que
+    não depende de resposta de dispositivos de entrada e saída, dependendo
+    apenas do processador para execução e alocação na fila de processos.
+
+
+II - TIPOS DE PROCESSOS
+a) Práticas de Simulação
+* Reinicialize o simulador. 
+* Crie um processo do tipo CPU-bound: janela Gerência de Processos / Criar 
+– janela Criação de Processos / Criar (tipo de processo deve ser CPU-bound).
+* Crie outro processo do tipo I/O-bound: janela Gerência de Processos / 
+Cria – janela Criação de Processos / Criar (tipo de processo deve ser 
+I/O-bound).
+
+b) Análise Prática
+* Na janela Gerência de Processos, observe as mudanças de estado dos 
+dois processos. 
+* Na janela Gerência de Processador, observe o comportamento dos processos 
+e as mudanças de contexto em função do tipo I/O-bound e CPU-bound. 
+* Na janela Gerência de Processos, compare a taxa de crescimento do tempo 
+de processador dos dois processos. 
+
+c)Questão teórica para responder com a ajuda do simulador 
+* Analise os efeitos gerados no caso de redução do tempo gasto na operação 
+de E/S pelo processo I/O-bound. 
+    O processo do tipo CPU-bound é executado com muito mais frequência
+    do que o I/O-bound. Em dado momento da exceução, o processo CPU-bound
+    foi executado 191 vezes, enquanto o I/O-bound havia sido executado 33
+    vezes. 
+    Analisando os estados e tempos de CPU de ambos os processos na
+    janela de Processos, além de analizar o comportamento da fila de 
+    execução e da CPU na janela de Gerência do Processador, é possível 
+    perceber que o processo I/O-bound é suspenso por a espera de resposta
+    de dispositivos de I/O. Enquanto suspenso, a CPU é ocupada pelo 
+    processo CPU-bound.
+
+
+
+III - PCB
+a) Práticas de Simulação
+* Reinicialize o simulador. 
+* Crie dois novos processos: janela Gerência de Processos / Criar – janela Criação de 
+Processos / Criar.
+
+b) Análise Prática
+* Na janela Gerência de Processos / PCB, observe as informações sobre o 
+contexto de software e hardware dos processos criados.
+
+c)Questão teórica para responder com a ajuda do simulador 
+* Identifique quais informações do PCB são estáticas ou dinâmicas e quais 
+fazem parte do contexto de software e do contexto de hardware. 
+    As informações estáticas do PCB são: Prio Base/Dinânica, Tempo 
+    de Criação, Frames e PID. Todas setadas na criação do processo. As 
+    informações dinâmicas do PCB são: Estado, Tempo de UCP e PC, todas 
+    variam durante o processamento e ciclo de vida do processo. Frames,
+    Tempo de UCP e estado fazem parte do contexto de hardware, as demais,
+    contexto de software.
+
+
+IV - ESTATÍSTICAS
+a) Práticas de Simulação
+*  Reinicialize o simulador. 
+* Ative a janela de Estatísticas em Console SOsim / Janelas / Estatísticas.
+* Crie dois novos processos: janela Gerência de Processos / Criar – 
+janela Criação de Processos / Criar.
+
+b) Análise Prática
+* Na janela Estatísticas, observe as informações: número de processos, 
+estados dos processos e processos escalonados 
+
+c) Questão teórica para responder com a ajuda do simulador 
+* Observe que em alguns momentos existem processos no estado de pronto 
+porém nenhum em estado de execução. Explique o porquê dessa situação.
+    Esse intervalo entre o término de execução de processos pode ser
+    entendido como o tempo necessário para a alocação de um novo processo 
+    em estado de protno para exceução, conceito denominado como Sobrecarga.
+
+V - LOG DE EXECUÇÃO DOS PROCESSOS
+a) Práticas de Simulação
+* Reinicalize o simulador. 
+* Ative a janela de Log em Console SOsim / Janelas / Log.
+* Crie dois novos processos do tipo CPU-bound: janela Gerência de 
+Processos / Cria – janela
+    Criação de Processos / Criar (tipo de processo deve ser CPU-bound).
+
+b) Análise Prática
+* Na janela Log, observe as informações sobre as mudanças de estado dos 
+processos observando o tempo que cada processo permanece nos estados de 
+Execução e Pronto. 
+* Reinicalize o simulador parametrizando com um valor de fatia de tempo 
+diferente observe as diferenças na janela Log.
+
+c) Questão teórica para responder usando o simulador 
+Analise comparativamente a concorrência de dois processos CPU-bound 
+executando em dois sistemas operacionais que se diferenciam apenas pelo 
+valor da fatia de tempo. 
+
+
+VI - SUSPENSÃO E ELIMINAÇÃO DE PROCESSOS
+a) Prátcas de Simulação
+*  Reinicalize o simulador. 
+* Crie dois novos processos: janela Gerência de Processos / Cria – 
+janela Criação de Processos / Criar
+
+b) Análise Prática
+*  Na janela Gerência de Processos, observe as informações sobre o 
+contexto de software dos processos criados. 
+* Na janela Gerência de Processador, observe a concorrência no uso do 
+processador pelos dois processos. 
+* Compare percentualmente os tempos de uso do processador entre os 
+dois processos. 
+* Suspenda temporariamente um dos processos na janela Gerência de 
+Processos / Suspender.
+* Observe os estados dos processos, a concorrência no uso do processador 
+e novamente compare percentualmente os tempos de uso do processador entre 
+os dois processos. 
+* Libere o processo do estado de espera (suspenso) na janela Gerência de 
+Processos / Prosseguir.
+* Elimine um dos processos na janela Gerência de Processos / Finalizar.
+
+c) Questão teórica para responder com a ajuda do simulador 
+* Ao se eliminar um processo em estado de suspenso, o processo não é 
+eliminado imediatamente. 
+Reproduza essa situação no simulador e explique o porquê da situação. 

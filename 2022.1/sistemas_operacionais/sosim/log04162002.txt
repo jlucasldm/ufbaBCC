@@ -1,0 +1,82 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+15 : Processo 248461 alocacao de blocos no pagefile
+15 : Processo 248461 HwPF - Executável0
+15 : Processo 248461 HwPF - Executável1
+15 : Processo 248461 HwPF - Executável2
+15 : Processo 248461 HwPF - Executável3
+15 : Processo 248461 HwPF - Executável4
+15 : Processo 248461 criado
+16 : Processo 248461 Pronto -> Exec
+17 : Processo 248461 Exec -> Pronto por tempo
+18 : Processo 248461 Pronto -> Exec
+18 : Processo 251440 alocacao de blocos no pagefile
+18 : Processo 251440 HwPF - Executável0
+18 : Processo 251440 HwPF - Executável1
+18 : Processo 251440 HwPF - Executável2
+18 : Processo 251440 HwPF - Executável3
+18 : Processo 251440 HwPF - Executável4
+18 : Processo 251440 criado
+19 : Processo 248461 Exec -> Pronto por tempo
+20 : Processo 251440 Pronto -> Exec
+21 : Processo 251440 Exec -> Pronto por tempo
+22 : Processo 248461 Pronto -> Exec
+23 : Processo 248461 Exec -> Pronto por tempo
+24 : Processo 251440 Pronto -> Exec
+25 : Processo 251440 Exec -> Pronto por tempo
+26 : Processo 248461 Pronto -> Exec
+27 : Processo 248461 Exec -> Pronto por tempo
+28 : Processo 251440 Pronto -> Exec
+29 : Processo 251440 Exec -> Pronto por tempo
+30 : Processo 248461 Pronto -> Exec
+31 : Processo 248461 Exec -> Pronto por tempo
+32 : Processo 251440 Pronto -> Exec
+33 : Processo 251440 Exec -> Pronto por tempo
+34 : Processo 248461 Pronto -> Exec
+35 : Processo 248461 Exec -> Pronto por tempo
+36 : Processo 251440 Pronto -> Exec
+37 : Processo 251440 Exec -> Pronto por tempo
+38 : Processo 248461 Pronto -> Exec
+39 : Processo 248461 Exec -> Pronto por tempo
+40 : Processo 251440 Pronto -> Exec
+41 : Processo 251440 Exec -> Pronto por tempo
+42 : Processo 248461 Pronto -> Exec
+43 : Processo 248461 Exec -> Pronto por tempo
+44 : Processo 251440 Pronto -> Exec
+45 : Processo 251440 Exec -> Pronto por tempo
+46 : Processo 248461 Pronto -> Exec
+47 : Processo 248461 Exec -> Pronto por tempo
+48 : Processo 251440 Pronto -> Exec
+49 : Processo 251440 Exec -> Pronto por tempo
+50 : Processo 248461 Pronto -> Exec
+51 : Processo 248461 Exec -> Pronto por tempo
+52 : Processo 251440 Pronto -> Exec
+53 : Processo 251440 Exec -> Pronto por tempo
+54 : Processo 248461 Pronto -> Exec
+55 : Processo 248461 Exec -> Pronto por tempo
+56 : Processo 251440 Pronto -> Exec
+57 : Processo 251440 Exec -> Pronto por tempo
+58 : Processo 248461 Pronto -> Exec
+59 : Processo 248461 Exec -> Pronto por tempo
+60 : Processo 251440 Pronto -> Exec
+61 : Processo 251440 Exec -> Pronto por tempo
+62 : Processo 248461 Pronto -> Exec
+63 : Processo 248461 Exec -> Pronto por tempo
+64 : Processo 251440 Pronto -> Exec
+65 : Processo 251440 Exec -> Pronto por tempo
+66 : Processo 248461 Pronto -> Exec
+67 : Processo 248461 Exec -> Pronto por tempo
+68 : Processo 251440 Pronto -> Exec
+69 : Processo 251440 Exec -> Pronto por tempo
+70 : Processo 248461 Pronto -> Exec
+71 : Processo 248461 Exec -> Pronto por tempo
+72 : Processo 251440 Pronto -> Exec
+73 : Processo 251440 Exec -> Pronto por tempo
+74 : Processo 248461 Pronto -> Exec
+75 : Processo 248461 Exec -> Pronto por tempo
+76 : Processo 251440 Pronto -> Exec
+77 : Processo 251440 Exec -> Pronto por tempo
+78 : Processo 248461 Pronto -> Exec
+79 : Processo 248461 Exec -> Pronto por tempo
+80 : Processo 251440 Pronto -> Exec
+81 : Processo 251440 Exec -> Pronto por tempo

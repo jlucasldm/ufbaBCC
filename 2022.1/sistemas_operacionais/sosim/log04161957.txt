@@ -1,0 +1,345 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+20 : Processo 5723876 alocacao de blocos no pagefile
+20 : Processo 5723876 HwPF - Executável0
+20 : Processo 5723876 HwPF - Executável1
+20 : Processo 5723876 HwPF - Executável2
+20 : Processo 5723876 HwPF - Executável3
+20 : Processo 5723876 HwPF - Executável4
+20 : Processo 5723876 criado
+21 : Processo 5723876 Pronto -> Exec
+22 : Processo 5723876 Exec -> Pronto por tempo
+23 : Processo 5723876 Pronto -> Exec
+24 : Processo 5723876 Exec -> Pronto por tempo
+25 : Processo 5723876 Pronto -> Exec
+25 : Processo 5728628 alocacao de blocos no pagefile
+25 : Processo 5728628 HwPF - Executável0
+25 : Processo 5728628 HwPF - Executável1
+25 : Processo 5728628 HwPF - Executável2
+25 : Processo 5728628 HwPF - Executável3
+25 : Processo 5728628 HwPF - Executável4
+25 : Processo 5728628 criado
+26 : Processo 5723876 Exec -> Pronto por tempo
+27 : Processo 5728628 Pronto -> Exec
+27 : Processo 5728628 Exec -> I/O
+28 : Processo 5723876 Pronto -> Exec
+29 : Processo 5723876 Exec -> Pronto por tempo
+30 : Processo 5723876 Pronto -> Exec
+31 : Processo 5723876 Exec -> Pronto por tempo
+32 : Processo 5723876 Pronto -> Exec
+33 : Processo 5723876 Exec -> Pronto por tempo
+34 : Processo 5723876 Pronto -> Exec
+35 : Processo 5723876 Exec -> Pronto por tempo
+36 : Processo 5723876 Pronto -> Exec
+37 : Processo 5723876 Exec -> Pronto por tempo
+38 : Processo 5723876 Pronto -> Exec
+39 : Processo 5723876 Exec -> Pronto por tempo
+40 : Processo 5728628 Pronto -> Exec
+41 : Processo 5728628 Exec -> Pronto por tempo
+42 : Processo 5723876 Pronto -> Exec
+43 : Processo 5723876 Exec -> Pronto por tempo
+44 : Processo 5728628 Pronto -> Exec
+44 : Processo 5728628 Exec -> I/O
+45 : Processo 5723876 Pronto -> Exec
+46 : Processo 5723876 Exec -> Pronto por tempo
+47 : Processo 5723876 Pronto -> Exec
+48 : Processo 5723876 Exec -> Pronto por tempo
+49 : Processo 5723876 Pronto -> Exec
+50 : Processo 5723876 Exec -> Pronto por tempo
+51 : Processo 5723876 Pronto -> Exec
+52 : Processo 5723876 Exec -> Pronto por tempo
+53 : Processo 5723876 Pronto -> Exec
+54 : Processo 5723876 Exec -> Pronto por tempo
+55 : Processo 5723876 Pronto -> Exec
+56 : Processo 5723876 Exec -> Pronto por tempo
+57 : Processo 5728628 Pronto -> Exec
+57 : Processo 5728628 Exec -> I/O
+58 : Processo 5723876 Pronto -> Exec
+59 : Processo 5723876 Exec -> Pronto por tempo
+60 : Processo 5723876 Pronto -> Exec
+61 : Processo 5723876 Exec -> Pronto por tempo
+62 : Processo 5723876 Pronto -> Exec
+63 : Processo 5723876 Exec -> Pronto por tempo
+64 : Processo 5723876 Pronto -> Exec
+65 : Processo 5723876 Exec -> Pronto por tempo
+66 : Processo 5723876 Pronto -> Exec
+67 : Processo 5723876 Exec -> Pronto por tempo
+68 : Processo 5723876 Pronto -> Exec
+69 : Processo 5723876 Exec -> Pronto por tempo
+70 : Processo 5728628 Pronto -> Exec
+70 : Processo 5728628 Exec -> I/O
+71 : Processo 5723876 Pronto -> Exec
+72 : Processo 5723876 Exec -> Pronto por tempo
+73 : Processo 5723876 Pronto -> Exec
+74 : Processo 5723876 Exec -> Pronto por tempo
+75 : Processo 5723876 Pronto -> Exec
+76 : Processo 5723876 Exec -> Pronto por tempo
+77 : Processo 5723876 Pronto -> Exec
+78 : Processo 5723876 Exec -> Pronto por tempo
+79 : Processo 5723876 Pronto -> Exec
+80 : Processo 5723876 Exec -> Pronto por tempo
+81 : Processo 5723876 Pronto -> Exec
+82 : Processo 5723876 Exec -> Pronto por tempo
+83 : Processo 5728628 Pronto -> Exec
+83 : Processo 5728628 Exec -> I/O
+84 : Processo 5723876 Pronto -> Exec
+85 : Processo 5723876 Exec -> Pronto por tempo
+86 : Processo 5723876 Pronto -> Exec
+87 : Processo 5723876 Exec -> Pronto por tempo
+88 : Processo 5723876 Pronto -> Exec
+89 : Processo 5723876 Exec -> Pronto por tempo
+90 : Processo 5723876 Pronto -> Exec
+91 : Processo 5723876 Exec -> Pronto por tempo
+92 : Processo 5723876 Pronto -> Exec
+93 : Processo 5723876 Exec -> Pronto por tempo
+94 : Processo 5723876 Pronto -> Exec
+95 : Processo 5723876 Exec -> Pronto por tempo
+96 : Processo 5728628 Pronto -> Exec
+96 : Processo 5728628 Exec -> I/O
+97 : Processo 5723876 Pronto -> Exec
+98 : Processo 5723876 Exec -> Pronto por tempo
+99 : Processo 5723876 Pronto -> Exec
+100 : Processo 5723876 Exec -> Pronto por tempo
+101 : Processo 5723876 Pronto -> Exec
+102 : Processo 5723876 Exec -> Pronto por tempo
+103 : Processo 5723876 Pronto -> Exec
+104 : Processo 5723876 Exec -> Pronto por tempo
+105 : Processo 5723876 Pronto -> Exec
+106 : Processo 5723876 Exec -> Pronto por tempo
+107 : Processo 5723876 Pronto -> Exec
+108 : Processo 5723876 Exec -> Pronto por tempo
+109 : Processo 5728628 Pronto -> Exec
+109 : Processo 5728628 Exec -> I/O
+110 : Processo 5723876 Pronto -> Exec
+111 : Processo 5723876 Exec -> Pronto por tempo
+112 : Processo 5723876 Pronto -> Exec
+113 : Processo 5723876 Exec -> Pronto por tempo
+114 : Processo 5723876 Pronto -> Exec
+115 : Processo 5723876 Exec -> Pronto por tempo
+116 : Processo 5723876 Pronto -> Exec
+117 : Processo 5723876 Exec -> Pronto por tempo
+118 : Processo 5723876 Pronto -> Exec
+119 : Processo 5723876 Exec -> Pronto por tempo
+120 : Processo 5723876 Pronto -> Exec
+121 : Processo 5723876 Exec -> Pronto por tempo
+122 : Processo 5728628 Pronto -> Exec
+122 : Processo 5728628 Exec -> I/O
+123 : Processo 5723876 Pronto -> Exec
+124 : Processo 5723876 Exec -> Pronto por tempo
+125 : Processo 5723876 Pronto -> Exec
+126 : Processo 5723876 Exec -> Pronto por tempo
+127 : Processo 5723876 Pronto -> Exec
+128 : Processo 5723876 Exec -> Pronto por tempo
+129 : Processo 5723876 Pronto -> Exec
+130 : Processo 5723876 Exec -> Pronto por tempo
+131 : Processo 5723876 Pronto -> Exec
+132 : Processo 5723876 Exec -> Pronto por tempo
+133 : Processo 5723876 Pronto -> Exec
+134 : Processo 5723876 Exec -> Pronto por tempo
+135 : Processo 5728628 Pronto -> Exec
+135 : Processo 5728628 Exec -> I/O
+136 : Processo 5723876 Pronto -> Exec
+137 : Processo 5723876 Exec -> Pronto por tempo
+138 : Processo 5723876 Pronto -> Exec
+139 : Processo 5723876 Exec -> Pronto por tempo
+140 : Processo 5723876 Pronto -> Exec
+141 : Processo 5723876 Exec -> Pronto por tempo
+142 : Processo 5723876 Pronto -> Exec
+143 : Processo 5723876 Exec -> Pronto por tempo
+144 : Processo 5723876 Pronto -> Exec
+145 : Processo 5723876 Exec -> Pronto por tempo
+146 : Processo 5723876 Pronto -> Exec
+147 : Processo 5723876 Exec -> Pronto por tempo
+148 : Processo 5728628 Pronto -> Exec
+148 : Processo 5728628 Exec -> I/O
+149 : Processo 5723876 Pronto -> Exec
+150 : Processo 5723876 Exec -> Pronto por tempo
+151 : Processo 5723876 Pronto -> Exec
+152 : Processo 5723876 Exec -> Pronto por tempo
+153 : Processo 5723876 Pronto -> Exec
+154 : Processo 5723876 Exec -> Pronto por tempo
+155 : Processo 5723876 Pronto -> Exec
+156 : Processo 5723876 Exec -> Pronto por tempo
+157 : Processo 5723876 Pronto -> Exec
+158 : Processo 5723876 Exec -> Pronto por tempo
+159 : Processo 5723876 Pronto -> Exec
+160 : Processo 5723876 Exec -> Pronto por tempo
+161 : Processo 5728628 Pronto -> Exec
+161 : Processo 5728628 Exec -> I/O
+162 : Processo 5723876 Pronto -> Exec
+163 : Processo 5723876 Exec -> Pronto por tempo
+164 : Processo 5723876 Pronto -> Exec
+165 : Processo 5723876 Exec -> Pronto por tempo
+166 : Processo 5723876 Pronto -> Exec
+167 : Processo 5723876 Exec -> Pronto por tempo
+168 : Processo 5723876 Pronto -> Exec
+169 : Processo 5723876 Exec -> Pronto por tempo
+170 : Processo 5723876 Pronto -> Exec
+171 : Processo 5723876 Exec -> Pronto por tempo
+172 : Processo 5723876 Pronto -> Exec
+173 : Processo 5723876 Exec -> Pronto por tempo
+174 : Processo 5728628 Pronto -> Exec
+174 : Processo 5728628 Exec -> I/O
+175 : Processo 5723876 Pronto -> Exec
+176 : Processo 5723876 Exec -> Pronto por tempo
+177 : Processo 5723876 Pronto -> Exec
+178 : Processo 5723876 Exec -> Pronto por tempo
+179 : Processo 5723876 Pronto -> Exec
+180 : Processo 5723876 Exec -> Pronto por tempo
+181 : Processo 5723876 Pronto -> Exec
+182 : Processo 5723876 Exec -> Pronto por tempo
+183 : Processo 5723876 Pronto -> Exec
+184 : Processo 5723876 Exec -> Pronto por tempo
+185 : Processo 5723876 Pronto -> Exec
+186 : Processo 5723876 Exec -> Pronto por tempo
+187 : Processo 5728628 Pronto -> Exec
+187 : Processo 5728628 Exec -> I/O
+188 : Processo 5723876 Pronto -> Exec
+189 : Processo 5723876 Exec -> Pronto por tempo
+190 : Processo 5723876 Pronto -> Exec
+191 : Processo 5723876 Exec -> Pronto por tempo
+192 : Processo 5723876 Pronto -> Exec
+193 : Processo 5723876 Exec -> Pronto por tempo
+194 : Processo 5723876 Pronto -> Exec
+195 : Processo 5723876 Exec -> Pronto por tempo
+196 : Processo 5723876 Pronto -> Exec
+197 : Processo 5723876 Exec -> Pronto por tempo
+198 : Processo 5723876 Pronto -> Exec
+199 : Processo 5723876 Exec -> Pronto por tempo
+200 : Processo 5728628 Pronto -> Exec
+200 : Processo 5728628 Exec -> I/O
+201 : Processo 5723876 Pronto -> Exec
+202 : Processo 5723876 Exec -> Pronto por tempo
+203 : Processo 5723876 Pronto -> Exec
+204 : Processo 5723876 Exec -> Pronto por tempo
+205 : Processo 5723876 Pronto -> Exec
+206 : Processo 5723876 Exec -> Pronto por tempo
+207 : Processo 5723876 Pronto -> Exec
+208 : Processo 5723876 Exec -> Pronto por tempo
+209 : Processo 5723876 Pronto -> Exec
+210 : Processo 5723876 Exec -> Pronto por tempo
+211 : Processo 5723876 Pronto -> Exec
+212 : Processo 5723876 Exec -> Pronto por tempo
+213 : Processo 5728628 Pronto -> Exec
+213 : Processo 5728628 Exec -> I/O
+214 : Processo 5723876 Pronto -> Exec
+215 : Processo 5723876 Exec -> Pronto por tempo
+216 : Processo 5723876 Pronto -> Exec
+217 : Processo 5723876 Exec -> Pronto por tempo
+218 : Processo 5723876 Pronto -> Exec
+219 : Processo 5723876 Exec -> Pronto por tempo
+220 : Processo 5723876 Pronto -> Exec
+221 : Processo 5723876 Exec -> Pronto por tempo
+222 : Processo 5723876 Pronto -> Exec
+223 : Processo 5723876 Exec -> Pronto por tempo
+224 : Processo 5723876 Pronto -> Exec
+225 : Processo 5723876 Exec -> Pronto por tempo
+226 : Processo 5728628 Pronto -> Exec
+226 : Processo 5728628 Exec -> I/O
+227 : Processo 5723876 Pronto -> Exec
+228 : Processo 5723876 Exec -> Pronto por tempo
+229 : Processo 5723876 Pronto -> Exec
+230 : Processo 5723876 Exec -> Pronto por tempo
+231 : Processo 5723876 Pronto -> Exec
+232 : Processo 5723876 Exec -> Pronto por tempo
+233 : Processo 5723876 Pronto -> Exec
+234 : Processo 5723876 Exec -> Pronto por tempo
+235 : Processo 5723876 Pronto -> Exec
+236 : Processo 5723876 Exec -> Pronto por tempo
+237 : Processo 5723876 Pronto -> Exec
+238 : Processo 5723876 Exec -> Pronto por tempo
+239 : Processo 5728628 Pronto -> Exec
+239 : Processo 5728628 Exec -> I/O
+240 : Processo 5723876 Pronto -> Exec
+241 : Processo 5723876 Exec -> Pronto por tempo
+242 : Processo 5723876 Pronto -> Exec
+243 : Processo 5723876 Exec -> Pronto por tempo
+244 : Processo 5723876 Pronto -> Exec
+245 : Processo 5723876 Exec -> Pronto por tempo
+246 : Processo 5723876 Pronto -> Exec
+247 : Processo 5723876 Exec -> Pronto por tempo
+248 : Processo 5723876 Pronto -> Exec
+249 : Processo 5723876 Exec -> Pronto por tempo
+250 : Processo 5723876 Pronto -> Exec
+251 : Processo 5723876 Exec -> Pronto por tempo
+252 : Processo 5728628 Pronto -> Exec
+252 : Processo 5728628 Exec -> I/O
+253 : Processo 5723876 Pronto -> Exec
+254 : Processo 5723876 Exec -> Pronto por tempo
+255 : Processo 5723876 Pronto -> Exec
+256 : Processo 5723876 Exec -> Pronto por tempo
+257 : Processo 5723876 Pronto -> Exec
+258 : Processo 5723876 Exec -> Pronto por tempo
+259 : Processo 5723876 Pronto -> Exec
+260 : Processo 5723876 Exec -> Pronto por tempo
+261 : Processo 5723876 Pronto -> Exec
+262 : Processo 5723876 Exec -> Pronto por tempo
+263 : Processo 5723876 Pronto -> Exec
+264 : Processo 5723876 Exec -> Pronto por tempo
+265 : Processo 5728628 Pronto -> Exec
+265 : Processo 5728628 Exec -> I/O
+266 : Processo 5723876 Pronto -> Exec
+267 : Processo 5723876 Exec -> Pronto por tempo
+268 : Processo 5723876 Pronto -> Exec
+269 : Processo 5723876 Exec -> Pronto por tempo
+270 : Processo 5723876 Pronto -> Exec
+271 : Processo 5723876 Exec -> Pronto por tempo
+272 : Processo 5723876 Pronto -> Exec
+273 : Processo 5723876 Exec -> Pronto por tempo
+274 : Processo 5723876 Pronto -> Exec
+275 : Processo 5723876 Exec -> Pronto por tempo
+276 : Processo 5723876 Pronto -> Exec
+277 : Processo 5723876 Exec -> Pronto por tempo
+278 : Processo 5728628 Pronto -> Exec
+278 : Processo 5728628 Exec -> I/O
+279 : Processo 5723876 Pronto -> Exec
+280 : Processo 5723876 Exec -> Pronto por tempo
+281 : Processo 5723876 Pronto -> Exec
+282 : Processo 5723876 Exec -> Pronto por tempo
+283 : Processo 5723876 Pronto -> Exec
+284 : Processo 5723876 Exec -> Pronto por tempo
+285 : Processo 5723876 Pronto -> Exec
+286 : Processo 5723876 Exec -> Pronto por tempo
+287 : Processo 5723876 Pronto -> Exec
+288 : Processo 5723876 Exec -> Pronto por tempo
+289 : Processo 5723876 Pronto -> Exec
+290 : Processo 5723876 Exec -> Pronto por tempo
+291 : Processo 5728628 Pronto -> Exec
+291 : Processo 5728628 Exec -> I/O
+292 : Processo 5723876 Pronto -> Exec
+293 : Processo 5723876 Exec -> Pronto por tempo
+294 : Processo 5723876 Pronto -> Exec
+295 : Processo 5723876 Exec -> Pronto por tempo
+296 : Processo 5723876 Pronto -> Exec
+297 : Processo 5723876 Exec -> Pronto por tempo
+298 : Processo 5723876 Pronto -> Exec
+299 : Processo 5723876 Exec -> Pronto por tempo
+300 : Processo 5723876 Pronto -> Exec
+301 : Processo 5723876 Exec -> Pronto por tempo
+302 : Processo 5723876 Pronto -> Exec
+303 : Processo 5723876 Exec -> Pronto por tempo
+304 : Processo 5728628 Pronto -> Exec
+304 : Processo 5728628 Exec -> I/O
+305 : Processo 5723876 Pronto -> Exec
+306 : Processo 5723876 Exec -> Pronto por tempo
+307 : Processo 5723876 Pronto -> Exec
+308 : Processo 5723876 Exec -> Pronto por tempo
+309 : Processo 5723876 Pronto -> Exec
+310 : Processo 5723876 Exec -> Pronto por tempo
+311 : Processo 5723876 Pronto -> Exec
+312 : Processo 5723876 Exec -> Pronto por tempo
+313 : Processo 5723876 Pronto -> Exec
+314 : Processo 5723876 Exec -> Pronto por tempo
+315 : Processo 5723876 Pronto -> Exec
+316 : Processo 5723876 Exec -> Pronto por tempo
+317 : Processo 5728628 Pronto -> Exec
+317 : Processo 5728628 Exec -> I/O
+318 : Processo 5723876 Pronto -> Exec
+319 : Processo 5723876 Exec -> Pronto por tempo
+320 : Processo 5723876 Pronto -> Exec
+321 : Processo 5723876 Exec -> Pronto por tempo
+322 : Processo 5723876 Pronto -> Exec
+323 : Processo 5723876 Exec -> Pronto por tempo
+324 : Processo 5723876 Pronto -> Exec
+325 : Processo 5723876 Exec -> Pronto por tempo
+326 : Processo 5723876 Pronto -> Exec

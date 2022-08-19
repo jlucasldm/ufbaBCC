@@ -1,0 +1,1144 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+23 : Processo 1025100 alocacao de blocos no pagefile
+23 : Processo 1025100 HwPF - Executável0
+23 : Processo 1025100 HwPF - Executável1
+23 : Processo 1025100 HwPF - Executável2
+23 : Processo 1025100 HwPF - Executável3
+23 : Processo 1025100 HwPF - Executável4
+23 : Processo 1025100 criado
+24 : Processo 1025100 Pronto -> Exec
+25 : Processo 1025100 Exec -> Pronto por tempo
+26 : Processo 1025100 Pronto -> Exec
+27 : Processo 1025100 Exec -> Pronto por tempo
+28 : Processo 1025100 Pronto -> Exec
+29 : Processo 1025100 Exec -> Pronto por tempo
+30 : Processo 1025100 Pronto -> Exec
+31 : Processo 1025100 Exec -> Pronto por tempo
+32 : Processo 1025100 Pronto -> Exec
+32 : Processo 1034104 alocacao de blocos no pagefile
+32 : Processo 1034104 HwPF - Executável0
+32 : Processo 1034104 HwPF - Executável1
+32 : Processo 1034104 HwPF - Executável2
+32 : Processo 1034104 HwPF - Executável3
+32 : Processo 1034104 HwPF - Executável4
+32 : Processo 1034104 criado
+33 : Processo 1025100 Exec -> Pronto por tempo
+34 : Processo 1034104 Pronto -> Exec
+35 : Processo 1034104 Exec -> Pronto por tempo
+36 : Processo 1025100 Pronto -> Exec
+37 : Processo 1025100 Exec -> Pronto por tempo
+38 : Processo 1034104 Pronto -> Exec
+39 : Processo 1034104 Exec -> Pronto por tempo
+40 : Processo 1025100 Pronto -> Exec
+41 : Processo 1025100 Exec -> Pronto por tempo
+42 : Processo 1034104 Pronto -> Exec
+43 : Processo 1034104 Exec -> Pronto por tempo
+44 : Processo 1025100 Pronto -> Exec
+45 : Processo 1025100 Exec -> Pronto por tempo
+46 : Processo 1034104 Pronto -> Exec
+47 : Processo 1034104 Exec -> Pronto por tempo
+48 : Processo 1025100 Pronto -> Exec
+49 : Processo 1025100 Exec -> Pronto por tempo
+50 : Processo 1034104 Pronto -> Exec
+51 : Processo 1034104 Exec -> Pronto por tempo
+52 : Processo 1025100 Pronto -> Exec
+53 : Processo 1025100 Exec -> Pronto por tempo
+54 : Processo 1034104 Pronto -> Exec
+55 : Processo 1034104 Exec -> Pronto por tempo
+56 : Processo 1025100 Pronto -> Exec
+57 : Processo 1025100 Exec -> Pronto por tempo
+58 : Processo 1034104 Pronto -> Exec
+59 : Processo 1034104 Exec -> Pronto por tempo
+60 : Processo 1025100 Pronto -> Exec
+61 : Processo 1025100 Exec -> Pronto por tempo
+62 : Processo 1034104 Pronto -> Exec
+63 : Processo 1034104 Exec -> Pronto por tempo
+64 : Processo 1025100 Pronto -> Exec
+65 : Processo 1025100 Exec -> Pronto por tempo
+66 : Processo 1034104 Pronto -> Exec
+67 : Processo 1034104 Exec -> Pronto por tempo
+68 : Processo 1025100 Pronto -> Exec
+69 : Processo 1025100 Exec -> Pronto por tempo
+70 : Processo 1034104 Pronto -> Exec
+71 : Processo 1034104 Exec -> Pronto por tempo
+72 : Processo 1025100 Pronto -> Exec
+73 : Processo 1025100 Exec -> Pronto por tempo
+74 : Processo 1034104 Pronto -> Exec
+75 : Processo 1034104 Exec -> Pronto por tempo
+76 : Processo 1025100 Pronto -> Exec
+77 : Processo 1025100 Exec -> Pronto por tempo
+78 : Processo 1034104 Pronto -> Exec
+79 : Processo 1034104 Exec -> Pronto por tempo
+80 : Processo 1025100 Pronto -> Exec
+81 : Processo 1025100 Exec -> Pronto por tempo
+82 : Processo 1034104 Pronto -> Exec
+83 : Processo 1034104 Exec -> Pronto por tempo
+84 : Processo 1025100 Pronto -> Exec
+85 : Processo 1025100 Exec -> Pronto por tempo
+86 : Processo 1034104 Pronto -> Exec
+87 : Processo 1034104 Exec -> Pronto por tempo
+88 : Processo 1025100 Pronto -> Exec
+89 : Processo 1025100 Exec -> Pronto por tempo
+90 : Processo 1034104 Pronto -> Exec
+91 : Processo 1034104 Exec -> Pronto por tempo
+92 : Processo 1025100 Pronto -> Exec
+93 : Processo 1025100 Exec -> Pronto por tempo
+94 : Processo 1034104 Pronto -> Exec
+95 : Processo 1034104 Exec -> Pronto por tempo
+96 : Processo 1025100 Pronto -> Exec
+97 : Processo 1025100 Exec -> Pronto por tempo
+98 : Processo 1034104 Pronto -> Exec
+99 : Processo 1034104 Exec -> Pronto por tempo
+100 : Processo 1025100 Pronto -> Exec
+101 : Processo 1025100 Exec -> Pronto por tempo
+102 : Processo 1034104 Pronto -> Exec
+103 : Processo 1034104 Exec -> Pronto por tempo
+104 : Processo 1025100 Pronto -> Exec
+105 : Processo 1025100 Exec -> Pronto por tempo
+106 : Processo 1034104 Pronto -> Exec
+107 : Processo 1034104 Exec -> Pronto por tempo
+108 : Processo 1025100 Pronto -> Exec
+109 : Processo 1025100 Exec -> Pronto por tempo
+110 : Processo 1034104 Pronto -> Exec
+111 : Processo 1034104 Exec -> Pronto por tempo
+112 : Processo 1025100 Pronto -> Exec
+113 : Processo 1025100 Exec -> Pronto por tempo
+114 : Processo 1034104 Pronto -> Exec
+115 : Processo 1034104 Exec -> Pronto por tempo
+116 : Processo 1025100 Pronto -> Exec
+117 : Processo 1025100 Exec -> Pronto por tempo
+118 : Processo 1034104 Pronto -> Exec
+119 : Processo 1034104 Exec -> Pronto por tempo
+120 : Processo 1025100 Pronto -> Exec
+121 : Processo 1025100 Exec -> Pronto por tempo
+122 : Processo 1034104 Pronto -> Exec
+123 : Processo 1034104 Exec -> Pronto por tempo
+124 : Processo 1025100 Pronto -> Exec
+125 : Processo 1025100 Exec -> Pronto por tempo
+126 : Processo 1034104 Pronto -> Exec
+127 : Processo 1034104 Exec -> Pronto por tempo
+128 : Processo 1025100 Pronto -> Exec
+129 : Processo 1025100 Exec -> Pronto por tempo
+130 : Processo 1034104 Pronto -> Exec
+131 : Processo 1034104 Exec -> Pronto por tempo
+132 : Processo 1025100 Pronto -> Exec
+133 : Processo 1025100 Exec -> Pronto por tempo
+134 : Processo 1034104 Pronto -> Exec
+135 : Processo 1034104 Exec -> Pronto por tempo
+136 : Processo 1025100 Pronto -> Exec
+137 : Processo 1025100 Exec -> Pronto por tempo
+138 : Processo 1034104 Pronto -> Exec
+139 : Processo 1034104 Exec -> Pronto por tempo
+140 : Processo 1025100 Pronto -> Exec
+141 : Processo 1025100 Exec -> Pronto por tempo
+142 : Processo 1034104 Pronto -> Exec
+143 : Processo 1034104 Exec -> Pronto por tempo
+144 : Processo 1025100 Pronto -> Exec
+145 : Processo 1025100 Exec -> Pronto por tempo
+146 : Processo 1034104 Pronto -> Exec
+147 : Processo 1034104 Exec -> Pronto por tempo
+148 : Processo 1025100 Pronto -> Exec
+149 : Processo 1025100 Exec -> Pronto por tempo
+150 : Processo 1034104 Pronto -> Exec
+151 : Processo 1034104 Exec -> Pronto por tempo
+152 : Processo 1025100 Pronto -> Exec
+153 : Processo 1025100 Exec -> Pronto por tempo
+154 : Processo 1034104 Pronto -> Exec
+155 : Processo 1034104 Exec -> Pronto por tempo
+156 : Processo 1025100 Pronto -> Exec
+157 : Processo 1025100 Exec -> Pronto por tempo
+158 : Processo 1034104 Pronto -> Exec
+159 : Processo 1034104 Exec -> Pronto por tempo
+160 : Processo 1025100 Pronto -> Exec
+161 : Processo 1025100 Exec -> Pronto por tempo
+162 : Processo 1034104 Pronto -> Exec
+163 : Processo 1034104 Exec -> Pronto por tempo
+164 : Processo 1025100 Pronto -> Exec
+165 : Processo 1025100 Exec -> Pronto por tempo
+166 : Processo 1034104 Pronto -> Exec
+167 : Processo 1034104 Exec -> Pronto por tempo
+168 : Processo 1025100 Pronto -> Exec
+169 : Processo 1025100 Exec -> Pronto por tempo
+170 : Processo 1034104 Pronto -> Exec
+171 : Processo 1034104 Exec -> Pronto por tempo
+172 : Processo 1025100 Pronto -> Exec
+173 : Processo 1025100 Exec -> Pronto por tempo
+174 : Processo 1034104 Pronto -> Exec
+175 : Processo 1034104 Exec -> Pronto por tempo
+176 : Processo 1025100 Pronto -> Exec
+177 : Processo 1025100 Exec -> Pronto por tempo
+178 : Processo 1034104 Pronto -> Exec
+179 : Processo 1034104 Exec -> Pronto por tempo
+180 : Processo 1025100 Pronto -> Exec
+181 : Processo 1025100 Exec -> Pronto por tempo
+182 : Processo 1034104 Pronto -> Exec
+183 : Processo 1034104 Exec -> Pronto por tempo
+184 : Processo 1025100 Pronto -> Exec
+185 : Processo 1025100 Exec -> Pronto por tempo
+186 : Processo 1034104 Pronto -> Exec
+187 : Processo 1034104 Exec -> Pronto por tempo
+188 : Processo 1025100 Pronto -> Exec
+189 : Processo 1025100 Exec -> Pronto por tempo
+190 : Processo 1034104 Pronto -> Exec
+191 : Processo 1034104 Exec -> Pronto por tempo
+192 : Processo 1025100 Pronto -> Exec
+193 : Processo 1025100 Exec -> Pronto por tempo
+194 : Processo 1034104 Pronto -> Exec
+195 : Processo 1034104 Exec -> Pronto por tempo
+196 : Processo 1025100 Pronto -> Exec
+197 : Processo 1025100 Exec -> Pronto por tempo
+198 : Processo 1034104 Pronto -> Exec
+199 : Processo 1034104 Exec -> Pronto por tempo
+200 : Processo 1025100 Pronto -> Exec
+201 : Processo 1025100 Exec -> Pronto por tempo
+202 : Processo 1034104 Pronto -> Exec
+203 : Processo 1034104 Exec -> Pronto por tempo
+204 : Processo 1025100 Pronto -> Exec
+205 : Processo 1025100 Exec -> Pronto por tempo
+206 : Processo 1034104 Pronto -> Exec
+207 : Processo 1034104 Exec -> Pronto por tempo
+208 : Processo 1025100 Pronto -> Exec
+209 : Processo 1025100 Exec -> Pronto por tempo
+210 : Processo 1034104 Pronto -> Exec
+211 : Processo 1034104 Exec -> Pronto por tempo
+212 : Processo 1025100 Pronto -> Exec
+213 : Processo 1025100 Exec -> Pronto por tempo
+214 : Processo 1034104 Pronto -> Exec
+215 : Processo 1034104 Exec -> Pronto por tempo
+216 : Processo 1025100 Pronto -> Exec
+217 : Processo 1025100 Exec -> Pronto por tempo
+218 : Processo 1034104 Pronto -> Exec
+219 : Processo 1034104 Exec -> Pronto por tempo
+220 : Processo 1025100 Pronto -> Exec
+221 : Processo 1025100 Exec -> Pronto por tempo
+222 : Processo 1034104 Pronto -> Exec
+223 : Processo 1034104 Exec -> Pronto por tempo
+224 : Processo 1025100 Pronto -> Exec
+225 : Processo 1025100 Exec -> Pronto por tempo
+226 : Processo 1034104 Pronto -> Exec
+227 : Processo 1034104 Exec -> Pronto por tempo
+228 : Processo 1025100 Pronto -> Exec
+229 : Processo 1025100 Exec -> Pronto por tempo
+230 : Processo 1034104 Pronto -> Exec
+231 : Processo 1034104 Exec -> Pronto por tempo
+232 : Processo 1025100 Pronto -> Exec
+233 : Processo 1025100 Exec -> Pronto por tempo
+234 : Processo 1034104 Pronto -> Exec
+235 : Processo 1034104 Exec -> Pronto por tempo
+236 : Processo 1025100 Pronto -> Exec
+237 : Processo 1025100 Exec -> Pronto por tempo
+238 : Processo 1034104 Pronto -> Exec
+239 : Processo 1034104 Exec -> Pronto por tempo
+240 : Processo 1025100 Pronto -> Exec
+241 : Processo 1025100 Exec -> Pronto por tempo
+242 : Processo 1034104 Pronto -> Exec
+243 : Processo 1034104 Exec -> Pronto por tempo
+244 : Processo 1025100 Pronto -> Exec
+245 : Processo 1025100 Exec -> Pronto por tempo
+246 : Processo 1034104 Pronto -> Exec
+247 : Processo 1034104 Exec -> Pronto por tempo
+248 : Processo 1025100 Pronto -> Exec
+249 : Processo 1025100 Exec -> Pronto por tempo
+250 : Processo 1034104 Pronto -> Exec
+251 : Processo 1034104 Exec -> Pronto por tempo
+252 : Processo 1025100 Pronto -> Exec
+253 : Processo 1025100 Exec -> Pronto por tempo
+254 : Processo 1034104 Pronto -> Exec
+255 : Processo 1034104 Exec -> Pronto por tempo
+256 : Processo 1025100 Pronto -> Exec
+257 : Processo 1025100 Exec -> Pronto por tempo
+258 : Processo 1034104 Pronto -> Exec
+259 : Processo 1034104 Exec -> Pronto por tempo
+260 : Processo 1025100 Pronto -> Exec
+261 : Processo 1025100 Exec -> Pronto por tempo
+262 : Processo 1034104 Pronto -> Exec
+263 : Processo 1034104 Exec -> Pronto por tempo
+264 : Processo 1025100 Pronto -> Exec
+265 : Processo 1025100 Exec -> Pronto por tempo
+266 : Processo 1034104 Pronto -> Exec
+267 : Processo 1034104 Exec -> Pronto por tempo
+268 : Processo 1025100 Pronto -> Exec
+269 : Processo 1025100 Exec -> Pronto por tempo
+270 : Processo 1034104 Pronto -> Exec
+271 : Processo 1034104 Exec -> Pronto por tempo
+272 : Processo 1025100 Pronto -> Exec
+273 : Processo 1025100 Exec -> Pronto por tempo
+274 : Processo 1034104 Pronto -> Exec
+275 : Processo 1034104 Exec -> Pronto por tempo
+276 : Processo 1025100 Pronto -> Exec
+277 : Processo 1025100 Exec -> Pronto por tempo
+278 : Processo 1034104 Pronto -> Exec
+279 : Processo 1034104 Exec -> Pronto por tempo
+280 : Processo 1025100 Pronto -> Exec
+281 : Processo 1025100 Exec -> Pronto por tempo
+282 : Processo 1034104 Pronto -> Exec
+283 : Processo 1034104 Exec -> Pronto por tempo
+284 : Processo 1025100 Pronto -> Exec
+285 : Processo 1025100 Exec -> Pronto por tempo
+286 : Processo 1034104 Pronto -> Exec
+287 : Processo 1034104 Exec -> Pronto por tempo
+288 : Processo 1025100 Pronto -> Exec
+289 : Processo 1025100 Exec -> Pronto por tempo
+290 : Processo 1034104 Pronto -> Exec
+291 : Processo 1034104 Exec -> Pronto por tempo
+292 : Processo 1025100 Pronto -> Exec
+293 : Processo 1025100 Exec -> Pronto por tempo
+294 : Processo 1034104 Pronto -> Exec
+295 : Processo 1034104 Exec -> Pronto por tempo
+296 : Processo 1025100 Pronto -> Exec
+297 : Processo 1025100 Exec -> Pronto por tempo
+298 : Processo 1034104 Pronto -> Exec
+299 : Processo 1034104 Exec -> Pronto por tempo
+300 : Processo 1025100 Pronto -> Exec
+301 : Processo 1025100 Exec -> Pronto por tempo
+302 : Processo 1034104 Pronto -> Exec
+303 : Processo 1034104 Exec -> Pronto por tempo
+304 : Processo 1025100 Pronto -> Exec
+305 : Processo 1025100 Exec -> Pronto por tempo
+306 : Processo 1034104 Pronto -> Exec
+307 : Processo 1034104 Exec -> Pronto por tempo
+308 : Processo 1025100 Pronto -> Exec
+309 : Processo 1025100 Exec -> Pronto por tempo
+310 : Processo 1034104 Pronto -> Exec
+311 : Processo 1034104 Exec -> Pronto por tempo
+312 : Processo 1025100 Pronto -> Exec
+313 : Processo 1025100 Exec -> Pronto por tempo
+314 : Processo 1034104 Pronto -> Exec
+315 : Processo 1034104 Exec -> Pronto por tempo
+316 : Processo 1025100 Pronto -> Exec
+317 : Processo 1025100 Exec -> Pronto por tempo
+318 : Processo 1034104 Pronto -> Exec
+319 : Processo 1034104 Exec -> Pronto por tempo
+320 : Processo 1025100 Pronto -> Exec
+321 : Processo 1025100 Exec -> Pronto por tempo
+322 : Processo 1034104 Pronto -> Exec
+323 : Processo 1034104 Exec -> Pronto por tempo
+324 : Processo 1025100 Pronto -> Exec
+325 : Processo 1025100 Exec -> Pronto por tempo
+326 : Processo 1034104 Pronto -> Exec
+327 : Processo 1034104 Exec -> Pronto por tempo
+328 : Processo 1025100 Pronto -> Exec
+329 : Processo 1025100 Exec -> Pronto por tempo
+330 : Processo 1034104 Pronto -> Exec
+331 : Processo 1034104 Exec -> Pronto por tempo
+332 : Processo 1025100 Pronto -> Exec
+333 : Processo 1025100 Exec -> Pronto por tempo
+334 : Processo 1034104 Pronto -> Exec
+335 : Processo 1034104 Exec -> Pronto por tempo
+336 : Processo 1025100 Pronto -> Exec
+337 : Processo 1025100 Exec -> Pronto por tempo
+338 : Processo 1034104 Pronto -> Exec
+339 : Processo 1034104 Exec -> Pronto por tempo
+340 : Processo 1025100 Pronto -> Exec
+341 : Processo 1025100 Exec -> Pronto por tempo
+342 : Processo 1034104 Pronto -> Exec
+343 : Processo 1034104 Exec -> Pronto por tempo
+344 : Processo 1025100 Pronto -> Exec
+345 : Processo 1025100 Exec -> Pronto por tempo
+346 : Processo 1034104 Pronto -> Exec
+347 : Processo 1034104 Exec -> Pronto por tempo
+348 : Processo 1025100 Pronto -> Exec
+349 : Processo 1025100 Exec -> Pronto por tempo
+350 : Processo 1034104 Pronto -> Exec
+351 : Processo 1034104 Exec -> Pronto por tempo
+352 : Processo 1025100 Pronto -> Exec
+353 : Processo 1025100 Exec -> Pronto por tempo
+354 : Processo 1034104 Pronto -> Exec
+355 : Processo 1034104 Exec -> Pronto por tempo
+356 : Processo 1025100 Pronto -> Exec
+357 : Processo 1025100 Exec -> Pronto por tempo
+358 : Processo 1034104 Pronto -> Exec
+359 : Processo 1034104 Exec -> Pronto por tempo
+360 : Processo 1025100 Pronto -> Exec
+361 : Processo 1025100 Exec -> Pronto por tempo
+362 : Processo 1034104 Pronto -> Exec
+363 : Processo 1034104 Exec -> Pronto por tempo
+364 : Processo 1025100 Pronto -> Exec
+365 : Processo 1025100 Exec -> Pronto por tempo
+366 : Processo 1034104 Pronto -> Exec
+367 : Processo 1034104 Exec -> Pronto por tempo
+368 : Processo 1025100 Pronto -> Exec
+369 : Processo 1025100 Exec -> Pronto por tempo
+370 : Processo 1034104 Pronto -> Exec
+371 : Processo 1034104 Exec -> Pronto por tempo
+372 : Processo 1025100 Pronto -> Exec
+373 : Processo 1025100 Exec -> Pronto por tempo
+374 : Processo 1034104 Pronto -> Exec
+375 : Processo 1034104 Exec -> Pronto por tempo
+376 : Processo 1025100 Pronto -> Exec
+377 : Processo 1025100 Exec -> Pronto por tempo
+378 : Processo 1034104 Pronto -> Exec
+379 : Processo 1034104 Exec -> Pronto por tempo
+380 : Processo 1025100 Pronto -> Exec
+381 : Processo 1025100 Exec -> Pronto por tempo
+382 : Processo 1034104 Pronto -> Exec
+383 : Processo 1034104 Exec -> Pronto por tempo
+384 : Processo 1025100 Pronto -> Exec
+385 : Processo 1025100 Exec -> Pronto por tempo
+386 : Processo 1034104 Pronto -> Exec
+387 : Processo 1034104 Exec -> Pronto por tempo
+388 : Processo 1025100 Pronto -> Exec
+389 : Processo 1025100 Exec -> Pronto por tempo
+390 : Processo 1034104 Pronto -> Exec
+391 : Processo 1034104 Exec -> Pronto por tempo
+392 : Processo 1025100 Pronto -> Exec
+393 : Processo 1025100 Exec -> Pronto por tempo
+394 : Processo 1034104 Pronto -> Exec
+395 : Processo 1034104 Exec -> Pronto por tempo
+396 : Processo 1025100 Pronto -> Exec
+397 : Processo 1025100 Exec -> Pronto por tempo
+398 : Processo 1034104 Pronto -> Exec
+399 : Processo 1034104 Exec -> Pronto por tempo
+400 : Processo 1025100 Pronto -> Exec
+401 : Processo 1025100 Exec -> Pronto por tempo
+402 : Processo 1034104 Pronto -> Exec
+403 : Processo 1034104 Exec -> Pronto por tempo
+404 : Processo 1025100 Pronto -> Exec
+405 : Processo 1025100 Exec -> Pronto por tempo
+406 : Processo 1034104 Pronto -> Exec
+407 : Processo 1034104 Exec -> Pronto por tempo
+408 : Processo 1025100 Pronto -> Exec
+409 : Processo 1025100 Exec -> Pronto por tempo
+410 : Processo 1034104 Pronto -> Exec
+411 : Processo 1034104 Exec -> Pronto por tempo
+412 : Processo 1025100 Pronto -> Exec
+413 : Processo 1025100 Exec -> Pronto por tempo
+414 : Processo 1034104 Pronto -> Exec
+415 : Processo 1034104 Exec -> Pronto por tempo
+416 : Processo 1025100 Pronto -> Exec
+417 : Processo 1025100 Exec -> Pronto por tempo
+418 : Processo 1034104 Pronto -> Exec
+419 : Processo 1034104 Exec -> Pronto por tempo
+420 : Processo 1025100 Pronto -> Exec
+421 : Processo 1025100 Exec -> Pronto por tempo
+422 : Processo 1034104 Pronto -> Exec
+423 : Processo 1034104 Exec -> Pronto por tempo
+424 : Processo 1025100 Pronto -> Exec
+425 : Processo 1025100 Exec -> Pronto por tempo
+426 : Processo 1034104 Pronto -> Exec
+427 : Processo 1034104 Exec -> Pronto por tempo
+428 : Processo 1025100 Pronto -> Exec
+429 : Processo 1025100 Exec -> Pronto por tempo
+430 : Processo 1034104 Pronto -> Exec
+431 : Processo 1034104 Exec -> Pronto por tempo
+432 : Processo 1025100 Pronto -> Exec
+433 : Processo 1025100 Exec -> Pronto por tempo
+434 : Processo 1034104 Pronto -> Exec
+435 : Processo 1034104 Exec -> Pronto por tempo
+436 : Processo 1025100 Pronto -> Exec
+437 : Processo 1025100 Exec -> Pronto por tempo
+438 : Processo 1034104 Pronto -> Exec
+439 : Processo 1034104 Exec -> Pronto por tempo
+440 : Processo 1025100 Pronto -> Exec
+441 : Processo 1025100 Exec -> Pronto por tempo
+442 : Processo 1034104 Pronto -> Exec
+443 : Processo 1034104 Exec -> Pronto por tempo
+444 : Processo 1025100 Pronto -> Exec
+445 : Processo 1025100 Exec -> Pronto por tempo
+446 : Processo 1034104 Pronto -> Exec
+447 : Processo 1034104 Exec -> Pronto por tempo
+448 : Processo 1025100 Pronto -> Exec
+449 : Processo 1025100 Exec -> Pronto por tempo
+450 : Processo 1034104 Pronto -> Exec
+451 : Processo 1034104 Exec -> Pronto por tempo
+452 : Processo 1025100 Pronto -> Exec
+453 : Processo 1025100 Exec -> Pronto por tempo
+454 : Processo 1034104 Pronto -> Exec
+455 : Processo 1034104 Exec -> Pronto por tempo
+456 : Processo 1025100 Pronto -> Exec
+457 : Processo 1025100 Exec -> Pronto por tempo
+458 : Processo 1034104 Pronto -> Exec
+459 : Processo 1034104 Exec -> Pronto por tempo
+460 : Processo 1025100 Pronto -> Exec
+461 : Processo 1025100 Exec -> Pronto por tempo
+462 : Processo 1034104 Pronto -> Exec
+463 : Processo 1034104 Exec -> Pronto por tempo
+464 : Processo 1025100 Pronto -> Exec
+465 : Processo 1025100 Exec -> Pronto por tempo
+466 : Processo 1034104 Pronto -> Exec
+467 : Processo 1034104 Exec -> Pronto por tempo
+468 : Processo 1025100 Pronto -> Exec
+469 : Processo 1025100 Exec -> Pronto por tempo
+470 : Processo 1034104 Pronto -> Exec
+471 : Processo 1034104 Exec -> Pronto por tempo
+472 : Processo 1025100 Pronto -> Exec
+473 : Processo 1025100 Exec -> Pronto por tempo
+474 : Processo 1034104 Pronto -> Exec
+475 : Processo 1034104 Exec -> Pronto por tempo
+476 : Processo 1025100 Pronto -> Exec
+477 : Processo 1025100 Exec -> Pronto por tempo
+478 : Processo 1034104 Pronto -> Exec
+479 : Processo 1034104 Exec -> Pronto por tempo
+480 : Processo 1025100 Pronto -> Exec
+481 : Processo 1025100 Exec -> Pronto por tempo
+482 : Processo 1034104 Pronto -> Exec
+483 : Processo 1034104 Exec -> Pronto por tempo
+484 : Processo 1025100 Pronto -> Exec
+485 : Processo 1025100 Exec -> Pronto por tempo
+486 : Processo 1034104 Pronto -> Exec
+487 : Processo 1034104 Exec -> Pronto por tempo
+488 : Processo 1025100 Pronto -> Exec
+489 : Processo 1025100 Exec -> Pronto por tempo
+490 : Processo 1034104 Pronto -> Exec
+491 : Processo 1034104 Exec -> Pronto por tempo
+492 : Processo 1025100 Pronto -> Exec
+493 : Processo 1025100 Exec -> Pronto por tempo
+494 : Processo 1034104 Pronto -> Exec
+495 : Processo 1034104 Exec -> Pronto por tempo
+496 : Processo 1025100 Pronto -> Exec
+497 : Processo 1025100 Exec -> Pronto por tempo
+498 : Processo 1034104 Pronto -> Exec
+499 : Processo 1034104 Exec -> Pronto por tempo
+500 : Processo 1025100 Pronto -> Exec
+501 : Processo 1025100 Exec -> Pronto por tempo
+502 : Processo 1034104 Pronto -> Exec
+503 : Processo 1034104 Exec -> Pronto por tempo
+504 : Processo 1025100 Pronto -> Exec
+505 : Processo 1025100 Exec -> Pronto por tempo
+506 : Processo 1034104 Pronto -> Exec
+507 : Processo 1034104 Exec -> Pronto por tempo
+508 : Processo 1025100 Pronto -> Exec
+509 : Processo 1025100 Exec -> Pronto por tempo
+510 : Processo 1034104 Pronto -> Exec
+511 : Processo 1034104 Exec -> Pronto por tempo
+512 : Processo 1025100 Pronto -> Exec
+513 : Processo 1025100 Exec -> Pronto por tempo
+514 : Processo 1034104 Pronto -> Exec
+515 : Processo 1034104 Exec -> Pronto por tempo
+516 : Processo 1025100 Pronto -> Exec
+517 : Processo 1025100 Exec -> Pronto por tempo
+518 : Processo 1034104 Pronto -> Exec
+519 : Processo 1034104 Exec -> Pronto por tempo
+520 : Processo 1025100 Pronto -> Exec
+521 : Processo 1025100 Exec -> Pronto por tempo
+522 : Processo 1034104 Pronto -> Exec
+523 : Processo 1034104 Exec -> Pronto por tempo
+524 : Processo 1025100 Pronto -> Exec
+525 : Processo 1025100 Exec -> Pronto por tempo
+526 : Processo 1034104 Pronto -> Exec
+527 : Processo 1034104 Exec -> Pronto por tempo
+528 : Processo 1025100 Pronto -> Exec
+529 : Processo 1025100 Exec -> Pronto por tempo
+530 : Processo 1034104 Pronto -> Exec
+531 : Processo 1034104 Exec -> Pronto por tempo
+532 : Processo 1025100 Pronto -> Exec
+533 : Processo 1025100 Exec -> Pronto por tempo
+534 : Processo 1034104 Pronto -> Exec
+535 : Processo 1034104 Exec -> Pronto por tempo
+536 : Processo 1025100 Pronto -> Exec
+537 : Processo 1025100 Exec -> Pronto por tempo
+538 : Processo 1034104 Pronto -> Exec
+539 : Processo 1034104 Exec -> Pronto por tempo
+540 : Processo 1025100 Pronto -> Exec
+541 : Processo 1025100 Exec -> Pronto por tempo
+542 : Processo 1034104 Pronto -> Exec
+543 : Processo 1034104 Exec -> Pronto por tempo
+544 : Processo 1025100 Pronto -> Exec
+545 : Processo 1025100 Exec -> Pronto por tempo
+546 : Processo 1034104 Pronto -> Exec
+547 : Processo 1034104 Exec -> Pronto por tempo
+548 : Processo 1025100 Pronto -> Exec
+549 : Processo 1025100 Exec -> Pronto por tempo
+550 : Processo 1034104 Pronto -> Exec
+551 : Processo 1034104 Exec -> Pronto por tempo
+552 : Processo 1025100 Pronto -> Exec
+553 : Processo 1025100 Exec -> Pronto por tempo
+554 : Processo 1034104 Pronto -> Exec
+555 : Processo 1034104 Exec -> Pronto por tempo
+556 : Processo 1025100 Pronto -> Exec
+557 : Processo 1025100 Exec -> Pronto por tempo
+558 : Processo 1034104 Pronto -> Exec
+559 : Processo 1034104 Exec -> Pronto por tempo
+560 : Processo 1025100 Pronto -> Exec
+561 : Processo 1025100 Exec -> Pronto por tempo
+562 : Processo 1034104 Pronto -> Exec
+563 : Processo 1034104 Exec -> Pronto por tempo
+564 : Processo 1025100 Pronto -> Exec
+565 : Processo 1025100 Exec -> Pronto por tempo
+566 : Processo 1034104 Pronto -> Exec
+567 : Processo 1034104 Exec -> Pronto por tempo
+568 : Processo 1025100 Pronto -> Exec
+569 : Processo 1025100 Exec -> Pronto por tempo
+570 : Processo 1034104 Pronto -> Exec
+571 : Processo 1034104 Exec -> Pronto por tempo
+572 : Processo 1025100 Pronto -> Exec
+573 : Processo 1025100 Exec -> Pronto por tempo
+574 : Processo 1034104 Pronto -> Exec
+575 : Processo 1034104 Exec -> Pronto por tempo
+576 : Processo 1025100 Pronto -> Exec
+577 : Processo 1025100 Exec -> Pronto por tempo
+578 : Processo 1034104 Pronto -> Exec
+579 : Processo 1034104 Exec -> Pronto por tempo
+580 : Processo 1025100 Pronto -> Exec
+581 : Processo 1025100 Exec -> Pronto por tempo
+582 : Processo 1034104 Pronto -> Exec
+583 : Processo 1034104 Exec -> Pronto por tempo
+584 : Processo 1025100 Pronto -> Exec
+585 : Processo 1025100 Exec -> Pronto por tempo
+586 : Processo 1034104 Pronto -> Exec
+587 : Processo 1034104 Exec -> Pronto por tempo
+588 : Processo 1025100 Pronto -> Exec
+589 : Processo 1025100 Exec -> Pronto por tempo
+590 : Processo 1034104 Pronto -> Exec
+591 : Processo 1034104 Exec -> Pronto por tempo
+592 : Processo 1025100 Pronto -> Exec
+593 : Processo 1025100 Exec -> Pronto por tempo
+594 : Processo 1034104 Pronto -> Exec
+595 : Processo 1034104 Exec -> Pronto por tempo
+596 : Processo 1025100 Pronto -> Exec
+597 : Processo 1025100 Exec -> Pronto por tempo
+598 : Processo 1034104 Pronto -> Exec
+599 : Processo 1034104 Exec -> Pronto por tempo
+600 : Processo 1025100 Pronto -> Exec
+601 : Processo 1025100 Exec -> Pronto por tempo
+602 : Processo 1034104 Pronto -> Exec
+603 : Processo 1034104 Exec -> Pronto por tempo
+604 : Processo 1025100 Pronto -> Exec
+605 : Processo 1025100 Exec -> Pronto por tempo
+606 : Processo 1034104 Pronto -> Exec
+607 : Processo 1034104 Exec -> Pronto por tempo
+608 : Processo 1025100 Pronto -> Exec
+609 : Processo 1025100 Exec -> Pronto por tempo
+610 : Processo 1034104 Pronto -> Exec
+611 : Processo 1034104 Exec -> Pronto por tempo
+612 : Processo 1025100 Pronto -> Exec
+613 : Processo 1025100 Exec -> Pronto por tempo
+614 : Processo 1034104 Pronto -> Exec
+615 : Processo 1034104 Exec -> Pronto por tempo
+616 : Processo 1025100 Pronto -> Exec
+617 : Processo 1025100 Exec -> Pronto por tempo
+618 : Processo 1034104 Pronto -> Exec
+619 : Processo 1034104 Exec -> Pronto por tempo
+620 : Processo 1025100 Pronto -> Exec
+621 : Processo 1025100 Exec -> Pronto por tempo
+622 : Processo 1034104 Pronto -> Exec
+623 : Processo 1034104 Exec -> Pronto por tempo
+624 : Processo 1025100 Pronto -> Exec
+625 : Processo 1025100 Exec -> Pronto por tempo
+626 : Processo 1034104 Pronto -> Exec
+627 : Processo 1034104 Exec -> Pronto por tempo
+628 : Processo 1025100 Pronto -> Exec
+629 : Processo 1025100 Exec -> Pronto por tempo
+630 : Processo 1034104 Pronto -> Exec
+631 : Processo 1034104 Exec -> Pronto por tempo
+632 : Processo 1025100 Pronto -> Exec
+633 : Processo 1025100 Exec -> Pronto por tempo
+634 : Processo 1034104 Pronto -> Exec
+635 : Processo 1034104 Exec -> Pronto por tempo
+636 : Processo 1025100 Pronto -> Exec
+637 : Processo 1025100 Exec -> Pronto por tempo
+638 : Processo 1034104 Pronto -> Exec
+639 : Processo 1034104 Exec -> Pronto por tempo
+640 : Processo 1025100 Pronto -> Exec
+641 : Processo 1025100 Exec -> Pronto por tempo
+642 : Processo 1034104 Pronto -> Exec
+643 : Processo 1034104 Exec -> Pronto por tempo
+644 : Processo 1025100 Pronto -> Exec
+645 : Processo 1025100 Exec -> Pronto por tempo
+646 : Processo 1034104 Pronto -> Exec
+647 : Processo 1034104 Exec -> Pronto por tempo
+648 : Processo 1025100 Pronto -> Exec
+649 : Processo 1025100 Exec -> Pronto por tempo
+650 : Processo 1034104 Pronto -> Exec
+651 : Processo 1034104 Exec -> Pronto por tempo
+652 : Processo 1025100 Pronto -> Exec
+653 : Processo 1025100 Exec -> Pronto por tempo
+654 : Processo 1034104 Pronto -> Exec
+655 : Processo 1034104 Exec -> Pronto por tempo
+656 : Processo 1025100 Pronto -> Exec
+657 : Processo 1025100 Exec -> Pronto por tempo
+658 : Processo 1034104 Pronto -> Exec
+659 : Processo 1034104 Exec -> Pronto por tempo
+660 : Processo 1025100 Pronto -> Exec
+661 : Processo 1025100 Exec -> Pronto por tempo
+662 : Processo 1034104 Pronto -> Exec
+663 : Processo 1034104 Exec -> Pronto por tempo
+664 : Processo 1025100 Pronto -> Exec
+665 : Processo 1025100 Exec -> Pronto por tempo
+666 : Processo 1034104 Pronto -> Exec
+667 : Processo 1034104 Exec -> Pronto por tempo
+668 : Processo 1025100 Pronto -> Exec
+669 : Processo 1025100 Exec -> Pronto por tempo
+670 : Processo 1034104 Pronto -> Exec
+671 : Processo 1034104 Exec -> Pronto por tempo
+672 : Processo 1025100 Pronto -> Exec
+673 : Processo 1025100 Exec -> Pronto por tempo
+674 : Processo 1034104 Pronto -> Exec
+675 : Processo 1034104 Exec -> Pronto por tempo
+676 : Processo 1025100 Pronto -> Exec
+677 : Processo 1025100 Exec -> Pronto por tempo
+678 : Processo 1034104 Pronto -> Exec
+679 : Processo 1034104 Exec -> Pronto por tempo
+680 : Processo 1025100 Pronto -> Exec
+681 : Processo 1025100 Exec -> Pronto por tempo
+682 : Processo 1034104 Pronto -> Exec
+683 : Processo 1034104 Exec -> Pronto por tempo
+684 : Processo 1025100 Pronto -> Exec
+685 : Processo 1025100 Exec -> Pronto por tempo
+686 : Processo 1034104 Pronto -> Exec
+687 : Processo 1034104 Exec -> Pronto por tempo
+688 : Processo 1025100 Pronto -> Exec
+689 : Processo 1025100 Exec -> Pronto por tempo
+690 : Processo 1034104 Pronto -> Exec
+691 : Processo 1034104 Exec -> Pronto por tempo
+692 : Processo 1025100 Pronto -> Exec
+693 : Processo 1025100 Exec -> Pronto por tempo
+694 : Processo 1034104 Pronto -> Exec
+695 : Processo 1034104 Exec -> Pronto por tempo
+696 : Processo 1025100 Pronto -> Exec
+697 : Processo 1025100 Exec -> Pronto por tempo
+698 : Processo 1034104 Pronto -> Exec
+699 : Processo 1034104 Exec -> Pronto por tempo
+700 : Processo 1025100 Pronto -> Exec
+701 : Processo 1025100 Exec -> Pronto por tempo
+702 : Processo 1034104 Pronto -> Exec
+703 : Processo 1034104 Exec -> Pronto por tempo
+704 : Processo 1025100 Pronto -> Exec
+705 : Processo 1025100 Exec -> Pronto por tempo
+706 : Processo 1034104 Pronto -> Exec
+707 : Processo 1034104 Exec -> Pronto por tempo
+708 : Processo 1025100 Pronto -> Exec
+709 : Processo 1025100 Exec -> Pronto por tempo
+710 : Processo 1034104 Pronto -> Exec
+711 : Processo 1034104 Exec -> Pronto por tempo
+712 : Processo 1025100 Pronto -> Exec
+713 : Processo 1025100 Exec -> Pronto por tempo
+714 : Processo 1034104 Pronto -> Exec
+715 : Processo 1034104 Exec -> Pronto por tempo
+716 : Processo 1025100 Pronto -> Exec
+717 : Processo 1025100 Exec -> Pronto por tempo
+718 : Processo 1034104 Pronto -> Exec
+719 : Processo 1034104 Exec -> Pronto por tempo
+720 : Processo 1025100 Pronto -> Exec
+721 : Processo 1025100 Exec -> Pronto por tempo
+722 : Processo 1034104 Pronto -> Exec
+723 : Processo 1034104 Exec -> Pronto por tempo
+724 : Processo 1025100 Pronto -> Exec
+725 : Processo 1025100 Exec -> Pronto por tempo
+726 : Processo 1034104 Pronto -> Exec
+727 : Processo 1034104 Exec -> Pronto por tempo
+728 : Processo 1025100 Pronto -> Exec
+729 : Processo 1025100 Exec -> Pronto por tempo
+730 : Processo 1034104 Pronto -> Exec
+731 : Processo 1034104 Exec -> Pronto por tempo
+732 : Processo 1025100 Pronto -> Exec
+733 : Processo 1025100 Exec -> Pronto por tempo
+734 : Processo 1034104 Pronto -> Exec
+735 : Processo 1034104 Exec -> Pronto por tempo
+736 : Processo 1025100 Pronto -> Exec
+737 : Processo 1025100 Exec -> Pronto por tempo
+738 : Processo 1034104 Pronto -> Exec
+739 : Processo 1034104 Exec -> Pronto por tempo
+740 : Processo 1025100 Pronto -> Exec
+741 : Processo 1025100 Exec -> Pronto por tempo
+742 : Processo 1034104 Pronto -> Exec
+743 : Processo 1034104 Exec -> Pronto por tempo
+744 : Processo 1025100 Pronto -> Exec
+745 : Processo 1025100 Exec -> Pronto por tempo
+746 : Processo 1034104 Pronto -> Exec
+747 : Processo 1034104 Exec -> Pronto por tempo
+748 : Processo 1025100 Pronto -> Exec
+749 : Processo 1025100 Exec -> Pronto por tempo
+750 : Processo 1034104 Pronto -> Exec
+751 : Processo 1034104 Exec -> Pronto por tempo
+752 : Processo 1025100 Pronto -> Exec
+753 : Processo 1025100 Exec -> Pronto por tempo
+754 : Processo 1034104 Pronto -> Exec
+755 : Processo 1034104 Exec -> Pronto por tempo
+756 : Processo 1025100 Pronto -> Exec
+757 : Processo 1025100 Exec -> Pronto por tempo
+758 : Processo 1034104 Pronto -> Exec
+759 : Processo 1034104 Exec -> Pronto por tempo
+760 : Processo 1025100 Pronto -> Exec
+761 : Processo 1025100 Exec -> Pronto por tempo
+762 : Processo 1034104 Pronto -> Exec
+763 : Processo 1034104 Exec -> Pronto por tempo
+764 : Processo 1025100 Pronto -> Exec
+765 : Processo 1025100 Exec -> Pronto por tempo
+766 : Processo 1034104 Pronto -> Exec
+767 : Processo 1034104 Exec -> Pronto por tempo
+768 : Processo 1025100 Pronto -> Exec
+769 : Processo 1025100 Exec -> Pronto por tempo
+770 : Processo 1034104 Pronto -> Exec
+771 : Processo 1034104 Exec -> Pronto por tempo
+772 : Processo 1025100 Pronto -> Exec
+773 : Processo 1025100 Exec -> Pronto por tempo
+774 : Processo 1034104 Pronto -> Exec
+775 : Processo 1034104 Exec -> Pronto por tempo
+776 : Processo 1025100 Pronto -> Exec
+777 : Processo 1025100 Exec -> Pronto por tempo
+778 : Processo 1034104 Pronto -> Exec
+779 : Processo 1034104 Exec -> Pronto por tempo
+780 : Processo 1025100 Pronto -> Exec
+781 : Processo 1025100 Exec -> Pronto por tempo
+782 : Processo 1034104 Pronto -> Exec
+783 : Processo 1034104 Exec -> Pronto por tempo
+784 : Processo 1025100 Pronto -> Exec
+785 : Processo 1025100 Exec -> Pronto por tempo
+786 : Processo 1034104 Pronto -> Exec
+787 : Processo 1034104 Exec -> Pronto por tempo
+788 : Processo 1025100 Pronto -> Exec
+789 : Processo 1025100 Exec -> Pronto por tempo
+790 : Processo 1034104 Pronto -> Exec
+791 : Processo 1034104 Exec -> Pronto por tempo
+792 : Processo 1025100 Pronto -> Exec
+793 : Processo 1025100 Exec -> Pronto por tempo
+794 : Processo 1034104 Pronto -> Exec
+795 : Processo 1034104 Exec -> Pronto por tempo
+796 : Processo 1025100 Pronto -> Exec
+797 : Processo 1025100 Exec -> Pronto por tempo
+798 : Processo 1034104 Pronto -> Exec
+799 : Processo 1034104 Exec -> Pronto por tempo
+800 : Processo 1025100 Pronto -> Exec
+801 : Processo 1025100 Exec -> Pronto por tempo
+802 : Processo 1034104 Pronto -> Exec
+803 : Processo 1034104 Exec -> Pronto por tempo
+804 : Processo 1025100 Pronto -> Exec
+805 : Processo 1025100 Exec -> Pronto por tempo
+806 : Processo 1034104 Pronto -> Exec
+807 : Processo 1034104 Exec -> Pronto por tempo
+808 : Processo 1025100 Pronto -> Exec
+809 : Processo 1025100 Exec -> Pronto por tempo
+810 : Processo 1034104 Pronto -> Exec
+811 : Processo 1034104 Exec -> Pronto por tempo
+812 : Processo 1025100 Pronto -> Exec
+813 : Processo 1025100 Exec -> Pronto por tempo
+814 : Processo 1034104 Pronto -> Exec
+815 : Processo 1034104 Exec -> Pronto por tempo
+816 : Processo 1025100 Pronto -> Exec
+817 : Processo 1025100 Exec -> Pronto por tempo
+818 : Processo 1034104 Pronto -> Exec
+819 : Processo 1034104 Exec -> Pronto por tempo
+820 : Processo 1025100 Pronto -> Exec
+821 : Processo 1025100 Exec -> Pronto por tempo
+822 : Processo 1034104 Pronto -> Exec
+823 : Processo 1034104 Exec -> Pronto por tempo
+824 : Processo 1025100 Pronto -> Exec
+825 : Processo 1025100 Exec -> Pronto por tempo
+826 : Processo 1034104 Pronto -> Exec
+827 : Processo 1034104 Exec -> Pronto por tempo
+828 : Processo 1025100 Pronto -> Exec
+829 : Processo 1025100 Exec -> Pronto por tempo
+830 : Processo 1034104 Pronto -> Exec
+831 : Processo 1034104 Exec -> Pronto por tempo
+832 : Processo 1025100 Pronto -> Exec
+833 : Processo 1025100 Exec -> Pronto por tempo
+834 : Processo 1034104 Pronto -> Exec
+835 : Processo 1034104 Exec -> Pronto por tempo
+836 : Processo 1025100 Pronto -> Exec
+837 : Processo 1025100 Exec -> Pronto por tempo
+838 : Processo 1034104 Pronto -> Exec
+839 : Processo 1034104 Exec -> Pronto por tempo
+840 : Processo 1025100 Pronto -> Exec
+841 : Processo 1025100 Exec -> Pronto por tempo
+842 : Processo 1034104 Pronto -> Exec
+843 : Processo 1034104 Exec -> Pronto por tempo
+844 : Processo 1025100 Pronto -> Exec
+845 : Processo 1025100 Exec -> Pronto por tempo
+846 : Processo 1034104 Pronto -> Exec
+847 : Processo 1034104 Exec -> Pronto por tempo
+848 : Processo 1025100 Pronto -> Exec
+849 : Processo 1025100 Exec -> Pronto por tempo
+850 : Processo 1034104 Pronto -> Exec
+851 : Processo 1034104 Exec -> Pronto por tempo
+852 : Processo 1025100 Pronto -> Exec
+853 : Processo 1025100 Exec -> Pronto por tempo
+854 : Processo 1034104 Pronto -> Exec
+855 : Processo 1034104 Exec -> Pronto por tempo
+856 : Processo 1025100 Pronto -> Exec
+857 : Processo 1025100 Exec -> Pronto por tempo
+858 : Processo 1034104 Pronto -> Exec
+859 : Processo 1034104 Exec -> Pronto por tempo
+860 : Processo 1025100 Pronto -> Exec
+861 : Processo 1025100 Exec -> Pronto por tempo
+862 : Processo 1034104 Pronto -> Exec
+863 : Processo 1034104 Exec -> Pronto por tempo
+864 : Processo 1025100 Pronto -> Exec
+865 : Processo 1025100 Exec -> Pronto por tempo
+866 : Processo 1034104 Pronto -> Exec
+867 : Processo 1034104 Exec -> Pronto por tempo
+868 : Processo 1025100 Pronto -> Exec
+869 : Processo 1025100 Exec -> Pronto por tempo
+870 : Processo 1034104 Pronto -> Exec
+871 : Processo 1034104 Exec -> Pronto por tempo
+872 : Processo 1025100 Pronto -> Exec
+873 : Processo 1025100 Exec -> Pronto por tempo
+874 : Processo 1034104 Pronto -> Exec
+875 : Processo 1034104 Exec -> Pronto por tempo
+876 : Processo 1025100 Pronto -> Exec
+877 : Processo 1025100 Exec -> Pronto por tempo
+878 : Processo 1034104 Pronto -> Exec
+879 : Processo 1034104 Exec -> Pronto por tempo
+880 : Processo 1025100 Pronto -> Exec
+881 : Processo 1025100 Exec -> Pronto por tempo
+882 : Processo 1034104 Pronto -> Exec
+883 : Processo 1034104 Exec -> Pronto por tempo
+884 : Processo 1025100 Pronto -> Exec
+885 : Processo 1025100 Exec -> Pronto por tempo
+886 : Processo 1034104 Pronto -> Exec
+887 : Processo 1034104 Exec -> Pronto por tempo
+888 : Processo 1025100 Pronto -> Exec
+889 : Processo 1025100 Exec -> Pronto por tempo
+890 : Processo 1034104 Pronto -> Exec
+891 : Processo 1034104 Exec -> Pronto por tempo
+892 : Processo 1025100 Pronto -> Exec
+893 : Processo 1025100 Exec -> Pronto por tempo
+894 : Processo 1034104 Pronto -> Exec
+895 : Processo 1034104 Exec -> Pronto por tempo
+896 : Processo 1025100 Pronto -> Exec
+897 : Processo 1025100 Exec -> Pronto por tempo
+898 : Processo 1034104 Pronto -> Exec
+899 : Processo 1034104 Exec -> Pronto por tempo
+900 : Processo 1025100 Pronto -> Exec
+901 : Processo 1025100 Exec -> Pronto por tempo
+902 : Processo 1034104 Pronto -> Exec
+903 : Processo 1034104 Exec -> Pronto por tempo
+904 : Processo 1025100 Pronto -> Exec
+905 : Processo 1025100 Exec -> Pronto por tempo
+906 : Processo 1034104 Pronto -> Exec
+907 : Processo 1034104 Exec -> Pronto por tempo
+908 : Processo 1025100 Pronto -> Exec
+909 : Processo 1025100 Exec -> Pronto por tempo
+910 : Processo 1034104 Pronto -> Exec
+911 : Processo 1034104 Exec -> Pronto por tempo
+912 : Processo 1025100 Pronto -> Exec
+913 : Processo 1025100 Exec -> Pronto por tempo
+914 : Processo 1034104 Pronto -> Exec
+915 : Processo 1034104 Exec -> Pronto por tempo
+916 : Processo 1025100 Pronto -> Exec
+917 : Processo 1025100 Exec -> Pronto por tempo
+918 : Processo 1034104 Pronto -> Exec
+919 : Processo 1034104 Exec -> Pronto por tempo
+920 : Processo 1025100 Pronto -> Exec
+921 : Processo 1025100 Exec -> Pronto por tempo
+922 : Processo 1034104 Pronto -> Exec
+923 : Processo 1034104 Exec -> Pronto por tempo
+924 : Processo 1025100 Pronto -> Exec
+925 : Processo 1025100 Exec -> Pronto por tempo
+926 : Processo 1034104 Pronto -> Exec
+927 : Processo 1034104 Exec -> Pronto por tempo
+928 : Processo 1025100 Pronto -> Exec
+929 : Processo 1025100 Exec -> Pronto por tempo
+930 : Processo 1034104 Pronto -> Exec
+931 : Processo 1034104 Exec -> Pronto por tempo
+932 : Processo 1025100 Pronto -> Exec
+933 : Processo 1025100 Exec -> Pronto por tempo
+934 : Processo 1034104 Pronto -> Exec
+935 : Processo 1034104 Exec -> Pronto por tempo
+936 : Processo 1025100 Pronto -> Exec
+937 : Processo 1025100 Exec -> Pronto por tempo
+938 : Processo 1034104 Pronto -> Exec
+939 : Processo 1034104 Exec -> Pronto por tempo
+940 : Processo 1025100 Pronto -> Exec
+941 : Processo 1025100 Exec -> Pronto por tempo
+942 : Processo 1034104 Pronto -> Exec
+943 : Processo 1034104 Exec -> Pronto por tempo
+944 : Processo 1025100 Pronto -> Exec
+945 : Processo 1025100 Exec -> Pronto por tempo
+946 : Processo 1034104 Pronto -> Exec
+947 : Processo 1034104 Exec -> Pronto por tempo
+948 : Processo 1025100 Pronto -> Exec
+949 : Processo 1025100 Exec -> Pronto por tempo
+950 : Processo 1034104 Pronto -> Exec
+951 : Processo 1034104 Exec -> Pronto por tempo
+952 : Processo 1025100 Pronto -> Exec
+953 : Processo 1025100 Exec -> Pronto por tempo
+954 : Processo 1034104 Pronto -> Exec
+955 : Processo 1034104 Exec -> Pronto por tempo
+956 : Processo 1025100 Pronto -> Exec
+957 : Processo 1025100 Exec -> Pronto por tempo
+958 : Processo 1034104 Pronto -> Exec
+959 : Processo 1034104 Exec -> Pronto por tempo
+960 : Processo 1025100 Pronto -> Exec
+961 : Processo 1025100 Exec -> Pronto por tempo
+962 : Processo 1034104 Pronto -> Exec
+963 : Processo 1034104 Exec -> Pronto por tempo
+964 : Processo 1025100 Pronto -> Exec
+965 : Processo 1025100 Exec -> Pronto por tempo
+966 : Processo 1034104 Pronto -> Exec
+967 : Processo 1034104 Exec -> Pronto por tempo
+968 : Processo 1025100 Pronto -> Exec
+969 : Processo 1025100 Exec -> Pronto por tempo
+970 : Processo 1034104 Pronto -> Exec
+971 : Processo 1034104 Exec -> Pronto por tempo
+972 : Processo 1025100 Pronto -> Exec
+973 : Processo 1025100 Exec -> Pronto por tempo
+974 : Processo 1034104 Pronto -> Exec
+975 : Processo 1034104 Exec -> Pronto por tempo
+976 : Processo 1025100 Pronto -> Exec
+977 : Processo 1025100 Exec -> Pronto por tempo
+978 : Processo 1034104 Pronto -> Exec
+979 : Processo 1034104 Exec -> Pronto por tempo
+980 : Processo 1025100 Pronto -> Exec
+981 : Processo 1025100 Exec -> Pronto por tempo
+982 : Processo 1034104 Pronto -> Exec
+983 : Processo 1034104 Exec -> Pronto por tempo
+984 : Processo 1025100 Pronto -> Exec
+985 : Processo 1025100 Exec -> Pronto por tempo
+986 : Processo 1034104 Pronto -> Exec
+987 : Processo 1034104 Exec -> Pronto por tempo
+988 : Processo 1025100 Pronto -> Exec
+989 : Processo 1025100 Exec -> Pronto por tempo
+990 : Processo 1034104 Pronto -> Exec
+991 : Processo 1034104 Exec -> Pronto por tempo
+992 : Processo 1025100 Pronto -> Exec
+993 : Processo 1025100 Exec -> Pronto por tempo
+994 : Processo 1034104 Pronto -> Exec
+995 : Processo 1034104 Exec -> Pronto por tempo
+996 : Processo 1025100 Pronto -> Exec
+997 : Processo 1025100 Exec -> Pronto por tempo
+998 : Processo 1034104 Pronto -> Exec
+999 : Processo 1034104 Exec -> Pronto por tempo
+1000 : Processo 1025100 Pronto -> Exec
+1001 : Processo 1025100 Exec -> Pronto por tempo
+1002 : Processo 1034104 Pronto -> Exec
+1003 : Processo 1034104 Exec -> Pronto por tempo
+1004 : Processo 1025100 Pronto -> Exec
+1005 : Processo 1025100 Exec -> Pronto por tempo
+1006 : Processo 1034104 Pronto -> Exec
+1007 : Processo 1034104 Exec -> Pronto por tempo
+1008 : Processo 1025100 Pronto -> Exec
+1009 : Processo 1025100 Exec -> Pronto por tempo
+1010 : Processo 1034104 Pronto -> Exec
+1011 : Processo 1034104 Exec -> Pronto por tempo
+1012 : Processo 1025100 Pronto -> Exec
+1013 : Processo 1025100 Exec -> Pronto por tempo
+1014 : Processo 1034104 Pronto -> Exec
+1015 : Processo 1034104 Exec -> Pronto por tempo
+1016 : Processo 1025100 Pronto -> Exec
+1017 : Processo 1025100 Exec -> Pronto por tempo
+1018 : Processo 1034104 Pronto -> Exec
+1019 : Processo 1034104 Exec -> Pronto por tempo
+1020 : Processo 1025100 Pronto -> Exec
+1021 : Processo 1025100 Exec -> Pronto por tempo
+1022 : Processo 1034104 Pronto -> Exec
+1023 : Processo 1034104 Exec -> Pronto por tempo
+1024 : Processo 1025100 Pronto -> Exec
+1025 : Processo 1025100 Exec -> Pronto por tempo
+1026 : Processo 1034104 Pronto -> Exec
+1027 : Processo 1034104 Exec -> Pronto por tempo
+1028 : Processo 1025100 Pronto -> Exec
+1029 : Processo 1025100 Exec -> Pronto por tempo
+1030 : Processo 1034104 Pronto -> Exec
+1031 : Processo 1034104 Exec -> Pronto por tempo
+1032 : Processo 1025100 Pronto -> Exec
+1033 : Processo 1025100 Exec -> Pronto por tempo
+1034 : Processo 1034104 Pronto -> Exec
+1035 : Processo 1034104 Exec -> Pronto por tempo
+1036 : Processo 1025100 Pronto -> Exec
+1037 : Processo 1025100 Exec -> Pronto por tempo
+1038 : Processo 1034104 Pronto -> Exec
+1039 : Processo 1034104 Exec -> Pronto por tempo
+1040 : Processo 1025100 Pronto -> Exec
+1041 : Processo 1025100 Exec -> Pronto por tempo
+1042 : Processo 1034104 Pronto -> Exec
+1043 : Processo 1034104 Exec -> Pronto por tempo
+1044 : Processo 1025100 Pronto -> Exec
+1045 : Processo 1025100 Exec -> Pronto por tempo
+1046 : Processo 1034104 Pronto -> Exec
+1047 : Processo 1034104 Exec -> Pronto por tempo
+1048 : Processo 1025100 Pronto -> Exec
+1049 : Processo 1025100 Exec -> Pronto por tempo
+1050 : Processo 1034104 Pronto -> Exec
+1051 : Processo 1034104 Exec -> Pronto por tempo
+1052 : Processo 1025100 Pronto -> Exec
+1053 : Processo 1025100 Exec -> Pronto por tempo
+1054 : Processo 1034104 Pronto -> Exec
+1055 : Processo 1034104 Exec -> Pronto por tempo
+1056 : Processo 1025100 Pronto -> Exec
+1057 : Processo 1025100 Exec -> Pronto por tempo
+1058 : Processo 1034104 Pronto -> Exec
+1059 : Processo 1034104 Exec -> Pronto por tempo
+1060 : Processo 1025100 Pronto -> Exec
+1061 : Processo 1025100 Exec -> Pronto por tempo
+1062 : Processo 1034104 Pronto -> Exec
+1063 : Processo 1034104 Exec -> Pronto por tempo
+1064 : Processo 1025100 Pronto -> Exec
+1065 : Processo 1025100 Exec -> Pronto por tempo
+1066 : Processo 1034104 Pronto -> Exec
+1067 : Processo 1034104 Exec -> Pronto por tempo
+1068 : Processo 1025100 Pronto -> Exec
+1069 : Processo 1025100 Exec -> Pronto por tempo
+1070 : Processo 1034104 Pronto -> Exec
+1071 : Processo 1034104 Exec -> Pronto por tempo
+1072 : Processo 1025100 Pronto -> Exec
+1073 : Processo 1025100 Exec -> Pronto por tempo
+1074 : Processo 1034104 Pronto -> Exec
+1075 : Processo 1034104 Exec -> Pronto por tempo
+1076 : Processo 1025100 Pronto -> Exec
+1077 : Processo 1025100 Exec -> Pronto por tempo
+1078 : Processo 1034104 Pronto -> Exec
+1079 : Processo 1034104 Exec -> Pronto por tempo
+1080 : Processo 1025100 Pronto -> Exec
+1081 : Processo 1025100 Exec -> Pronto por tempo
+1082 : Processo 1034104 Pronto -> Exec
+1083 : Processo 1034104 Exec -> Pronto por tempo
+1084 : Processo 1025100 Pronto -> Exec
+1085 : Processo 1025100 Exec -> Pronto por tempo
+1086 : Processo 1034104 Pronto -> Exec
+1087 : Processo 1034104 Exec -> Pronto por tempo
+1088 : Processo 1025100 Pronto -> Exec
+1089 : Processo 1025100 Exec -> Pronto por tempo
+1090 : Processo 1034104 Pronto -> Exec
+1091 : Processo 1034104 Exec -> Pronto por tempo
+1092 : Processo 1025100 Pronto -> Exec
+1093 : Processo 1025100 Exec -> Pronto por tempo
+1094 : Processo 1034104 Pronto -> Exec
+1095 : Processo 1034104 Exec -> Pronto por tempo
+1096 : Processo 1025100 Pronto -> Exec
+1097 : Processo 1025100 Exec -> Pronto por tempo
+1098 : Processo 1034104 Pronto -> Exec
+1099 : Processo 1034104 Exec -> Pronto por tempo
+1100 : Processo 1025100 Pronto -> Exec
+1101 : Processo 1025100 Exec -> Pronto por tempo
+1102 : Processo 1034104 Pronto -> Exec
+1103 : Processo 1034104 Exec -> Pronto por tempo
+1104 : Processo 1025100 Pronto -> Exec
+1105 : Processo 1025100 Exec -> Pronto por tempo
+1106 : Processo 1034104 Pronto -> Exec
+1107 : Processo 1034104 Exec -> Pronto por tempo
+1108 : Processo 1025100 Pronto -> Exec
+1109 : Processo 1025100 Exec -> Pronto por tempo
+1110 : Processo 1034104 Pronto -> Exec
+1111 : Processo 1034104 Exec -> Pronto por tempo
+1112 : Processo 1025100 Pronto -> Exec
+1113 : Processo 1025100 Exec -> Pronto por tempo
+1114 : Processo 1034104 Pronto -> Exec
+1115 : Processo 1034104 Exec -> Pronto por tempo
+1116 : Processo 1025100 Pronto -> Exec
+1117 : Processo 1025100 Exec -> Pronto por tempo
+1118 : Processo 1034104 Pronto -> Exec
+1119 : Processo 1034104 Exec -> Pronto por tempo
+1120 : Processo 1025100 Pronto -> Exec
+1121 : Processo 1025100 Exec -> Pronto por tempo
+1122 : Processo 1034104 Pronto -> Exec
+1123 : Processo 1034104 Exec -> Pronto por tempo
+1124 : Processo 1025100 Pronto -> Exec
+1125 : Processo 1025100 Exec -> Pronto por tempo
+1126 : Processo 1034104 Pronto -> Exec
+1127 : Processo 1034104 Exec -> Pronto por tempo
+1128 : Processo 1025100 Pronto -> Exec
+1129 : Processo 1025100 Exec -> Pronto por tempo
+1130 : Processo 1034104 Pronto -> Exec
+1131 : Processo 1034104 Exec -> Pronto por tempo
+1132 : Processo 1025100 Pronto -> Exec
+1133 : Processo 1025100 Exec -> Pronto por tempo
+1134 : Processo 1034104 Pronto -> Exec
+1135 : Processo 1034104 Exec -> Pronto por tempo
+1136 : Processo 1025100 Pronto -> Exec
+1137 : Processo 1025100 Exec -> Pronto por tempo
+1138 : Processo 1034104 Pronto -> Exec
+1139 : Processo 1034104 Exec -> Pronto por tempo
+1140 : Processo 1025100 Pronto -> Exec
+1141 : Processo 1025100 Exec -> Pronto por tempo
+1142 : Processo 1034104 Pronto -> Exec
+1143 : Processo 1034104 Exec -> Pronto por tempo
+1144 : Processo 1025100 Pronto -> Exec
+1145 : Processo 1025100 Exec -> Pronto por tempo
+1146 : Processo 1034104 Pronto -> Exec
+1147 : Processo 1034104 Exec -> Pronto por tempo
+1148 : Processo 1025100 Pronto -> Exec
+1149 : Processo 1025100 Exec -> Pronto por tempo
+1150 : Processo 1034104 Pronto -> Exec
+1151 : Processo 1034104 Exec -> Pronto por tempo
