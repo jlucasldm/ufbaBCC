@@ -1,3 +1,4 @@
 # ufbaBCC
 
-Repositório contendo (provavelmente não) todos (mas uma considerável parte d)os arquivos, provas, livros, trabalhos e listas que tive contato durante meu curso de Ciência da Computação na UFBA.
+Materiais, provas, trabalhos e exercícios utilizados e desenvolvidos por mim durante o meu período de estudo em Ciência da Computação na Universidade Federal da Bahia. 
+Repositório atualizado semestralmente.
