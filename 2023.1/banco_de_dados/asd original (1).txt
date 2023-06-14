@@ -1,0 +1,29 @@
+/* Obter título e descrição de vagas criadas por um contratante com determinado cnpj */
+vagas_contratante = σ cnpj='88126741000164' (InstituicaoContratante ⨝ cnpj=cnpjContratante Contratante_Fornece_Vaga)
+titulo_desc_vagas_contratante = π cnpj, titulo, descricao (vagas_contratante ⨝ idVaga=Vaga.idVaga VagaEstagio)
+titulo_desc_vagas_contratante */
+
+
+/* Obter todos os candidatos cadastrados numa vaga com determinado id (ex. 222) */  
+π nome, email, curso (σ codVaga=222 (seCandidataEm ⨝ numeroMatricula=matricula Aluno))
+
+/* Obter todas as vagas que tem prazo final até 31 de maio de 2023 */
+σ prazo=date('2023-05-31') VagaEstagio
+
+/* Recuperar todos os alunos que se cadastraram em vagas da empresa Cubos */
+vagas_cubos = (σ nome_fantasia='Cubos' Contratante) ⨝ cnpj=cnpjContratante Contratante_Fornece_Vaga
+candidatos_vagas_cubos = vagas_cubos ⨝ idVaga=codVaga seCandidataEm
+informacoes_candidatos_vagas_cubos = candidatos_vagas_cubos ⨝ numeroMatricula=matricula Aluno
+π matricula, nome, email, curso, semestre informacoes_candidatos_vagas_cubos
+
+/* Selecionar apenas vagas que tenham "dados" no título */
+vagas_dados = σ titulo ILIKE '%dados%' VagaEstagio
+
+/* Selecionar todas as vagas que tenham remuneração acima de 1500 reais e ordenar por prazo final */
+vagas_acima1500 = σ remuneracao>1500.00 VagaEstagio
+τ prazo asc vagas_acima1500
+
+/* Recuperar todas as vagas na qual um determinado candidato se inscreveu e selecionar apenas as que não possuem benefícios */
+vagas_candidato = σ matricula='217120004' (seCandidataEm ⨝ numeroMatricula=matricula Aluno)
+info_vagas_candidato = vagas_candidato ⨝ codVaga=idVaga Vaga
+π titulo, descricao (σ beneficios ILIKE '%nenhum%' info_vagas_candidato)

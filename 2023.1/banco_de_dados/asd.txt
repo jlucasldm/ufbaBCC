@@ -1,0 +1,69 @@
+/* Obter título e descrição de vagas criadas por um contratante com determinado cnpj */
+Resultado ← π titulo, descricaoAtividades (σ cnpj = '88126741000164' (VagaEstagio ⨝ InstituicaoContratante))
+
+
+/* Obter todos os candidatos cadastrados numa vaga com determinado id (ex. 222) */  
+Resultado ← π nome, email, curso ( Aluno ⨝ seCandidataEm ⨝ σ(idVaga = 222 (VagaEstagio)))
+
+/* Obter todas as vagas que tem prazo final até 31 de maio de 2023 */
+Resultado ← σ prazo <= '2023-05-31' (VagaEstagio)
+
+/* Recuperar todos os alunos que se cadastraram em vagas da empresa Cubos */
+Resultado ← Aluno ⨝ seCandidataEm ⨝ (VagaEstagio ⨝ σ nomeFantasia = 'Cubos' (InstituicaoContratante))
+
+/* Selecionar apenas vagas que tenham "dados" no título */
+Resultado ← σ titulo LIKE '%dados%' (VagaEstagio)
+
+/* Selecionar todas as vagas que tenham remuneração acima de 1500 reais e ordenar por prazo final */
+Resultado ← σ remuneracao > 1500 (VagaEstagio) ⨝ π * (σ (true) (ρ prazo (VagaEstagio)))
+
+/* Recuperar todas as vagas na qual um determinado candidato se inscreveu e selecionar apenas as que não possuem benefícios */
+CandidatoEspecifico ← ρ cpf ← '99999999999' (Aluno)
+CandidatoVagas ← CandidatoEspecifico ⨝ seCandidataEm
+VagasSemBeneficios ← σ beneficios = '' ∨ beneficios IS NULL (VagaEstagio)
+Resultado ← CandidatoVagas ⨝ VagasSemBeneficios
+
+\*-----------------------------------------------SQL---------------------------------------------------
+
+/* Obter título e descrição de vagas criadas por um contratante com determinado CNPJ */
+SELECT titulo, descricaoAtividades
+FROM VagaEstagio
+WHERE cnpj = '88126741000164';
+
+/* Obter todos os candidatos cadastrados numa vaga com determinado ID (ex. 222) */
+SELECT Aluno.*
+FROM Aluno
+JOIN seCandidataEm ON Aluno.cpf = seCandidataEm.cpf
+WHERE seCandidataEm.idVaga = 222;
+
+/* Obter todas as vagas que têm prazo final até 31 de maio de 2023 */
+SELECT *
+FROM VagaEstagio
+WHERE prazo <= '2023-05-31';
+
+/* Recuperar todos os alunos que se cadastraram em vagas da empresa Cubos */
+SELECT Aluno.*
+FROM Aluno
+JOIN seCandidataEm ON Aluno.cpf = seCandidataEm.cpf
+JOIN VagaEstagio ON seCandidataEm.idVaga = VagaEstagio.idVaga
+JOIN InstituicaoContratante ON VagaEstagio.cnpj = InstituicaoContratante.cnpj
+WHERE InstituicaoContratante.nomeFantasia = 'Cubos';
+
+/* Selecionar apenas vagas que tenham "dados" no título */
+SELECT *
+FROM VagaEstagio
+WHERE titulo IS NOT NULL AND titulo != '';
+
+/* Selecionar todas as vagas que tenham remuneração acima de 1500 reais e ordenar por prazo final */
+SELECT *
+FROM VagaEstagio
+WHERE remuneracao > 1500
+ORDER BY prazo;
+
+/* Recuperar todas as vagas nas quais um determinado candidato se inscreveu e selecionar apenas as que não possuem benefícios */
+SELECT VagaEstagio.*
+FROM VagaEstagio
+JOIN seCandidataEm ON VagaEstagio.idVaga = seCandidataEm.idVaga
+LEFT JOIN Aluno ON seCandidataEm.cpf = Aluno.cpf
+WHERE Aluno.cpf = 'cpf_desejado'
+  AND VagaEstagio.beneficios IS NULL OR VagaEstagio.beneficios = '';

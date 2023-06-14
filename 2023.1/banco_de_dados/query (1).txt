@@ -1,0 +1,24 @@
+-- Consulta 1
+/*
+π pnome (σ trabalha_em.pno = 1 ∧ trabalha_em.horas >= 10 (empregado ⟗ (empregado.ssn = trabalha_em.essn) trabalha_em))
+*/
+
+-- Consulta 2
+/*
+π pnome (empregado ⨝ (empregado.ssn = dependente.essn ∧ empregado.pnome = dependente.nome_dependente) dependente)
+*/
+
+-- Consulta 3
+/*
+emp = σ ssn != '' (ρ emp (π ssn (σ pnome = 'Frank' empregado)))
+π pnome (emp ⨝ ssn = superssn empregado)
+*/
+
+-- Consulta 4 [incompleto]
+ -- γ sum(horas) -> somatorio_horas ((π pnome, horas (projeto ⨝ (projeto.pnumero = trabalha_em.pno) trabalha_em)))
+ 
+ -- Consulta 5
+-- π empregado.pnome, projeto.pnome (((empregado ⨝ (empregado.ssn = trabalha_em.essn) trabalha_em)) ⨝ (pno = pnumero) projeto)
+
+-- Consulta 6
+π pnome (σ trabalha_em.essn = null (empregado ⟕ (empregado.ssn = trabalha_em.essn) trabalha_em))

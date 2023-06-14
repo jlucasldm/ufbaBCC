@@ -1,0 +1,87 @@
+[exercicio paradigmas]
+1 
+.atomo (palavra com inicial minuscula seguida por caracteres alfanumericos)
+.inteiro (numero que nao contem ponto)
+.atomo (palavra com inicial minuscula seguida por caracteres alfanumericos)
+.erro (sequencia de palavras seguidas por espaco em branco)
+.atomo (palavra entre aspas simples)
+.lista (sequencia ordenada de elementos entre [])
+.variavel (palavra com inicial maiuscula seguida por caracteres alfanumericos)
+.erro (numero seguido por . sem casa decimal)
+.float (numero seguido por . e com ao menos uma casa decimal)
+.variavel anonima (_)
+.atomo (sequencia de palavras entre aspas)
+.inteiro (caractere hexadecimal entre aspas duplas)
+.lista (lista vazia)
+
+
+2
+.profissao(messi, jogador)
+.timePreferido(messi, barcelona)
+.jogaEm(messi, psg)
+.nacionalidade(messi, argentino)
+.nacionalidade(rodrigo, brasileiro), posicao(rodrigo, atacante), jogador(rodrygo, 'real madrid'), torcePor(rodrigo, santos)
+
+
+3.
+ler(N) :-
+write('Qual o seu nome?'),nl,
+read(N),
+write('Tudo bem com você, '),
+write(N),
+write('?'),nl,nl.
+
+
+4.
+% fatos
+animal(guaxinim).
+
+planta(alga).
+planta(grama).
+
+come(urso,peixe).
+come(lince,veado).
+come(urso,raposa).
+come(urso,veado).
+come(peixe,peixinho).
+come(peixinho,alga).
+come(guaxinim,peixe).
+come(raposa,coelho).
+come(coelho,grama).
+come(veado,grama).
+come(urso,guaxinim).
+
+
+% consultas
+planta(X).
+come(raposa, _).
+come(X, grama), animal(X).
+come(X, Y), animal(X), planta(Y).
+
+
+6.
+% fatos
+genitor(pam, bob).
+genitor(pat, jim).
+genitor(tom, bob).
+genitor(tom, liz).
+genitor(bob, ann).
+genitor(bob, pat).
+
+mas(tom).
+mas(bob).
+mas(jim).
+
+fem(pam).
+fem(liz).
+fem(ann).
+fem(pat).
+
+
+% regras
+filho(X, Y) :- genitor(Y,X).
+mae(X, Y) :- genitor(X, Y), fem(X).
+irmao(X, Y) :- genitor(Z, X), genitor(Z, Y).
+avo(X, Y) :- genitor(X, Z), genitor(Z, Y).
+neto(X, Y) :- avo(Y, X).
+

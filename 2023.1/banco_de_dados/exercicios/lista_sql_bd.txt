@@ -1,0 +1,130 @@
+LISTA 1
+[ok] 1. select * from Funcionario;
+[ok] 2. select nomeFuncionario, sobrenmFunc from Funcionario;
+[ok] 3. select concat(nomeFuncionario, ' ',sobrenmFunc) as nome from Funcionario;
+[ok] 4. select * from Comida where preco > 6.0;
+[x]  5. select concat(nomeFuncionario, ' é um funcionário competente') from Funcionario;
+[r]  5. select nomeFuncionario as Nome, 'Funcionario Competente' as Competencia from 	  	  Funcionario;
+[ok] 6. select nomeFuncionario, sobrenmFunc from Funcionario where codGerente = 1;
+[ok] 7. select nomeFuncionario from funcionario where dtadmissao between '2000-02-15 00:00:00' and '2002-02-16 00:00:00';
+[ok] 8. select descProduto, preco*(0.9) from Comida where preco*(0.1) < 2.00;
+[ok] 9. select * from Funcionario where codGerente is null; 
+
+
+LISTA 2
+[ok] 1. select * from Funcionario order by nomeFuncionario;
+[ok] 2. select distinct codGerente from Funcionario;
+[ok] 3. select distinct codGerente, dtAdmissao from Funcionario; (cabe comentar que são tuplas de codGerente, dtAdmissao distintas)
+[ok] 4. select * from Funcionario where codGerente  = 1 or codGerente is null; 
+[ok] 5. select * from Funcionario where dtAdmissao between '2001-03-01' and '2001-03-31' or dtAdmissao between '2001-10-01' and '2001-10-31';
+[ok] 6. select codDepto, sobrenmFunc from Funcionario where codFuncionario != 1 order by codDepto desc, sobrenmFunc desc;
+[ok] 7. select nomeFuncionario, sobrenmFunc from Funcionario 
+where codDepto != 1 and codDepto != 2 and
+sobrenmFunc not between 'D%' and 'M%' and
+codGerente is not null;
+[ok] 8. select * from Funcionario where (codFuncionario = 1 or codFuncionario = 2 or codFuncionario = 3) and codDepto = 1;
+
+
+LISTA 3
+[ok] 1. select * from Funcionario where codgerente in (2,3);
+[ok] 2. select nomeFuncionario from Funcionario where nomeFuncionario like '%n%'; (não é case sensitive)
+[ok] 3. select nomeFuncionario, dtAdmissao from Funcionario where sobrenmFunc like 'Silva' or sobrenmFunc like 'Souza' order by nomeFuncionario, dtAdmissao asc;
+[ok] 4. select nomeFuncionario from Funcionario where telefone like '%4';
+[ok] 5. select f.codDepto, f.sobrenmFunc, f.codGerente, d.nomeDepto from Funcionario f inner join Departamento d on f.codDepto = d.codDepto where
+(d.nomeDepto != 'Marketing') and (d.nomeDepto != 'Desenvolvimento') and
+f.sobrenmFunc not between 'D%' and 'J%' and
+f.sobrenmFunc not like '%s' and
+f.codGerente is not null; 
+(qual as situações que devo usar o like ao invés do = ?) (checar a correção dessa 5)
+
+
+LISTA 4
+[ok] 1. select r.codRefeicao, r.dtRefeicao from Funcionario f inner join Refeicao r on f.codFuncionario = r.codFuncionario where f.nomeFuncionario = 'Daniela';
+[ok] 2. select c.descProduto from Comida c inner join Fornecedor f on c.codFornecedor = f.codFornecedor where f.nomeFornecedor = 'Empresa A' order by c.descProduto;
+[x]  3. select c.* from Comida c inner join ItensRefeicao i on c.codProduto = i.CodProduto where i.quantidade > 1;
+(verificar porque nas respostas tem a rstrição do mesmo fornecedor)
+[ok] 4. select f.nomeFuncionario from 
+Funcionario f inner join Refeicao r on f.codFuncionario = r.codFuncionario 
+inner join ItensRefeicao i on r.codRefeicao = i.codRefeicao where i.quantidade > 1; 
+[ok] 5. select c.descProduto from
+Funcionario f inner join Refeicao r on f.codFuncionario = r.codFuncionario
+inner join ItensRefeicao i on r.codRefeicao = i.codRefeicao
+inner join Comida c on c.codProduto = i.codProduto and c.codFornecedor = i.codFornecedor
+where f.nomeFuncionario = 'Daniela';
+[ok] 6. select f.codfuncionario as matricula, f.nomeFuncionario, f.sobrenmfunc, g.codfuncionario as matriculaGerente, g.nomeFuncionario as nomeGerente, g.sobrenmfunc as sobreNomeGerente 
+from Funcionario f
+inner join Funcionario g on f.codGerente = g.codFuncionario;
+
+
+LISTA 5
+[ok] 1. select f.nomeFuncionario, d.codDepto from Funcionario f left outer join Departamento d on f.codDepto = d.codDepto order by d.nomeDepto, f.nomeFuncionario;
+[ok] 2. select f.nomeFuncionario, c.descProduto from Funcionario f 
+left outer join Refeicao r on f.codFuncionario = r.codFuncionario
+left outer join ItensRefeicao i on r.codRefeicao = i.codRefeicao
+left outer join Comida c on c.codProduto = i.codProduto and c.codFornecedor = i.codFornecedor;
+[ok] 3. select d.nomeDepto, f.nomeFuncionario from Departamento d
+left outer join Funcionario f on f.codDepto = d.codDepto;
+[ok] 4. select f.nomeFuncionario, r.dtRefeicao from Funcionario f
+left outer join Refeicao r on f.codFuncionario = r.codFuncionario;
+[ok] 5. select f.nomeFornecedor, c.descProduto from Fornecedor f 
+left outer join Comida c on f.codFornecedor = c.codFornecedor;
+[ok] 6. select f.nomeFuncionario, g.nomeFuncionario from Funcionario f
+left outer join Funcionario g on f.codGerente = g.codFuncionario;
+[ok] 7. select c.descProduto, i.quantidade from Comida c
+left outer join ItensRefeicao i on c.codProduto = i.codProduto and c.codFornecedor = i.codFornecedor; 
+
+LISTA 6
+[ok] 1. select f.nomeFuncionario, sum(c.preco) as total from Funcionario f
+inner join Refeicao r on f.codFuncionario = r.codFuncionario
+inner join ItensRefeicao i on i.codRefeicao = r.codRefeicao
+inner join Comida c on c.codProduto = i.codProduto and c.codFornecedor = i.codFornecedor
+group by f.nomeFuncionario;
+[ok] 2. select f.nomeFuncionario, r.codRefeicao, sum(c.preco) as total from Funcionario f
+inner join Refeicao r on f.codFuncionario = r.codFuncionario
+inner join ItensRefeicao i on i.codRefeicao = r.codRefeicao
+inner join Comida c on c.codProduto = i.codProduto and c.codFornecedor = i.codFornecedor
+group by f.nomeFuncionario, r.codRefeicao;
+[ok] 3. select d.nomeDepto, count(*) from Departamento d
+inner join Funcionario f on f.codDepto = d.codDepto
+group by d.nomeDepto having count(*) = 1;
+[ok] 4. select f.nomeFuncionario from Funcionario f
+where f.codFuncionario in (select r.codFuncionario from Refeicao r where r.dtRefeicao between '2003-02-14' and '2003-02-15');
+[?]  5.
+
+LISTA 7
+[ok] 1. select timestampdiff(year, f.dtAdmissao, now()) from Funcionario f where f.nomeFuncionario = 'Daniela';
+[ok] 2. select concat(upper(f.sobrenmFunc), ' ', f.nomeFuncionario) as Nome from Funcionario f;
+[ok] 3. select substring(f.nomeFuncionario from 2 for char_length(f.nomeFuncionario)-2) as 'Letras do meio' from Funcionario f;
+[ok] 4. select f.nomeFuncionario as Nome,
+	case
+    	when (d.nomeDepto = 'Marketing') then
+        	'MKT'
+        else
+        	d.nomeDepto
+        end as Departamento 
+from Funcionario f inner join Departamento d on f.codDepto = d.codDepto;
+[ok] 5. select c.descProduto, c.preco,
+	CASE
+    	WHEN c.preco > 5 THEN
+    		'MUITO CARO'
+    	ELSE
+    		'PRECO normal'
+    	END as avaliacao
+    from Comida c;
+
+
+LISTA 8
+[ok] 1. select i.codFornecedor, sum(c.preco * i.quantidade), count(*) from ItensRefeicao i inner join Comida c on i.codFornecedor = c.codFornecedor and i.codProduto = c.codProduto group by i.codFornecedor;
+[?]  2.
+[ok] 3. select f.nomeFuncionario as funcionario, g.nomeFuncionario as gerente from Funcionario f inner join Funcionario g on f.codGerente = g.codFuncionario
+union
+select f.nomeFuncionario as gerente, 'Não possuem gerente' as gerente from Funcionario f where f.codGerente is null;
+[ok] 4. select f.nomeFuncionario as funcionario,
+	CASE 
+    	WHEN g.nomeFuncionario is null then
+    		'Não possuem gerente'
+    	ELSE 
+        	g.nomeFuncionario
+        END as gerente from Funcionario f 
+left outer join Funcionario g on f.codGerente = g.codFuncionario;
+

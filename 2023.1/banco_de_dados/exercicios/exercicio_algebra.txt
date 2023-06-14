@@ -1,0 +1,81 @@
+/*
+Questao 1
+
+projeto_numero = π pnumero (σ pnome = 'produtox' (projeto))
+trabalho_proj = trabalha_em ⨝ (pno = pnumero) projeto_numero
+trab_10h = σ horas > 10 trabalho_proj
+empregado_dep5 = σ (dno = 5) (empregado)
+π pnome (empregado_dep5 ⨝ ssn = essn trab_10h)
+*/
+
+
+/*
+Questao 2
+
+empregados_dependentes = σ dependente.nome_dependente = empregado.pnome (dependente ⨝ (dependente.essn = empregado.ssn) empregado)
+π pnome (empregados_dependentes)
+*/
+
+
+/*
+Questao 3
+
+empregado_frank = (σ (pnome = 'Frank') ρ empregado_frank (empregado))
+empregado_frank_superv = (empregado ⨝ (empregado_frank.ssn = empregado.superssn) empregado_frank)
+π empregado.pnome empregado_frank_superv
+*/
+
+/*
+Questao 4
+
+horas_por_projeto = γ pno; sum(horas) -> somatorio_horas (trabalha_em)
+π pnome, somatorio_horas (horas_por_projeto ⨝ (pno = pnumero) projeto)
+*/
+
+/*
+Questao 5
+
+empregados_trabalho = empregado ⨝ (trabalha_em.essn = empregado.ssn) trabalha_em
+π projeto.pnome, empregado.pnome (empregados_trabalho ⨝ (pno = pnumero) projeto)
+*/
+
+/*
+Questao 6
+
+empregados_trabalho = empregado ⨝ (trabalha_em.essn = empregado.ssn) trabalha_em
+empregados_em_algum_projeto = π empregado.pnome (empregados_trabalho ⨝ (pno = pnumero) projeto)
+todos_empregados = π pnome (empregado)
+π pnome (todos_empregados - empregados_em_algum_projeto)
+*/
+
+/*
+Questao 7
+
+empregados_dep = empregado ⨝ (dno = dnumero) departamento
+π dnome (γ dnome; avg(salario) -> media_salario (empregados_dep))
+*/
+
+/*
+Questao 8 (mas nao existe a coluna de sexo)
+
+π media_salario (γ avg(salario) -> media_salario (empregado))
+*/
+
+/*
+Questao 9 (mas nao existe endereco)
+
+houston_dnumero = π dnumero (σ (dlocalizacao = 'houston') (dept_localizacoes))
+houston_pnumero = π pnumero (σ (plocalizacao = 'houston') (projeto))
+empregado_trab = empregado ⨝ (essn = ssn) trabalha_em
+empregado_dep_proj = (empregado_trab ⨝ (pno = pnumero) houston_pnumero) ⨝ (dno != dnumero) houston_dnumero
+π empregado.pnome (empregado_dep_proj)
+*/
+
+/*
+Questao 10
+
+gerente_dep_ssn = π gerssn (departamento)
+gerente_dep = empregado ⨝ (ssn = gerssn) gerente_dep_ssn
+gerente_dep_com_depend = π pnome (gerente_dep ⨝ (essn = ssn) dependente)
+π pnome ((π pnome gerente_dep) - gerente_dep_com_depend)
+*/

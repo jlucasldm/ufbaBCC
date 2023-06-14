@@ -1,0 +1,6 @@
+ler_nome(N) :-
+write('Qual o seu nome?'),nl,
+read(N),nl,
+write('Tudo bem com você, '),
+write(N),
+write('?'),nl,nl.

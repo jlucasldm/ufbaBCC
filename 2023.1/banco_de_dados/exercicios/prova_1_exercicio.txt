@@ -1,0 +1,121 @@
+prova_1_exercicio
+1.c
+-----------------------------------------------
+create table Hotel(
+numHotel int primary key,
+nomeHotel varchar(45),
+cidade varchar(45));
+
+create table Quarto(
+numQuarto int not null,
+numHotel int not null,
+numTipo int not null,
+preco float,
+primary key (numQuarto, numHotel));
+
+create table Reserva (
+numReserva int primary key,
+numHotel int not null,
+numHospede int not null,
+dataInicio datetime,
+datafim datetime,
+numTipo int not null);
+
+create table Hospede(
+numHospede int primary key,
+nomeHospede varchar(45),
+enderecoHospede varchar(80));
+
+create table TipoQuarto (
+numTipo int primary key,
+descTipo varchar(45));
+
+alter table Quarto
+add foreign key fkHotel (numHotel)
+references Hotel(numHotel);
+
+alter table Quarto
+add foreign key fkTipo (numTipo)
+references TipoQuarto(numTipo);
+
+alter table Reserva
+add foreign key fkHotel (numHotel)
+references Hotel(numHotel);
+
+alter table Reserva
+add foreign key fkHospede (numHospede)
+references Hospede(numHospede);
+
+alter table Reserva
+add foreign key fkTipo (numTipo)
+references TipoQuarto(numTipo);
+
+-------------------------------------------------
+
+insert into Hotel values (1, 'Othon', 'Salvador');
+
+insert into TipoQuarto values (1, 'Suite Casal');
+
+insert into Quarto values (1, 1, 1, 230.00);
+
+insert into Hospede values (1, 'Laura', 'Rua do Limoeiro');
+
+insert into Reserva values (1, 1, 1, '2023-01-14', '2023-01-15', 1);
+
+select h.nomeHospede, q.numQuarto from Hospede h
+inner join Reserva r on h.numHospede = r.numHospede
+inner join Quarto q on r.numHotel = q.numHotel;
+
+
+////////////////////////////////////////////////
+
+2.
+T.A	T.B	U.C
+a	1	x
+a	1	y
+b	2	null
+
+A operação realizada foi (T) left-outer-join (U). Nesse caso, a operação irá retornar uma tabela contendo tuplas cujos todos valores das colunas de T poderão, ou não, possuir um valor associado em U através da condição do join T.B = U.B. Caso haja um valor dos valores da tupla a um U.C, esse valor é retornado. Caso contrário, a tabela exibe null
+////////////////////////////////////////////////
+
+3. create table Filial (
+numFIlial int primary key,
+rua varchar(45),
+cidade varchar(45),
+CEP varchar(8));
+
+create table Funcionario (
+numFuncionario int primary key,
+nome varchar(45),
+sobrenome varchar(45),
+função varchar(45),
+salario float,
+numFilial int);
+
+alter table Funcionario
+add foreign key fkFilial(numFilial)
+references Filial(numFilial);
+
+
+insert into Filial values (1, 'limoeiro', 'salvador', '40155812');
+insert into Filial values (2, 'barra', 'salvador', '77777777');
+insert into Filial values (3, 'plinio', 'camacari', '44555882');
+
+insert into Funcionario values (1, 'julia', 'sombra', 'advogada', 10000.00, 1);
+insert into Funcionario values (2, 'maria', 'clara', 'psicologa', 10000.00, 1);
+insert into Funcionario values (3, 'carol', 'bittencourt', 'estagiaria', 100.00, 2);
+insert into Funcionario values (4, 'carol', 'velanez', 'juiza', 2001.00, 1);
+
+select i.numFilial, count(*) as numFuncionarios, sum(
+  case 
+  	when u.salario > 2000.00 then
+		u.salario
+	else
+		null
+	end)
+from Filial i 
+inner join Funcionario u on u.numFilial = i.numFilial
+group by i.numFilial having count(*) > 1;
+
+
+b.
